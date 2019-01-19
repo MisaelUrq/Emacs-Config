@@ -1,0 +1,540 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Documentos/Tareas/19A/progra_internet/" . "tarea-html/")
+ ("c:/xampp/htdocs/" . "Blog-Dev/")
+ ("c:/xampp/" . "htdocs/")
+ ("c:/Documentos/Tareas/19A/bases_de_datos/" . "A01/")
+ ("c:/Documentos/Tareas/19A/" . "progra_internet/")
+ ("c:/xampp/htdocs/Blog-Dev/assets/" . "images/")
+ ("c:/xampp/htdocs/Blog-Dev/" . "assets/")
+ ("c:/tools/" . "cdbg/")
+ ("c:/Documentos/Projects/CProyectManager/test/" . "Test_1/")
+ ("c:/Documentos/Projects/CProyectManager/" . "src/")
+ ("c:/Documentos/Projects/Something/assets/" . "saves/")
+ ("c:/Documentos/Projects/TDS/" . "src/")
+ ("c:/Users/misae/Google Drive/" . "org/")
+ ("c:/Documentos/Others code/zeal/src/libs/ui/" . "widgets/")
+ ("c:/Documentos/Others code/zeal/src/libs/" . "ui/")
+ ("c:/Documentos/Others code/zeal/src/app/resources/icons/" . "logo/")
+ ("c:/Documentos/Others code/zeal/src/app/resources/browser/assets/" . "css/")
+ ("c:/Documentos/Others code/zeal/src/app/resources/browser/" . "assets/")
+ ("c:/Documentos/Others code/zeal/src/app/resources/" . "icons/")
+ ("c:/Documentos/Others code/zeal/src/app/" . "resources/")
+ ("c:/Documentos/Others code/zeal/src/" . "libs/")
+ ("c:/Documentos/Others code/zeal/" . "src/")
+ ("c:/Documentos/Others code/" . "zeal/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Haskell/" . "doc/")
+ ("c:/Documentos/Projects/RememberIt/dist-newstyle/" . "cache/")
+ ("c:/Documentos/Projects/Reference/HyperNerd/" . "src/")
+ ("c:/Documentos/Projects/RememberIt/" . "src/")
+ ("c:/Documentos/Projects/SomethingWithPower/src/com/urquieta/" . "somethingwithpower/")
+ ("c:/Documentos/Projects/SomethingWithPower/src/com/" . "urquieta/")
+ ("c:/Documentos/Projects/SomethingWithPower/src/" . "com/")
+ ("c:/Documentos/Projects/SomethingWithPower/res/" . "values/")
+ ("c:/Documentos/Projects/SomethingWithPower/" . "src/")
+ ("c:/Documentos/Projects/Reference/NDK_Android_code/Chapter2/" . "2_Box2D/")
+ ("c:/Documentos/Projects/Reference/NDK_Android_code/Chapter1/App1/src/com/packtpub/ndkcookbook/" . "app1/")
+ ("c:/Documentos/Projects/Reference/NDK_Android_code/Chapter1/App1/src/com/packtpub/" . "ndkcookbook/")
+ ("c:/Documentos/Projects/Reference/NDK_Android_code/Chapter1/App1/src/com/" . "packtpub/")
+ ("c:/Documentos/Projects/Reference/NDK_Android_code/Chapter1/App1/src/" . "com/")
+ ("c:/Documentos/Projects/Reference/NDK_Android_code/Chapter1/App1/res/" . "values/")
+ ("c:/Documentos/Projects/Reference/NDK_Android_code/Chapter1/App1/" . "src/")
+ ("c:/Documentos/Projects/Reference/NDK_Android_code/Chapter1/" . "Win_Min2/")
+ ("c:/Documentos/Projects/Reference/NDK_Android_code/" . "Chapter2/")
+ ("c:/Documentos/Projects/Reference/" . "HyperNerd/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Frameworks/GHC.framework/Versions/8.4.3-x86_64/usr/share/doc/ghc-8.4.3/html/libraries/" . "Cabal-2.2.0.1/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Frameworks/GHC.framework/Versions/8.4.3-x86_64/usr/share/doc/ghc-8.4.3/html/" . "libraries/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Frameworks/GHC.framework/Versions/8.4.3-x86_64/usr/share/doc/ghc-8.4.3/" . "html/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Frameworks/GHC.framework/Versions/8.4.3-x86_64/usr/share/doc/" . "ghc-8.4.3/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Frameworks/GHC.framework/Versions/8.4.3-x86_64/usr/share/" . "doc/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Frameworks/GHC.framework/Versions/8.4.3-x86_64/usr/" . "share/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Frameworks/GHC.framework/Versions/8.4.3-x86_64/" . "usr/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Frameworks/GHC.framework/Versions/" . "8.4.3-x86_64/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Frameworks/GHC.framework/" . "Versions/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Frameworks/" . "GHC.framework/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/" . "Haskell/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/" . "Library/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/" . "file/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/" . "Documents/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/" . "Resources/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/" . "Contents/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/" . "Haskell.docset/")
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/" . "docsets/")
+ ("c:/Users/misae/AppData/Local/Zeal/" . "Zeal/")
+ ("c:/Users/misae/AppData/Local/" . "Zeal/")
+ ("c:/Users/misae/quicklisp/dists/quicklisp/software/cl-sdl2-20181018-git/" . "src/")
+ ("c:/Users/misae/quicklisp/dists/quicklisp/software/" . "cl-sdl2-20181018-git/")
+ ("c:/Users/misae/quicklisp/dists/quicklisp/" . "software/")
+ ("c:/Users/misae/quicklisp/dists/" . "quicklisp/")
+ ("c:/Users/misae/quicklisp/" . "dists/")
+ ("c:/Documentos/Sandbox_lisp/" . "sandbox/")
+ ("c:/Documentos/Projects/Something/src/com/urquieta/something/game/" . "board/")
+ ("c:/Documentos/Projects/Something/src/com/urquieta/something/platform/" . "pc/")
+ ("c:/Documentos/Projects/Something/src/com/urquieta/something/" . "game/")
+ ("c:/Documentos/Projects/Something/src/com/urquieta/" . "something/")
+ ("c:/Documentos/Projects/Something/src/com/" . "urquieta/")
+ ("c:/Documentos/Projects/Something/src/" . "com/")
+ ("c:/Documentos/Projects/Something/" . "src/")
+ ("c:/Documentos/Projects/JADI/" . "src/")
+ ("c:/Documentos/Projects/" . "TDS/")
+ ("c:/Documentos/Projets/Something/gen/com/urquieta/" . "something/")
+ ("c:/Documentos/Projets/Something/gen/com/" . "urquieta/")
+ ("c:/Documentos/Projets/Something/gen/" . "com/")
+ ("c:/Documentos/Projets/JADI/env/" . "res/")
+ ("c:/Documentos/Projets/JADI/" . "env/")
+ ("c:/Documentos/Android/misc/reference/res/" . "values/")
+ ("c:/Documentos/Projets/Something/src/com/urquieta/something/platform/" . "pc/")
+ ("c:/Documentos/Projets/Something/src/com/urquieta/something/game/" . "ui/")
+ ("c:/Documentos/Projets/Something/src/com/urquieta/something/" . "game/")
+ ("c:/Documentos/Projets/Something/src/com/urquieta/" . "something/")
+ ("c:/Documentos/Projets/Something/src/com/" . "urquieta/")
+ ("c:/Documentos/Projets/Something/src/" . "com/")
+ ("c:/Documentos/Projets/Something/" . "src/")
+ ("c:/nothing/src/game/level/" . "player/")
+ ("c:/nothing/src/game/" . "level/")
+ ("c:/Documentos/Projets/CProyectManager/" . "src/")
+ ("c:/Documentos/Projets/" . "Something/")
+ ("c:/Documentos/DBFImporter/" . "src/")
+ ("c:/Android/android-sdk/build-tools/" . "28.0.3/")
+ ("c:/Documentos/Android/Something/gen/com/urquieta/" . "something/")
+ ("c:/Documentos/Android/Something/src/com/urquieta/something/game/" . "board/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/proyecto/Estructura_de_datos_II/Practicas/practica_7/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/proyecto/Estructura_de_datos_II/Practicas/practica_6/" . "bin/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/proyecto/Estructura_de_datos_II/Practicas/Practica_4/" . "bin/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/proyecto/Estructura_de_datos_II/Practicas/" . "practica_7/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/proyecto/Estructura_de_datos_II/proyecto_integrador/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/proyecto/Estructura_de_datos_II/" . "Practicas/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/proyecto/" . "Estructura_de_datos_II/")
+ ("f:/Estructura_de_datos_II/Practicas/Practica_2/" . "src/")
+ ("f:/Estructura_de_datos_II/Practicas/Practica_19/" . "src/")
+ ("f:/Estructura_de_datos_II/Practicas/Practica_1/" . "src/")
+ ("f:/Estructura_de_datos_II/Practicas/" . "Practica_2/")
+ ("f:/Estructura_de_datos_II/proyecto_integrador/" . "src/")
+ ("f:/Estructura_de_datos_II/" . "proyecto_integrador/")
+ ("f:/" . "Estructura_de_datos_II/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/practica_7/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/practica_7_Estatico/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_2/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_1/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_4/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/proyecto_integrador/" . "src/")
+ ("c:/Documentos/Android/Reference/gradle/" . "wrapper/")
+ ("c:/Documentos/Android/Reference/desktop/src/com/reference/game/" . "desktop/")
+ ("c:/Documentos/Android/Reference/desktop/src/com/reference/" . "game/")
+ ("c:/Documentos/Android/Reference/desktop/src/com/" . "reference/")
+ ("c:/Documentos/Android/Reference/desktop/src/" . "com/")
+ ("c:/Documentos/Android/Reference/desktop/" . "src/")
+ ("c:/Documentos/Android/Reference/core/src/com/reference/" . "game/")
+ ("c:/Documentos/Android/Reference/core/src/com/" . "reference/")
+ ("c:/Documentos/Android/Reference/core/src/" . "com/")
+ ("c:/Documentos/Android/Reference/core/" . "src/")
+ ("c:/Documentos/Android/Reference/" . "gradle/")
+ ("c:/Documentos/Tareas/2018B/Analisis_Contable/" . "producto_integrador/")
+ ("c:/Users/misae/OneDrive/Valeria/2018B/MAQUINAS ELECTRICAS/" . "Tarea 2 latex/")
+ ("c:/Users/misae/OneDrive/Valeria/2018B/" . "Plantilla Latex/")
+ ("c:/Users/misae/OneDrive/Valeria/" . "2018B/")
+ ("c:/Users/misae/OneDrive/" . "Valeria/")
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_5/" . "src/")
+ ("c:/Eclipse WorkSpace/GameProgramming/src/com/Misael/Game/" . "Input/")
+ ("c:/Eclipse WorkSpace/GameProgramming/src/com/Misael/" . "Game/")
+ ("c:/Eclipse WorkSpace/GameProgramming/src/com/" . "Misael/")
+ ("c:/Eclipse WorkSpace/GameProgramming/src/" . "com/")
+ ("c:/Eclipse WorkSpace/GameProgramming/" . "src/")
+ ("c:/Eclipse WorkSpace/" . "GameProgramming/")
+ ("c:/Documentos/ICAAV/" . "src/")
+ ("c:/Documentos/Android/Something/src/com/urquieta/something/platform/" . "android/")
+ ("c:/Documentos/Games/Something/src/main/java/com/urquieta/" . "something/")
+ ("c:/Documentos/Games/Something/src/main/java/com/" . "urquieta/")
+ ("c:/Documentos/Games/Something/src/main/java/" . "com/")
+ ("c:/Documentos/Games/Something/src/main/" . "res/")
+ ("c:/Documentos/Games/Something/src/androidTest/java/com/urquieta/" . "something/")
+ ("c:/Documentos/Games/Something/src/androidTest/java/com/" . "urquieta/")
+ ("c:/Documentos/Games/Something/src/androidTest/java/" . "com/")
+ ("c:/Documentos/Games/Something/src/androidTest/" . "java/")
+ ("c:/Documentos/Games/Something/src/" . "main/")
+ ("c:/Documentos/Games/Something/" . "src/")
+ ("c:/Documentos/Games/" . "Something/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/practica_5/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/practica_6/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica 1/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_18/" . "src/")
+ ("c:/Android/android-sdk/tools/" . "ant/")
+ ("c:/Android/android-sdk/" . "build-tools/")
+ ("c:/Android/" . "android-sdk/")
+ ("c:/Documentos/Android/Something/src_pc/com/urquieta/something/" . "platform/")
+ ("c:/Documentos/Android/Something/src_pc/com/urquieta/" . "something/")
+ ("c:/Documentos/Android/Something/src_pc/com/" . "urquieta/")
+ ("c:/Documentos/Android/Something/src_pc/" . "com/")
+ ("c:/Documentos/Android/Something/src/com/urquieta/something/" . "game/")
+ ("c:/Documentos/Android/Something/src/com/urquieta/" . "something/")
+ ("c:/Documentos/Android/misc/reference/src/com/kilobolt/framework/" . "implementation/")
+ ("c:/Documentos/Android/misc/reference/src/com/kilobolt/" . "framework/")
+ ("c:/Documentos/Android/misc/reference/src/com/" . "kilobolt/")
+ ("c:/Documentos/Android/misc/reference/src/" . "com/")
+ ("c:/Documentos/Android/misc/reference/" . "assets/")
+ ("c:/Documentos/Android/misc/" . "reference/")
+ ("c:/Documentos/Android/Something/bin/com/" . "urquieta/")
+ ("c:/Documentos/Android/Something/bin/" . "com/")
+ ("c:/Documentos/Tareas/2018A/Algoritmia/Proyecto/bin/" . "ConectorSQL/")
+ ("c:/Documentos/Android/Something/pc_src/com/" . "urquieta/")
+ ("c:/Documentos/Android/Something/pc_src/" . "com/")
+ ("c:/Documentos/Tareas/2018A/Algoritmia/Proyecto/src/" . "Main/")
+ ("c:/Documentos/Tareas/2018A/Algoritmia/Proyecto/" . "bin/")
+ ("c:/Documentos/Tareas/2018A/Algoritmia/" . "Tarea10/")
+ ("c:/Documentos/Tareas/2018A/" . "Algoritmia/")
+ ("c:/Documentos/Android/Something/gen/com/" . "urquieta/")
+ ("c:/Documentos/Android/Something/gen/" . "com/")
+ ("c:/Documentos/Android/Something/res/" . "layout/")
+ ("c:/Documentos/Android/Something/misc/reference/src/com/kilobolt/framework/" . "implementation/")
+ ("c:/Documentos/Android/Something/misc/reference/src/com/kilobolt/" . "framework/")
+ ("c:/Documentos/Android/Something/misc/reference/src/com/" . "kilobolt/")
+ ("c:/Documentos/Android/Something/misc/reference/src/" . "com/")
+ ("c:/Documentos/Android/Something/misc/reference/" . "src/")
+ ("c:/Documentos/Android/Something/misc/" . "reference/")
+ ("c:/Documentos/Android/Something/src/com/" . "urquieta/")
+ ("c:/Documentos/Android/Something/src/" . "com/")
+ ("c:/Documentos/Android/Something/app/src/main/java/com/something/urquieta/" . "something/")
+ ("c:/Documentos/Android/Something/app/src/main/java/com/something/" . "urquieta/")
+ ("c:/Documentos/Android/Something/app/src/main/java/com/" . "something/")
+ ("c:/Documentos/Android/Something/app/src/main/java/" . "com/")
+ ("c:/Documentos/Android/Something/app/src/main/" . "java/")
+ ("c:/Documentos/Android/Something/app/src/" . "main/")
+ ("c:/Documentos/Android/Something/app/" . "src/")
+ ("c:/Documentos/Android/Something/" . "src/")
+ ("c:/Documentos/Android/TestApp/misc/reference/src/com/kilobolt/framework/" . "implementation/")
+ ("c:/Documentos/Android/TestApp/misc/reference/src/com/kilobolt/" . "framework/")
+ ("c:/Documentos/Android/TestApp/misc/reference/src/com/" . "kilobolt/")
+ ("c:/Documentos/Android/TestApp/misc/reference/src/" . "com/")
+ ("c:/Documentos/Android/TestApp/misc/reference/res/" . "raw/")
+ ("c:/Documentos/Android/TestApp/misc/reference/bin/res/" . "drawable-hdpi/")
+ ("c:/Documentos/Android/TestApp/misc/reference/bin/" . "res/")
+ ("c:/Documentos/Android/TestApp/misc/reference/" . "src/")
+ ("c:/Documentos/Android/TestApp/misc/" . "reference/")
+ ("c:/Documentos/Android/TestApp/res/" . "values/")
+ ("c:/Documentos/Android/TestApp/src/com/" . "urquieta/")
+ ("c:/Documentos/Android/TestApp/src/" . "com/")
+ ("c:/Documentos/Android/TestApp/" . "misc/")
+ ("c:/Documentos/Android/App1/src/com/urquieta/" . "App1/")
+ ("c:/Documentos/Android/App1/src/com/" . "urquieta/")
+ ("c:/Documentos/Android/App1/src/" . "com/")
+ ("c:/Documentos/Android/App1/" . "libs/")
+ ("c:/Documentos/Android/auto/src/com/" . "urquieta/")
+ ("c:/Documentos/Android/auto/src/" . "com/")
+ ("c:/Documentos/Android/auto/" . "src/")
+ ("c:/Documentos/Android/" . "misc/")
+ ("w:/handmade/" . "code/")
+ ("w:/" . "handmade/")
+ ("x:/handmade/" . "code/")
+ ("x:/" . "handmade/")
+ ("c:/nothing/src/" . "game/")
+ ("c:/nothing/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_17/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_16/" . "src/")
+ ("c:/Documentos/Cpp_HashTable/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_15/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/" . "proyecto/")
+ ("c:/Documentos/Dummy/.vs/Dummy/v15/Server/" . "sqlite3/")
+ ("c:/Documentos/Dummy/.vs/Dummy/v15/" . "Server/")
+ ("c:/Documentos/Dummy/.vs/Dummy/" . "v15/")
+ ("c:/Documentos/Dummy/.vs/" . "Dummy/")
+ ("c:/Documentos/Dummy/" . "Dummy/")
+ ("c:/Documentos/ImportadorDBF/" . "bin/")
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_3/" . "src/")
+ ("c:/Users/misae/OneDrive/Valeria/2018B/refrigeracion/" . "src/")
+ ("c:/Users/misae/AppData/Roaming/" . "cabal/")
+ ("c:/Users/misae/AppData/" . "Local/")
+ ("c:/Users/misae/.emacs.d/.cache/omnisharp/server/" . "v1.32.6/")
+ ("c:/Users/misae/.emacs.d/.cache/omnisharp/" . "server/")
+ ("c:/Users/misae/.emacs.d/.cache/" . "omnisharp/")
+ ("c:/Users/misae/.emacs.d/elpa/" . "python-environment-20150310.853/")
+ ("c:/Users/misae/.emacs.d/" . "auto-save-list/")
+ ("c:/Documentos/python/" . "__pycache__/")
+ ("c:/Documentos/RustPlayground/virtual_machine/" . "src/")
+ ("c:/Documentos/RustPlayground/hola_mundo/" . "src/")
+ ("c:/Documentos/RustPlayground/" . "virtual_machine/")
+ ("c:/Documentos/CProyectManager/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/proyecto/" . "App/")
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/" . "Tarea_3/")
+ ("c:/Documentos/Tareas/2018B/" . "Seminario_De_Algoritmia/")
+ ("c:/Documentos/Tareas/" . "19A/")
+ ("c:/Documentos/" . "Tareas/")
+ ("c:/" . "Documentos/")
+ ("c:/Users/" . "misae/")
+ ("c:/Users/misae/" . ".emacs_config/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Documentos/Tareas/19A/progra_internet/tarea-html/"
+ "c:/xampp/htdocs/Blog-Dev/"
+ "c:/Documentos/Tareas/19A/bases_de_datos/A01/"
+ "c:/Documentos/Tareas/19A/seguridad/act_1.1/src/"
+ "c:/Users/misae/.emacs_config/"
+ "c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_3/src/"
+ "c:/Users/misae/OneDrive/Valeria/2018B/Plantilla Latex/"
+ "c:/Documentos/Projects/Something/"
+ "c:/Documentos/Projects/Something/src/com/urquieta/something/game/"
+ "c:/Documentos/Projects/TDS/src/"
+ "c:/Documentos/Projects/TDS/"
+ "c:/Documentos/Projects/Something/saves/"
+ "c:/Documentos/Projects/Something/src/com/urquieta/something/platform/pc/"
+ "c:/Documentos/Projects/Something/src/com/urquieta/something/platform/"
+ "c:/Documentos/Projects/Something/src/com/urquieta/something/game/board/"
+ "c:/Documentos/Projects/Something/src/com/urquieta/something/game/ui/"
+ "c:/Documentos/Projects/Something/src/com/urquieta/something/game/save/"
+ "c:/Documentos/Projects/Something/src/com/urquieta/something/output/"
+ "c:/Documentos/Projects/Misa-Web/"
+ "c:/Documentos/Projects/CProyectManager/src/"
+ "c:/Documentos/Projects/CProyectManager/"
+ "c:/Documentos/Projects/JADI/src/"
+ "c:/tools/cdbg/"
+ "c:/tools/cdbg/colors/"
+ "c:/Documentos/Projects/CProyectManager/test/Test_1/"
+ "c:/Documentos/Projects/Something/assets/saves/"
+ "c:/Users/misae/"
+ "c:/Documentos/Projects/Something/src/com/urquieta/something/game/util/"
+ "c:/Users/misae/Google Drive/org/"
+ "c:/Documentos/Projects/RememberIt/"
+ "c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Haskell/doc/"
+ "c:/Documentos/Projects/RememberIt/src/"
+ "c:/Documentos/Others code/zeal/src/libs/registry/"
+ "c:/Documentos/Others code/zeal/src/libs/ui/"
+ "c:/Documentos/Others code/zeal/src/libs/core/"
+ "c:/Documentos/Others code/zeal/src/libs/util/"
+ "c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/"
+ "c:/Documentos/Projects/RememberIt/dist-newstyle/cache/"
+ "c:/Documentos/Projects/Reference/HyperNerd/src/"
+ "c:/Documentos/Projects/Reference/HyperNerd/"
+ "c:/Documentos/Projects/Something/src/com/urquieta/something/"
+ "c:/Documentos/Projects/Something/dump/"
+ "c:/Documentos/Projects/Something/src/com/urquieta/something/platform/android/"
+ "c:/Users/misae/Downloads/"
+ "c:/Documentos/Sandbox_Haskell/"
+ "c:/Documentos/Projects/SomethingWithPower/src/com/urquieta/somethingwithpower/"
+ "c:/Documentos/Projects/SomethingWithPower/dump/"
+ "c:/Documentos/Projects/SomethingWithPower/jni/"
+ "c:/Documentos/Projects/SomethingWithPower/"
+ "c:/Documentos/Projects/SomethingWithPower/res/values/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "formulario.html"
+ "style.css"
+ "index.html"
+ "build.bat"
+ "A01.tex"
+ "act_1.1.tex"
+ "global.el"
+ "key_config.el"
+ "Tarea3.tex"
+ "formato_dos_columnas.tex"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Documentos/Tareas/19A/progra_internet/tarea-html/" (23618 28483 0 0) "index.html" "formulario.html" "../" "./")
+
+ ("c:/xampp/htdocs/Blog-Dev/" (23614 29538 0 0) "style.css" "README.md" "index.html" "assets/" ".git/" "../" "./")
+
+ ("c:/xampp/" (23229 3455 0 0) "xampp_stop.exe" "xampp_start.exe" "xampp_shell.bat" "xampp-control.log" "xampp-control.ini" "xampp-control.exe" "webdav/" "webalizer/" "uninstall.exe" "uninstall.dat" "tomcat/" "tmp/" "test_php.bat" "src/" "setup_xampp.bat" "service.exe" "sendmail/" "RELEASENOTES" "readme_en.txt" "readme_de.txt" "properties.ini" "phpMyAdmin/" "php/" "perl/" "passwords.txt" "mysql_stop.bat" "mysql_start.bat" "mysql/" "mercury_stop.bat" "mercury_start.bat" "MercuryMail/" "mailtodisk/" "mailoutput/" "locale/" "licenses/" "install/" "img/" "htdocs/" "filezilla_stop.bat" "filezilla_start.bat" "filezilla_setup.bat" "FileZillaFTP/" "ctlscript.bat" "contrib/" "cgi-bin/" "catalina_stop.bat" "catalina_start.bat" "catalina_service.bat" "apache_stop.bat" "apache_start.bat" "apache/" "anonymous/" "../" "./")
+
+ ("c:/Documentos/Tareas/19A/" (23618 24405 0 0) "seguridad/" "progra_internet/" "bases_de_datos/" "../" "./")
+
+ ("c:/Documentos/Tareas/19A/progra_internet/" (23618 24405 0 0) "tarea-html/" "../" "./")
+
+ ("c:/Documentos/Tareas/19A/seguridad/act_1.1/" (23618 21352 0 0) "src/" "log/" "bin/" "../" "./")
+
+ ("c:/Documentos/Tareas/19A/seguridad/act_1.1/src/" (23618 23792 0 0) "log/" "build.bat" "bin/" "act_1.1.tex" "../" "./")
+
+ ("c:/Documentos/Tareas/19A/seguridad/" (23618 20615 0 0) "act_1.1/" "../" "./")
+
+ ("c:/Users/misae/.emacs_config/" (23604 12817 0 0) "utils.el" "rust-mode.el" "projectile-config.el" "magit-config.el" "key_config.el" "helm-config.el" "global.el" "ggtags-config.el" "evil-config.el" "elisp-config.el" "csharp-mode.el" "csharp-config.el~" "csharp-config.el" "cppmode-config.el" "#main.cpp#" "../" "./")
+
+ ("c:/Documentos/Tareas/19A/bases_de_datos/A01/" (23618 19849 0 0) "log/" "build.bat" "bin/" "A01.tex" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_3/src/" (23422 11329 0 0) "Tarea3.tex" "build.bat" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_3/" (23421 28972 0 0) "src/" "log/" "bin/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018A/" (23164 52748 0 0) "TeoriaCompu/" "Algoritmia/" "../" "./")
+
+ ("c:/Documentos/Tareas/Imagenes/" (23547 22828 0 0) "tierra.jpeg" "Simbologia_Diagrama_Flujo.jpg" "Puertas_Logicas.png" "Puertas_Logicas.gif" "pseudocodigo.png" "manzanas_2.jpg" "manzanas_1.jpg" "grafo_final.png" "grafo.png" "Escudo_UdeG.png" "DiagraNS_Simbo.jpg" "Diagrama_Tiempo.PNG" "diagrama_flujo.png" "Diagrama_Edad.PNG" "diagrama_caso.jpeg" "diagrama_bloques.jpg" "DiagramaFacto.png" "Diagrama.PNG" "DiaEmacs.PNG" "DiaAgenda.PNG" "cotizacion.PNG" "Codigo_3.PNG" "Codigo_2.PNG" "Codigo_1.PNG" "app_2.jpeg" "app_1.jpeg" "../" "./")
+
+ ("c:/Users/misae/OneDrive/Valeria/2018B/Plantilla Latex/" (23427 7007 0 0) "formato_dos_columnas.tex" "build.bat" "biblio.bib" "../" "./")
+
+ ("c:/Users/misae/OneDrive/Valeria/2018B/" (23559 7816 0 0) "Subestaciones/" "reporte fil.pdf" "refrigeracion/" "Plantilla Latex/" "MAQUINAS ELECTRICAS/" "ING. CONTROL/" "Imagenes/" "AUTOMATIZACION/" "../" "./")
+
+ ("c:/Users/misae/OneDrive/Valeria/" (23514 992 0 0) "Termicas/" "Seminarios/" "Reporte de prácticaH2.docx" "Pago_64133844-2_889.pdf" "Matlab/" "Libros/" "kardex2018A.pdf" "COMPROBANTE DE ACTUALIZACIÓN DE DATOS.pdf" "CITA2018B.pdf" "Circuitos/" "2018B/" ".projectile" "../" "./")
+
+ ("c:/Users/misae/OneDrive/" (23580 11567 0 0) "Videos/" "Valeria/" "Imágenes/" "Documentos/" "desktop.ini" "Datos adjuntos/" "../" "./")
+
+ ("c:/Users/misae/" (23612 49929 0 0) "_viminfo" "_.swp" "_.swo" "vimfiles/" "Videos/" "source/" "SendTo/" "Searches/" "SDL2.dll" "Saved Games/" "Reciente/" "quicklisp/" "PycharmProjects/" "Plantillas/" "Pictures/" "PaceKeyChain" "OneDrive/" "odin-mode/" "ntuser.ini" "NTUSER.DAT{004ddc4f-63ba-11e8-93aa-005056c00001}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{004ddc4f-63ba-11e8-93aa-005056c00001}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{004ddc4f-63ba-11e8-93aa-005056c00001}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "Music/" "Mis documentos/" "MicrosoftEdgeBackups/" "Menú Inicio/" "Links/" "IntelGraphicsProfiles/" "Impresoras/" "ImagenCanal.jpeg" "grep" "Google Drive/" "go/" "Favorites/" "Entorno de red/" "EmacsConfig/" "eclipse/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Descargas/" "Datos de programa/" "Cookies/" "Contacts/" "Configuración local/" "Cisco Packet Tracer 6.2sv/" "AppData/" "AndroidStudioProjects/" "3D Objects/" ".vscode/" ".viminfo" ".tooling/" ".thumbnails/" ".ssh/" ".slime-history.eld" ".slime/" ".sbclrc" ".saves/" ".rustup/" ".QtWebEngineProcess/" ".pylint.d/" ".packettracer" ".p2/" ".omnisharp/" ".nuget/" ".multirust/" ".LINE/" ".keras/" ".irb_history" ".irbrc" ".history" ".gradle/" ".gnupg/" ".gitconfig" ".gimp-2.8/" ".emulator_console_auth_token" ".emacs~" ".emacs_themes/" ".emacs_config/" ".emacs.d/" ".emacs-custom.el" ".emacs" ".eclipse/" ".dotnet/" ".config/" ".conan/" ".CocosCreator/" ".cargo/" ".bash_history" ".AndroidStudio3.2/" ".AndroidStudio3.1/" ".AndroidStudio3.0/" ".android/" "..emacs.un~" "../" "./")
+
+ ("c:/Users/" (23613 17135 0 0) "TEMP/" "SQLTELEMETRY$SQLEXPRESS/" "SQLTELEMETRY/" "Public/" "MSSQLSERVER/" "MSSQL$SQLEXPRESS/" "misae/" "JOSEANGEL/" "desktop.ini" "Default.migrated/" "Default User/" "Default/" "All Users/" "Administrador.URQUIETINI/" "Administrador/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_5/src/" (23431 22615 0 0) "merge_sort.py" "main.cpp" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_5/" (23431 19568 0 0) "src/" "bin/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/" (23515 15238 0 0) "Tarea_5/" "tarea_4/" "Tarea_3/" "Tarea 2/" "Tarea 1/" "proyecto/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/" (23552 46427 0 0) "Sistemas ambientales/" "Seminario_De_Estructura_de_Datos_II/" "Seminario_De_Algoritmia/" "Hipermedia/" "Estructura_de_datos_II/" "Analisis_Contable/" "Administracion_de_redes/" "../" "./")
+
+ ("c:/Documentos/Tareas/" (23617 20626 0 0) "Libros/" "Imagenes/" "Entregable10-Firewall (1).docx" "Entregable09-VLAN.docx" "Entregable08-RouterInalambrico.docx" "Entregable06-SegmentacionConRouter.docx" "CitaBienevales2018B.pdf" "2018V/" "2018B/" "2018A/" "19A/" "../" "./")
+
+ ("c:/Documentos/Tareas/19A/bases_de_datos/" (23617 20651 0 0) "A01/" "../" "./")
+
+ ("c:/Documentos/Projects/Something/" (23616 45818 0 0) "switch_build.py" "src/" "saves/" "run.bat" "res/" "project.properties" "proguard-project.txt" "milton.mlt" "MANIFEST.MF" "local.properties" "libs/" "gen/" "dump/" "build.xml" "build.bat" "bin/" "assets/" "ant.properties" "AndroidManifest.xml" ".projectile" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Documentos/Projects/Something/src/com/urquieta/something/game/" (23616 44394 0 0) "util/" "ui/" "save/" "GameState.java" "GameObject.java" "Game.java" "board/" "../" "./")
+
+ ("c:/Documentos/Projects/Something/saves/" (23614 50349 0 0) "temp" "general" "../" "./")
+
+ ("c:/Documentos/Projects/TDS/src/" (23616 1689 0 0) "source_code.rs" "org.rs" "main.rs" "../" "./")
+
+ ("c:/Documentos/Projects/TDS/" (23616 1738 0 0) "_todo.org" "todo.org" "test.rs" "test/" "temp.txt" "target/" "src/" "Cargo.toml" "Cargo.lock" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Documentos/Projects/" (23614 16060 0 0) "TDS/" "SomethingWithPower/" "Something/" "Simple_and_Clean/" "RememberIt/" "Reference/" "PenguinPlayer/" "JADI/" "CProyectManager/" "../" "./")
+
+ ("c:/Documentos/Projects/Something/src/com/urquieta/something/game/board/" (23614 43122 0 0) "Wall.java" "Goals.java" "GameBoardObject.java" "GameBoard.java" "Circle.java" "../" "./")
+
+ ("c:/Documentos/Projects/Something/src/com/urquieta/something/platform/pc/" (23614 33522 0 0) "View.java" "PCSound.java" "PCScreen.java" "PCRenderer.java" "PCMusic.java" "PCInput.java" "PCAudio.java" "Context.java" "../" "./")
+
+ ("c:/Documentos/Projects/Something/src/com/urquieta/something/game/ui/" (23597 45012 0 0) "StartMenu.java" "DebugMenu.java" "Button.java" "../" "./")
+
+ ("c:/Documentos/Projects/Something/src/com/urquieta/something/game/save/" (23597 44769 0 0) "SaveState.java" "../" "./")
+
+ ("c:/Documentos/Projects/Something/src/com/urquieta/something/output/" (23594 44856 0 0) "OutputSystem.java" "../" "./")
+
+ ("c:/Documentos/Projects/Something/src/com/urquieta/something/" (23597 45748 0 0) "platform/" "PCMain.java" "output/" "MainActivity.java" "game/" "../" "./")
+
+ ("c:/xampp/htdocs/Blog-Dev/assets/images/" (23614 18706 0 0) "test_pinguin.jpeg" "../" "./")
+
+ ("c:/xampp/htdocs/Blog-Dev/assets/" (23614 18694 0 0) "test_view/" "images/" "../" "./")
+
+ ("c:/xampp/htdocs/" (23614 16071 0 0) "xampp/" "WebProjects/" "webalizer/" "WebAlgoritmia/" "index.php" "img/" "favicon.ico" "dashboard/" "Blog-Dev/" "bitnami.css" "applications.html" "../" "./")
+
+ ("c:/Documentos/Projects/Misa-Web/" (23614 13911 0 0) "index.html" "assets/" ".git/" "../" "./")
+
+ ("c:/Documentos/Projects/CProyectManager/src/" (23598 22434 0 0) "utils.cpp" "types.h" "token.h" "project_config.h" "project_config.cpp" "parser.h" "main.cpp" "lexer.h" "hashtable.h" "commands.h" "commands.cpp" "build.bat" "../" "./")
+
+ ("c:/Documentos/Projects/JADI/src/" (23600 6116 0 0) "Utils.cs" "SQL.cs" "Program.cs" "Polizas.cs" "MainWindow.cs" "DialogSQLInfo.cs" "DBF.cs" "Cuentas.cs" "build.bat" "AddAcountWindow.cs" "../" "./")
+
+ ("c:/tools/cdbg/" (23598 29433 0 0) "README.txt" "images/" "fonts/" "custom_code.dll" "colors/" "CHANGES.txt" "cdbg64.exe" "cdbg.config" "cdbg.bin" "cdbg - copia.bin" "../" "./")
+
+ ("c:/tools/" (23596 63247 0 0) "Tags/" "sublime/" "speedcrunch-0.12-win32/" "ruby25/" "php72/" "personal/" "odbg201/" "odbg110/" "mysql/" "mingw64/" "go/" "EdimCoder_x64_Windows.exe" "dnSpy/" "Cutter-v1.3-win64/" "cdbg/" "4coder/" "../" "./")
+
+ ("c:/tools/cdbg/colors/" (23598 27502 0 0) "vs_dark.colors" "handmade_hero.colors" "../" "./")
+
+ ("c:/Documentos/Projects/CProyectManager/test/Test_1/" (23598 19706 0 0) "src/" "obj/" "lib/" "bin/" ".project_config" "../" "./")
+
+ ("c:/Documentos/Projects/CProyectManager/test/" (23598 19677 0 0) "Test_1/" "../" "./")
+
+ ("c:/Documentos/Projects/CProyectManager/" (23598 19176 0 0) "test/" "src/" "bin/" ".projectile" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Documentos/Projects/Something/assets/saves/" (23597 41679 0 0) "temp" "general" "../" "./")
+
+ ("c:/Documentos/Projects/Something/assets/" (23594 45260 0 0) "saves/" "drop.wav" "collect.wav" "clear_color.wav" "button.wav" "background.wav" "../" "./")
+
+ ("c:/Documentos/" (23580 28843 0 0) "Videos/" "twitchbot/" "Test/" "Tareas/" "SourceCodeGitProyects/" "Sandbox_lisp/" "Sandbox_Haskell/" "RustPlayground/" "Projects/" "OverTheWire/" "Others code/" "Music ProTools/" "LaGlaDOS/" "ICAAV/" "HackerRank/" "gynvael_streams/" "crackmes/" "Chili DirectX Framework/" "C-C++_PlayGround/" "Android/" "3ds/" "../" "./")
+
+ ("c:/Documentos/Projects/Something/src/com/urquieta/something/game/util/" (23583 842 0 0) "Vec2.java" "../" "./")
+
+ ("c:/Users/misae/Google Drive/org/" (23312 16778 0 0) "handmade.org" "escuela.org" "agenda.org" "../" "./")
+
+ ("c:/Users/misae/Google Drive/" (23518 29707 0 0) "sheet books/" "Redes/" "Perfect Two.mp3" "Para leer/" "org/" "Office/" "lic_div_012012.pdf" "Libros de Escuela/" "Libros/" "Guides/" "guia_para_examen.pdf" "Escudo_UdeG.png" "emacs/" "desktop.ini" "Classroom/" "auto/" "AUD-20160421-WA0000" "../" "./")
+
+ ("c:/Documentos/Projects/Something/src/com/urquieta/" (23531 38249 0 0) "something/" "../" "./")
+
+ ("c:/Documentos/Projects/Something/src/com/" (23531 38249 0 0) "urquieta/" "../" "./")
+
+ ("c:/Documentos/Projects/Something/src/" (23531 38249 0 0) "com/" "../" "./")
+
+ ("c:/Documentos/Projects/RememberIt/src/" (23590 33194 0 0) "ReadJson.hs" "Main.hs" "../" "./")
+
+ ("c:/Documentos/LaGlaDOS/" (23229 30741 0 0) "private/" "LaGlaDOS/" "../" "./")
+
+ ("c:/Users/misae/AppData/Local/" (23590 23531 0 0) "Zeal/" "WhatsApp/" "VMware/" "Vivaldi/" "VisualGDB/" "VirtualStore/" "VideoEditor/" "Unity/" "TileDataLayer/" "Thunderbird/" "Temp/" "SquirrelTemp/" "SqlServer/" "Silverlake Software LLC/" "ServiceHub/" "recently-used.xbel" "qBittorrent/" "Publishers/" "ProjectPokémon/" "Programs/" "PowerWorld/" "Pokki/" "PlaceholderTileLogoFolder/" "pip/" "PDFCreator/" "PackageStaging/" "Packages/" "PackageManagement/" "Package Cache/" "PaceAP/" "PACE/" "NuGet/" "NetworkTiles/" "National Instruments/" "MuseScore/" "Mozilla/" "Movavi/" "MotionBox/" "MiKTeX/" "Microsoft_Corporation/" "MicrosoftEdge/" "Microsoft/" "MegaDownloader/" "MathWorks/" "LINE/" "LG Electronics/" "kritarc" "kritadisplayrc" "karboncalligraphyrc" "IconCache.db" "Historial/" "Hewlett-Packard/" "Google/" "go-build/" "GitHubDesktop/" "gegl-0.2/" "fontconfig/" "Evernote/" "emaildefaults" "ElevatedDiagnostics/" "Eclipse/" "Dropbox/" "DOSBox/" "dnSpy/" "Discord/" "Diagnostics/" "Deployment/" "DBG/" "Datos de programa/" "D3DSCache/" "CyberLink/" "Cutter/" "ConnectedDevicesPlatform/" "Comms/" "clink/" "ChocolateyGUI/" "Chocolatey GUI/" "Chocolatey/" "CEF/" "cache/" "build/" "bin/" "Avid Technology/" "Avid/" "assembly/" "ASP.NET/" "Archivos temporales de Internet/" "Apps/" "Apple Computer/" "Apple/" "Amazon/" "Adobe/" ".IdentityService/" "../" "./")
+
+ ("c:/Documentos/Projects/RememberIt/" (23589 48191 0 0) "src/" "Setup.hs" "RememberIt.cabal" "LICENSE" "dist-newstyle/" "dist/" "ChangeLog.md" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/libs/util/" (23569 16773 0 0) "version.h" "version.cpp" "sqlitedatabase.h" "sqlitedatabase.cpp" "plist.h" "plist.cpp" "CMakeLists.txt" "caseinsensitivemap.h" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/libs/ui/" (23569 16773 0 0) "widgets/" "webbridge.h" "webbridge.cpp" "settingsdialog.ui" "settingsdialog.h" "settingsdialog.cpp" "searchitemdelegate.h" "searchitemdelegate.cpp" "qxtglobalshortcut/" "progressitemdelegate.h" "progressitemdelegate.cpp" "mainwindow.ui" "mainwindow.h" "mainwindow.cpp" "docsetsdialog.ui" "docsetsdialog.h" "docsetsdialog.cpp" "docsetlistitemdelegate.h" "docsetlistitemdelegate.cpp" "CMakeLists.txt" "aboutdialog.ui" "aboutdialog.h" "aboutdialog.cpp" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/libs/ui/widgets/" (23569 16773 0 0) "webviewtab.h" "webviewtab.cpp" "webview.h" "webview.cpp" "toolbarframe.h" "toolbarframe.cpp" "shortcutedit.h" "shortcutedit.cpp" "searchtoolbar.h" "searchtoolbar.cpp" "searchedit.h" "searchedit.cpp" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/libs/registry/" (23569 16773 0 0) "searchresult.h" "searchquery.h" "searchquery.cpp" "searchmodel.h" "searchmodel.cpp" "listmodel.h" "listmodel.cpp" "itemdatarole.h" "docsetregistry.h" "docsetregistry.cpp" "docsetmetadata.h" "docsetmetadata.cpp" "docset.h" "docset.cpp" "CMakeLists.txt" "cancellationtoken.h" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/libs/core/" (23569 16773 0 0) "settings.h" "settings.cpp" "networkaccessmanager.h" "networkaccessmanager.cpp" "filemanager.h" "filemanager.cpp" "extractor.h" "extractor.cpp" "CMakeLists.txt" "applicationsingleton.h" "applicationsingleton.cpp" "application.h" "application.cpp" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/libs/" (23569 16773 0 0) "util/" "ui/" "registry/" "core/" "CMakeLists.txt" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/app/resources/icons/logo/" (23569 16773 0 0) "icon@2x.png" "icon.png" "64x64.png" "128x128.png" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/app/resources/icons/" (23569 16773 0 0) "type/" "logo/" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/app/resources/browser/assets/css/" (23569 16773 0 0) "welcome.min.css" "highlight.css" "fontawesome.min.css" "fa-solid.min.css" "fa-brands.min.css" "darkmode.css" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/app/resources/browser/assets/" (23569 16773 0 0) "fonts/" "css/" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/app/resources/browser/" (23569 16773 0 0) "welcome.html" "welcome-noad.html" "assets/" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/app/resources/" (23569 16773 0 0) "zeal.qrc" "zeal.ico" "zeal.icns" "icons/" "browser/" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/app/" (23569 16773 0 0) "versioninfo.rc.in" "resources/" "main.cpp" "CMakeLists.txt" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/src/" (23569 16773 0 0) "libs/" "CMakeLists.txt" "app/" "../" "./")
+
+ ("c:/Documentos/Others code/zeal/" (23569 16773 0 0) "src/" "README.md" "COPYING" "CMakeLists.txt" "cmake/" "CHANGELOG.md" "assets/" ".gitignore" ".github/" ".gitattributes" ".git/" ".editorconfig" ".appveyor.yml" "../" "./")
+
+ ("c:/Documentos/Others code/" (23573 37666 0 0) "zeal/" "GDB/" "emacs/" "../" "./")
+
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Haskell/doc/" (23517 59287 0 0) "transformers-0.5.5.0/" "time-1.8.0.2/" "terminfo-0.4.1.1/" "template-haskell-2.13.0.0/" "synopsis.png" "start.html" "quick-jump.css" "process-1.6.3.0/" "plus.gif" "ocean.css" "minus.gif" "index.html" "hslogo-16.png" "haddock-bundle.min.js" "ghci-8.4.3/" "ghc-doc/" "ghc-boot-th-8.4.3/" "ghc-boot-8.4.3/" "ghc-api/" "GET.html" "fuse.js" "doc-index.html" "doc-index-Z.html" "doc-index-Y.html" "doc-index-X.html" "doc-index-W.html" "doc-index-V.html" "doc-index-U.html" "doc-index-T.html" "doc-index-S.html" "doc-index-R.html" "doc-index-Q.html" "doc-index-P.html" "doc-index-O.html" "doc-index-N.html" "doc-index-M.html" "doc-index-L.html" "doc-index-K.html" "doc-index-J.html" "doc-index-I.html" "doc-index-H.html" "doc-index-G.html" "doc-index-F.html" "doc-index-E.html" "doc-index-D.html" "doc-index-C.html" "doc-index-B.html" "doc-index-All.html" "doc-index-A.html" "doc-index-95.html" "doc-index-94.html" "doc-index-92.html" "doc-index-64.html" "doc-index-63.html" "doc-index-62.html" "doc-index-61.html" "doc-index-60.html" "doc-index-58.html" "doc-index-47.html" "doc-index-46.html" "doc-index-45.html" "doc-index-43.html" "doc-index-42.html" "doc-index-38.html" "doc-index-37.html" "doc-index-36.html" "doc-index-35.html" "doc-index-33.html" "doc-index-126.html" "doc-index-124.html" "directory-1.3.1.5/" "deepseq-1.4.3.0/" "containers-0.5.11.0/" "bytestring-0.10.8.2/" "binary-0.8.5.1/" "base-4.11.1.0/" "array-0.5.2.0/" "../" "./")
+
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/Resources/Documents/file/Library/Haskell/" (23517 59225 0 0) "ghc-8.4.3-x86_64/" "doc/" "../" "./")
+
+ ("c:/Users/misae/AppData/Local/Zeal/Zeal/docsets/Haskell.docset/Contents/" (23589 43944 0 0) "Resources/" "Info.plist" "../" "./")
+
+ ("c:/Users/misae/AppData/" (23310 4661 0 0) "roamming/" "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/Documentos/Projects/RememberIt/dist-newstyle/cache/" (23584 8448 0 0) "config" "../" "./")
+
+ ("c:/Documentos/Projects/RememberIt/dist-newstyle/" (23584 8448 0 0) "cache/" "../" "./")
+
+ ("c:/Documentos/Projects/Reference/HyperNerd/src/" (23589 40808 0 0) "Main.hs" "Bot.hs" "../" "./")
+
+ ("c:/Documentos/Projects/Reference/HyperNerd/" (23589 40645 0 0) "tsoder2.cabal" "stack.yaml" "src/" "Setup.hs" "Notes.org" "LICENSE" "default.nix" "ChangeLog.md" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Documentos/Projects/Reference/" (23589 40251 0 0) "NDK_Android_code/" "HyperNerd/" "../" "./")
+
+ ("c:/Documentos/Projects/Something/src/com/urquieta/something/platform/android/" (23585 22126 0 0) "AndroidSound.java" "AndroidScreen.java" "AndroidRenderer.java" "AndroidMusic.java" "AndroidInput.java" "AndroidAudio.java" "../" "./")
+
+ ("c:/Documentos/Projects/Something/src/com/urquieta/something/platform/" (23577 25219 0 0) "Sound.java" "Screen.java" "Renderer.java" "pc/" "Music.java" "InputEvent.java" "Input.java" "Audio.java" "android/" "../" "./")
+
+ ("c:/Users/misae/Downloads/" (23585 12267 0 0) "zonokai-theme-source-code.el" "weyland-yutani-theme-source-code.el" "TrabajosSMM.jpeg" "Torrent/" "Thumbs.db" "Tareas.docx" "Tareas (1).docx" "tarea1.m" "T.7.docx" "T.5.docx" "T.4.docx" "T.3.docx" "Refri.xlsx" "rdassistant.application" "Practica4.docx" "practica3.docx" "Practica2.docx" "PRACTICA1.docx" "practica de los anillos.ct" "practica de los anillos.bak" "platformerGraphicsDeluxe_Updated.zip" "Máquinas Eléctricas y Transformadores Bhag S. Guru.pdf" "Máquinas Eléctricas - Jesus Fraile Mora libro.pdf" "My CV.pdf" "multisim 13/" "Modelo-Cuentas-para-Libros-Contables.doc" "MegaDownloader/" "MATLAB R2017a/" "Maquinas Eléctricas-Chapman-5ta-edición.pdf" "jhoson.tif" "INVERSOR.ct" "INVERSOR.bak" "gdx-setup.jar" "Formato de reporte FIL 2018.docx" "forgers-win32-tutorial-source/" "fluidsim_pneu_45d_034.iso" "fluidsim_hyd_45d_034.iso" "fluidsim-4-2-es-win.exe" "fasmw172/" "Elementos de Electromagnetismo - 3ra Edición - Matthew N. O. Sadiku.PDF" "desktop.ini" "deep-thought-theme-source-code.el" "CV.pdf" "cv-sin-experiencia.docx" "CONTADOR BINARIO.ct" "CONTADOR BINARIO.bak" "caracteristicas de documento final.jpg" "blue-mood-theme-source-code.el" "apeiron-standalone-2.94.exe" "alect-themes-source-code.el" "ABC ABC.ct" "ABC ABC.bak" "ABC ABC P.ct" "28827069_948783491954618_7293808947029285313_o.jpg" "010EditorWin64Installer801.exe" "../" "./")
+
+ ("c:/Documentos/Sandbox_Haskell/" (23582 31013 0 0) "read_json.hs" "hello.hs" "../" "./")
+
+ ("c:/Documentos/Projects/SomethingWithPower/src/com/urquieta/somethingwithpower/" (23584 5424 0 0) "MainActivity.java" "../" "./")
+
+ ("c:/Documentos/Projects/SomethingWithPower/dump/" (23584 5617 0 0) "dump.txt" "../" "./")
+
+ ("c:/Documentos/Projects/SomethingWithPower/" (23584 5615 0 0) "src/" "res/" "project.properties" "obj/" "libs/" "jni/" "gen/" "dump/" "build.xml" "build.bat" "bin/" "AndroidManifest.xml" "../" "./")
+
+ ("c:/Documentos/Projects/SomethingWithPower/jni/" (23584 4960 0 0) "Wrappers.cpp" "Application.mk" "Android.mk" "../" "./")
+
+ ("c:/Documentos/Projects/SomethingWithPower/res/drawable/" (23584 2147 0 0) "icon.png" "../" "./")
+
+ ("c:/Documentos/Projects/SomethingWithPower/src/com/urquieta/" (23584 2512 0 0) "somethingwithpower/" "../" "./")
+
+ ("c:/Documentos/Projects/SomethingWithPower/src/com/" (23584 2525 0 0) "urquieta/" "../" "./")
+
+ ("c:/Documentos/Projects/SomethingWithPower/src/com/packtpub/" (23584 2147 0 0) "ndkcookbook/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

@@ -1,0 +1,424 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_4/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/proyecto_integrador/" . "src/")
+ ("c:/Documentos/Android/Reference/gradle/" . "wrapper/")
+ ("c:/Documentos/Android/Reference/desktop/src/com/reference/game/" . "desktop/")
+ ("c:/Documentos/Android/Reference/desktop/src/com/reference/" . "game/")
+ ("c:/Documentos/Android/Reference/desktop/src/com/" . "reference/")
+ ("c:/Documentos/Android/Reference/desktop/src/" . "com/")
+ ("c:/Documentos/Android/Reference/desktop/" . "src/")
+ ("c:/Documentos/Android/Reference/core/src/com/reference/" . "game/")
+ ("c:/Documentos/Android/Reference/core/src/com/" . "reference/")
+ ("c:/Documentos/Android/Reference/core/src/" . "com/")
+ ("c:/Documentos/Android/Reference/core/" . "src/")
+ ("c:/Documentos/Android/Reference/" . "gradle/")
+ ("c:/Documentos/Tareas/2018B/Analisis_Contable/" . "producto_integrador/")
+ ("c:/Users/misae/OneDrive/Valeria/2018B/MAQUINAS ELECTRICAS/" . "Tarea 2 latex/")
+ ("c:/Users/misae/OneDrive/Valeria/2018B/" . "MAQUINAS ELECTRICAS/")
+ ("c:/Users/misae/OneDrive/Valeria/" . "2018B/")
+ ("c:/Users/misae/OneDrive/" . "Valeria/")
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_5/" . "src/")
+ ("c:/Eclipse WorkSpace/GameProgramming/src/com/Misael/Game/" . "Input/")
+ ("c:/Eclipse WorkSpace/GameProgramming/src/com/Misael/" . "Game/")
+ ("c:/Eclipse WorkSpace/GameProgramming/src/com/" . "Misael/")
+ ("c:/Eclipse WorkSpace/GameProgramming/src/" . "com/")
+ ("c:/Eclipse WorkSpace/GameProgramming/" . "src/")
+ ("c:/Eclipse WorkSpace/" . "GameProgramming/")
+ ("c:/Documentos/ICAAV/" . "src/")
+ ("c:/Documentos/Android/Something/src/com/urquieta/something/platform/" . "android/")
+ ("c:/Documentos/Games/Something/src/main/java/com/urquieta/" . "something/")
+ ("c:/Documentos/Games/Something/src/main/java/com/" . "urquieta/")
+ ("c:/Documentos/Games/Something/src/main/java/" . "com/")
+ ("c:/Documentos/Games/Something/src/main/" . "res/")
+ ("c:/Documentos/Games/Something/src/androidTest/java/com/urquieta/" . "something/")
+ ("c:/Documentos/Games/Something/src/androidTest/java/com/" . "urquieta/")
+ ("c:/Documentos/Games/Something/src/androidTest/java/" . "com/")
+ ("c:/Documentos/Games/Something/src/androidTest/" . "java/")
+ ("c:/Documentos/Games/Something/src/" . "main/")
+ ("c:/Documentos/Games/Something/" . "src/")
+ ("c:/Documentos/Games/" . "Something/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/practica_5/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/practica_6/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica 1/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_18/" . "src/")
+ ("c:/Android/android-sdk/tools/" . "ant/")
+ ("c:/Android/android-sdk/" . "tools/")
+ ("c:/Android/" . "android-sdk/")
+ ("c:/Documentos/Android/Something/src_pc/com/urquieta/something/" . "platform/")
+ ("c:/Documentos/Android/Something/src_pc/com/urquieta/" . "something/")
+ ("c:/Documentos/Android/Something/src_pc/com/" . "urquieta/")
+ ("c:/Documentos/Android/Something/src_pc/" . "com/")
+ ("c:/Documentos/Android/Something/src/com/urquieta/something/" . "platform/")
+ ("c:/Documentos/Android/Something/src/com/urquieta/" . "something/")
+ ("c:/Documentos/Android/misc/reference/src/com/kilobolt/framework/" . "implementation/")
+ ("c:/Documentos/Android/misc/reference/src/com/kilobolt/" . "framework/")
+ ("c:/Documentos/Android/misc/reference/src/com/" . "kilobolt/")
+ ("c:/Documentos/Android/misc/reference/src/" . "com/")
+ ("c:/Documentos/Android/misc/reference/" . "src/")
+ ("c:/Documentos/Android/misc/" . "reference/")
+ ("c:/Documentos/Android/Something/bin/com/" . "urquieta/")
+ ("c:/Documentos/Android/Something/bin/" . "com/")
+ ("c:/Documentos/Tareas/2018A/Algoritmia/Proyecto/bin/" . "ConectorSQL/")
+ ("c:/Documentos/Android/Something/pc_src/com/" . "urquieta/")
+ ("c:/Documentos/Android/Something/pc_src/" . "com/")
+ ("c:/Documentos/Tareas/2018A/Algoritmia/Proyecto/src/" . "Main/")
+ ("c:/Documentos/Tareas/2018A/Algoritmia/Proyecto/" . "bin/")
+ ("c:/Documentos/Tareas/2018A/Algoritmia/" . "Tarea10/")
+ ("c:/Documentos/Tareas/2018A/" . "Algoritmia/")
+ ("c:/Documentos/Android/Something/gen/com/" . "urquieta/")
+ ("c:/Documentos/Android/Something/gen/" . "com/")
+ ("c:/Documentos/Android/Something/res/" . "layout/")
+ ("c:/Documentos/Android/Something/misc/reference/src/com/kilobolt/framework/" . "implementation/")
+ ("c:/Documentos/Android/Something/misc/reference/src/com/kilobolt/" . "framework/")
+ ("c:/Documentos/Android/Something/misc/reference/src/com/" . "kilobolt/")
+ ("c:/Documentos/Android/Something/misc/reference/src/" . "com/")
+ ("c:/Documentos/Android/Something/misc/reference/" . "src/")
+ ("c:/Documentos/Android/Something/misc/" . "reference/")
+ ("c:/Documentos/Android/Something/src/com/" . "urquieta/")
+ ("c:/Documentos/Android/Something/src/" . "com/")
+ ("c:/Documentos/Android/Something/app/src/main/java/com/something/urquieta/" . "something/")
+ ("c:/Documentos/Android/Something/app/src/main/java/com/something/" . "urquieta/")
+ ("c:/Documentos/Android/Something/app/src/main/java/com/" . "something/")
+ ("c:/Documentos/Android/Something/app/src/main/java/" . "com/")
+ ("c:/Documentos/Android/Something/app/src/main/" . "java/")
+ ("c:/Documentos/Android/Something/app/src/" . "main/")
+ ("c:/Documentos/Android/Something/app/" . "src/")
+ ("c:/Documentos/Android/Something/" . "src/")
+ ("c:/Documentos/Android/TestApp/misc/reference/src/com/kilobolt/framework/" . "implementation/")
+ ("c:/Documentos/Android/TestApp/misc/reference/src/com/kilobolt/" . "framework/")
+ ("c:/Documentos/Android/TestApp/misc/reference/src/com/" . "kilobolt/")
+ ("c:/Documentos/Android/TestApp/misc/reference/src/" . "com/")
+ ("c:/Documentos/Android/TestApp/misc/reference/res/" . "raw/")
+ ("c:/Documentos/Android/TestApp/misc/reference/bin/res/" . "drawable-hdpi/")
+ ("c:/Documentos/Android/TestApp/misc/reference/bin/" . "res/")
+ ("c:/Documentos/Android/TestApp/misc/reference/" . "src/")
+ ("c:/Documentos/Android/TestApp/misc/" . "reference/")
+ ("c:/Documentos/Android/TestApp/res/" . "values/")
+ ("c:/Documentos/Android/TestApp/src/com/" . "urquieta/")
+ ("c:/Documentos/Android/TestApp/src/" . "com/")
+ ("c:/Documentos/Android/TestApp/" . "misc/")
+ ("c:/Documentos/Android/App1/src/com/urquieta/" . "App1/")
+ ("c:/Documentos/Android/App1/src/com/" . "urquieta/")
+ ("c:/Documentos/Android/App1/src/" . "com/")
+ ("c:/Documentos/Android/App1/" . "libs/")
+ ("c:/Documentos/Android/auto/src/com/" . "urquieta/")
+ ("c:/Documentos/Android/auto/src/" . "com/")
+ ("c:/Documentos/Android/auto/" . "src/")
+ ("c:/Documentos/Android/" . "misc/")
+ ("w:/handmade/" . "code/")
+ ("w:/" . "handmade/")
+ ("x:/handmade/" . "code/")
+ ("x:/" . "handmade/")
+ ("c:/nothing/src/" . "sdl/")
+ ("c:/nothing/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_17/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_16/" . "src/")
+ ("c:/Documentos/Cpp_HashTable/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_15/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/" . "Practica_4/")
+ ("c:/Documentos/Dummy/.vs/Dummy/v15/Server/" . "sqlite3/")
+ ("c:/Documentos/Dummy/.vs/Dummy/v15/" . "Server/")
+ ("c:/Documentos/Dummy/.vs/Dummy/" . "v15/")
+ ("c:/Documentos/Dummy/.vs/" . "Dummy/")
+ ("c:/Documentos/Dummy/" . "Dummy/")
+ ("c:/Documentos/ImportadorDBF/" . "bin/")
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_3/" . "src/")
+ ("c:/Users/misae/OneDrive/Valeria/2018B/refrigeracion/" . "src/")
+ ("c:/Users/misae/AppData/Roaming/" . ".emacs.d/")
+ ("c:/Users/misae/AppData/" . "Roaming/")
+ ("c:/Users/misae/.emacs.d/.cache/omnisharp/server/" . "v1.32.6/")
+ ("c:/Users/misae/.emacs.d/.cache/omnisharp/" . "server/")
+ ("c:/Users/misae/.emacs.d/.cache/" . "omnisharp/")
+ ("c:/Users/misae/.emacs.d/elpa/" . "python-environment-20150310.853/")
+ ("c:/Users/misae/.emacs.d/" . "auto-save-list/")
+ ("c:/Documentos/python/" . "__pycache__/")
+ ("c:/Documentos/RustPlayground/virtual_machine/" . "src/")
+ ("c:/Documentos/RustPlayground/hola_mundo/" . "src/")
+ ("c:/Documentos/RustPlayground/" . "virtual_machine/")
+ ("c:/Documentos/CProyectManager/" . "src/")
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/proyecto/" . "App/")
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/" . "proyecto/")
+ ("c:/Documentos/Tareas/2018B/" . "Estructura_de_datos_II/")
+ ("c:/Documentos/Tareas/" . "2018B/")
+ ("c:/Documentos/" . "Tareas/")
+ ("c:/" . "Documentos/")
+ ("c:/Users/" . "misae/")
+ ("c:/Users/misae/" . "OneDrive/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Documentos/Tareas/2018B/Estructura_de_datos_II/proyecto_integrador/src/"
+ "c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_4/src/"
+ "c:/Documentos/Android/Something/src/com/urquieta/something/platform/android/"
+ "c:/Documentos/Android/Something/src/com/urquieta/something/platform/"
+ "c:/Documentos/Android/Something/src/com/urquieta/something/"
+ "c:/Eclipse WorkSpace/GameProgramming/src/com/Misael/Game/"
+ "c:/Documentos/Android/Something/src/com/urquieta/something/platform/pc/"
+ "c:/Eclipse WorkSpace/GameProgramming/src/com/Misael/Game/Input/"
+ "c:/Documentos/Android/Something/"
+ "c:/Documentos/Android/Something/src/com/urquieta/something/game/"
+ "c:/Documentos/Android/misc/reference/src/com/kilobolt/framework/implementation/"
+ "c:/Documentos/Android/misc/reference/src/com/kilobolt/framework/"
+ "c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_18/src/"
+ "c:/Documentos/Tareas/2018B/Sistemas ambientales/src/"
+ "c:/Documentos/Tareas/2018B/Analisis_Contable/producto_integrador/"
+ "c:/Documentos/Tareas/2018A/Algoritmia/Tarea10/"
+ "c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/proyecto/App/"
+ "c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_18/"
+ "c:/Documentos/Tareas/2018A/Algoritmia/Proyecto/"
+ "c:/Android/android-sdk/tools/ant/"
+ "c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_3/src/"
+ "c:/Users/misae/OneDrive/Valeria/2018B/MAQUINAS ELECTRICAS/Tarea 2 latex/"
+ "c:/Documentos/Android/Something/src_pc/com/urquieta/something/"
+ "c:/Documentos/Android/Something/src_pc/com/urquieta/something/platform/pc/"
+ "c:/Eclipse WorkSpace/GameProgramming/src/com/Misael/Game/Graphics/"
+ "c:/Documentos/Android/Something/src_pc/com/urquieta/something/platform/"
+ "c:/Documentos/Android/Something/src_pc/com/urquieta/something/game/"
+ "c:/Documentos/DBFImporter/src/"
+ "c:/Documentos/ICAAV/src/"
+ "c:/Documentos/DBFImporter/"
+ "c:/Documentos/Games/Something/src/main/"
+ "c:/Documentos/Games/Something/src/main/java/com/urquieta/something/"
+ "c:/Documentos/Games/Something/src/androidTest/java/com/urquieta/something/"
+ "c:/Documentos/Tareas/2018B/Estructura_de_datos_II/practica_5/src/"
+ "c:/Documentos/Tareas/2018B/Estructura_de_datos_II/practica_6/src/"
+ "c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_17/src/"
+ "c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica 1/src/"
+ "c:/Documentos/Android/Something/src/com/urquieta/something/game/engine/"
+ "c:/Documentos/Android/Something/src/com/urquieta/something/Game/"
+ "c:/Documentos/Android/Something_2/"
+ "c:/Documentos/Android/misc/reference/src/com/kilobolt/robotgame/"
+ "c:/Documentos/Android/Something/src/com/urquieta/"
+ "c:/Documentos/Android/Something/pc_src/com/urquieta/"
+ "c:/Documentos/Android/Something/misc/reference/src/com/kilobolt/framework/"
+ "c:/Documentos/Android/Something/misc/reference/src/com/kilobolt/framework/implementation/"
+ "c:/Documentos/Android/Something/res/layout/"
+ "c:/Documentos/Android/Something/gen/com/urquieta/"
+ "c:/Documentos/Android/Something/gen/"
+ "c:/Documentos/Android/Something/jni/"
+ "c:/Documentos/Android/Something/res/values/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "build.bat"
+ "main.cpp"
+ "AndroidInput.java"
+ "AndroidScreen.java"
+ "Screen.java"
+ "Renderer.java"
+ "AndroidRenderer.java"
+ "Input.java"
+ "PCMain.java"
+ "InputEvent.java"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/proyecto_integrador/src/" (23556 22796 0 0) "vc140.pdb" "main.cpp" "common.h" "build.bat" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_4/src/" (23439 62941 0 0) "types.h" "main.cpp" "build.bat" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_4/" (23440 18378 0 0) "yei" "vale" "t3" "t2" "t1.txt" "t1" "src/" "puntajes.txt" "misael.txt" "bin/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/proyecto_integrador/" (23556 19870 0 0) "src/" "misael" "canciones.txt" "bin/" ".proyect_config" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/" (23554 4506 0 0) "proyecto_integrador/" "practica_6 Estatico/" "practica_6/" "practica_5/" "Practica_4/" "Practica_3/" "Practica_2/" "Practica_18/" "Practica_17/" "Practica_16/" "Practica_15/" "Practica_1/" "Practica17.7z" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/" (23552 46427 0 0) "Sistemas ambientales/" "Seminario_De_Estructura_de_Datos_II/" "Seminario_De_Algoritmia/" "Hipermedia/" "Estructura_de_datos_II/" "Analisis_Contable/" "Administracion_de_redes/" "../" "./")
+
+ ("c:/Users/misae/" (23554 5173 0 0) "_viminfo" "_.swp" "_.swo" "vimfiles/" "Videos/" "source/" "SendTo/" "Searches/" "Saved Games/" "Reciente/" "PycharmProjects/" "Plantillas/" "Pictures/" "PaceKeyChain" "OneDrive/" "ntuser.ini" "NTUSER.DAT{004ddc4f-63ba-11e8-93aa-005056c00001}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{004ddc4f-63ba-11e8-93aa-005056c00001}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{004ddc4f-63ba-11e8-93aa-005056c00001}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "Music/" "Mis documentos/" "MicrosoftEdgeBackups/" "Menú Inicio/" "Links/" "IntelGraphicsProfiles/" "Impresoras/" "ImagenCanal.jpeg" "grep" "Google Drive/" "go/" "Favorites/" "Entorno de red/" "eclipse/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Descargas/" "Datos de programa/" "Cookies/" "Contacts/" "Configuración local/" "Cisco Packet Tracer 6.2sv/" "AppData/" "AndroidStudioProjects/" "3D Objects/" ".vscode/" ".viminfo" ".tooling/" ".thumbnails/" ".ssh/" ".saves/" ".rustup/" ".QtWebEngineProcess/" ".pylint.d/" ".packettracer" ".p2/" ".omnisharp/" ".nuget/" ".multirust/" ".LINE/" ".keras/" ".irb_history" ".irbrc" ".history" ".gradle/" ".gnupg/" ".gitconfig" ".gimp-2.8/" ".emulator_console_auth_token" ".emacs_config/" ".emacs.old" ".emacs.d.old/" ".emacs.d/" ".emacs-custom.el" ".emacs" ".eclipse/" ".dotnet/" ".config/" ".conan/" ".CocosCreator/" ".cargo/" ".bash_history" ".AndroidStudio3.2/" ".AndroidStudio3.1/" ".AndroidStudio3.0/" ".android/" "#.emacs.old#" "../" "./")
+
+ ("c:/Documentos/Android/Something/src/com/urquieta/something/platform/" (23552 52574 0 0) "Screen.java" "Renderer.java" "pc/" "InputEvent.java" "Input.java" "android/" ".#Renderer.java" "../" "./")
+
+ ("c:/Documentos/Android/Something/src/com/urquieta/something/" (23552 51928 0 0) "platform/" "PCMain.java" "MainActivity.java" "game/" "../" "./")
+
+ ("c:/Documentos/Android/Something/src/com/urquieta/something/platform/android/" (23552 50041 0 0) "AndroidScreen.java" "AndroidRenderer.java" "AndroidInput.java" "../" "./")
+
+ ("c:/Documentos/Android/Something/" (23552 48571 0 0) "switch_build.py" "src/" "res/" "project.properties" "proguard-project.txt" "MANIFEST.MF" "local.properties" "libs/" "gen/" "dump/" "build.xml" "build.bat" "bin/" "ant.properties" "AndroidManifest.xml" ".projectile" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Documentos/Android/Something/src/com/urquieta/something/game/" (23550 6654 0 0) "Game.java" "../" "./")
+
+ ("c:/Documentos/Android/Something/src/com/urquieta/something/platform/pc/" (23552 46464 0 0) "View.java" "PCScreen.java" "PCRenderer.java" "PCInput.java" "Context.java" "../" "./")
+
+ ("c:/Eclipse WorkSpace/GameProgramming/src/com/Misael/Game/Input/" (23117 34179 0 0) "Input.java" "../" "./")
+
+ ("c:/Eclipse WorkSpace/GameProgramming/src/com/Misael/Game/" (23538 17306 0 0) "Input/" "Graphics/" "Game.java" "Game.class" "../" "./")
+
+ ("c:/Documentos/Android/" (23531 38249 0 0) "Temp/" "Something_2/" "Something/" "Reference/" "misc/" "kiloboltgame_-_day_2/" ".metadata/" "../" "./")
+
+ ("c:/Documentos/Android/Something/src/" (23531 38249 0 0) "com/" "../" "./")
+
+ ("c:/Documentos/Android/Something/src/com/" (23531 38249 0 0) "urquieta/" "../" "./")
+
+ ("c:/Documentos/Android/Something/src/com/urquieta/" (23531 38249 0 0) "something/" "../" "./")
+
+ ("c:/Documentos/Android/misc/reference/src/com/kilobolt/framework/implementation/" (23528 65487 0 0) "TouchHandler.java" "SingleTouchHandler.java" "MultiTouchHandler.java" "AndroidSound.java" "AndroidMusic.java" "AndroidInput.java" "AndroidImage.java" "AndroidGraphics.java" "AndroidGame.java" "AndroidFileIO.java" "AndroidFastRenderView.java" "AndroidAudio.java" "../" "./")
+
+ ("c:/Documentos/Android/misc/reference/src/com/kilobolt/framework/" (23528 48652 0 0) "Sound.java" "Screen.java" "Pool.java" "Music.java" "Input.java" "implementation/" "Image.java" "Graphics.java" "Game.java" "FileIO.java" "Audio.java" "../" "./")
+
+ ("c:/Documentos/Android/misc/reference/src/com/kilobolt/" (23528 48652 0 0) "robotgame/" "framework/" "../" "./")
+
+ ("c:/Documentos/Android/misc/reference/src/com/" (23528 48652 0 0) "kilobolt/" "../" "./")
+
+ ("c:/Documentos/Android/misc/reference/src/" (23528 48652 0 0) "com/" "../" "./")
+
+ ("c:/Documentos/Android/misc/reference/" (23528 48653 0 0) "src/" "res/" "project.properties" "proguard-project.txt" "libs/" "gen/" "bin/" "assets/" "AndroidManifest.xml" ".settings/" ".project" ".classpath" "../" "./")
+
+ ("c:/Documentos/Android/misc/" (23528 62596 0 0) "reference/" "platformer_background_4/" "platformer_background_3/" "platformer_background_2.png" "platformer_background_2/" "platformer_background_1.png" "platformer_background_1/" "forest.png" "castle.png" "BG/" "battleback9.png" "battleback8.png" "battleback7.png" "battleback6.png" "battleback5.png" "battleback4.png" "battleback3.png" "battleback2.png" "battleback10.png" "battleback1.png" "../" "./")
+
+ ("c:/Documentos/Android/Reference/gradle/wrapper/" (23529 64290 0 0) "gradle-wrapper.properties" "gradle-wrapper.jar" "../" "./")
+
+ ("c:/Documentos/Android/Reference/gradle/" (23529 64290 0 0) "wrapper/" "../" "./")
+
+ ("c:/Documentos/Android/Reference/desktop/src/com/reference/game/desktop/" (23529 64290 0 0) "DesktopLauncher.java" "../" "./")
+
+ ("c:/Documentos/Android/Reference/desktop/src/com/reference/game/" (23529 64290 0 0) "desktop/" "../" "./")
+
+ ("c:/Documentos/Android/Reference/desktop/src/com/reference/" (23529 64290 0 0) "game/" "../" "./")
+
+ ("c:/Documentos/Android/Reference/desktop/src/com/" (23529 64290 0 0) "reference/" "../" "./")
+
+ ("c:/Documentos/Android/Reference/desktop/src/" (23529 64290 0 0) "com/" "../" "./")
+
+ ("c:/Documentos/Android/Reference/desktop/" (23529 64290 0 0) "src/" "build.gradle" "../" "./")
+
+ ("c:/Documentos/Android/Reference/core/src/com/reference/game/" (23529 64290 0 0) "GameMain.java" "../" "./")
+
+ ("c:/Documentos/Android/Reference/core/src/com/reference/" (23529 64290 0 0) "game/" "../" "./")
+
+ ("c:/Documentos/Android/Reference/core/src/com/" (23529 64290 0 0) "reference/" "../" "./")
+
+ ("c:/Documentos/Android/Reference/core/src/" (23529 64290 0 0) "GameMain.gwt.xml" "com/" "../" "./")
+
+ ("c:/Documentos/Android/Reference/core/" (23529 64290 0 0) "src/" "build.gradle" "../" "./")
+
+ ("c:/Documentos/Android/Reference/" (23529 64539 0 0) "settings.gradle" "local.properties" "html/" "gradlew.bat" "gradlew" "gradle.properties" "gradle/" "desktop/" "core/" "build.gradle" "android/" ".gradle/" ".gitignore" "../" "./")
+
+ ("c:/Documentos/Android/Something/res/" (23531 38249 0 0) "values/" "layout/" "drawable-xhdpi/" "drawable-mdpi/" "drawable-ldpi/" "drawable-hdpi/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_18/src/" (23543 31680 0 0) "main.cpp" "lista.h" "huffman.h" "generador_ids.h" "generador_ids.cpp" "common.h" "cancion.h" "cancion.cpp" "build.bat" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Sistemas ambientales/src/" (23541 57129 0 0) "filtracion.tex" "build.bat" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Analisis_Contable/producto_integrador/" (23539 62819 0 0) "log/" "documento.tex" "build.bat" "bin/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018A/Algoritmia/Tarea10/" (23446 49607 0 0) "tarea10.tex" "build.bat" "build/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Sistemas ambientales/" (23541 56795 0 0) "src/" "15TRATAMIENTOS DE AGUAS RESIDUALES.pdf" "14 IMPORTANCIA DEL AGUA.pdf" "13 IMPORTANCIA DEL SUELO Y ACUIFEROS.pdf" "12 NOM-087, RPBI's.pdf" "11 NOM-052-SEMARNAT-2005.pdf" "10 RESIDUOS Y CONTAMINACIÓN DEL SUELO.pdf" "09 BOSQUEJO HISTORICO RS, RELLENO SANITARIO.pdf" "../" "./")
+
+ ("c:/Documentos/Tareas/" (23540 54204 0 0) "Libros/" "Imagenes/" "Entregable10-Firewall (1).docx" "Entregable09-VLAN.docx" "Entregable08-RouterInalambrico.docx" "Entregable06-SegmentacionConRouter.docx" "CitaBienevales2018B.pdf" "2018V/" "2018B/" "2018A/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/Practica_18/" (23540 8186 0 0) "src/" "obj/" "lib/" "canciones.txt" "bin/" ".proyect_config" ".git/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018A/Algoritmia/Proyecto/" (23316 8041 0 0) "src/" "run.bat" "README.md" "proyectoalgoritmia.sql" "MANIFEST.MF" "jars/" "build.bat" "bin/" "appBuild.bat" ".git/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018A/Algoritmia/" (23316 8037 0 0) "tarea11/" "Tarea10/" "Tarea09/" "Tarea08/" "Tarea07/" "Tarea06/" "Tarea05/" "Tarea04/" "Tarea03/" "Tarea02/" "Tarea01/" "seminario_ARMIDA.xlsx" "Proyecto/" "Investigacion01/" "Imagenes/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018A/" (23164 52748 0 0) "TeoriaCompu/" "Algoritmia/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/proyecto/App/" (23523 42799 0 0) "Timer.cs" "seminario_algoritmiaDataSet1.xss" "seminario_algoritmiaDataSet1.xsd" "seminario_algoritmiaDataSet1.xsc" "seminario_algoritmiaDataSet.xss" "seminario_algoritmiaDataSet.xsd" "seminario_algoritmiaDataSet.xsc" "SearchForm.resx" "SearchForm.Designer.cs" "SearchForm.cs" "Properties/" "Program.cs" "PriotityQueue.cs" "obj/" "MySQL.cs" "Main_Form.resx" "Main_Form.Designer.cs" "Main_Form.cs" "Graph.cs" "Form1.resx" "Form1.Designer.cs" "Form1.cs" "DisplayMessage.cs" "Connected Services/" "bin/" "ArbolBinario.cs" "AppTable.cs" "App.sln" "App.csproj" "App.config" ".vs/" "../" "./")
+
+ ("c:/Android/android-sdk/tools/ant/" (23539 24652 0 0) "uibuild.xml" "NOTICE" "build.xml" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Analisis_Contable/" (23539 6850 0 0) "producto_integrador/" "Cuentas.tex" "Cuentas.pdf" "Cuentas.org" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_3/src/" (23422 11329 0 0) "Tarea3.tex" "build.bat" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_3/" (23421 28972 0 0) "src/" "log/" "bin/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/proyecto/" (23521 63377 0 0) "seminario_ARMIDA.xlsx" "seminario_algoritmia.sql" "Reportes/" "App.7z" "App/" ".projectile" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Users/misae/OneDrive/Valeria/2018B/MAQUINAS ELECTRICAS/Tarea 2 latex/" (23522 7056 0 0) "Tarea_2.tex" "Tarea_2.synctex.gz" "Tarea_2.run.xml" "Tarea_2.pdf" "Tarea_2.bcf" "Tarea 2.code-workspace" "Tarea 2 latex.7z" "biblio.bib" "../" "./")
+
+ ("c:/Users/misae/OneDrive/Valeria/2018B/MAQUINAS ELECTRICAS/" (23504 32789 0 0) "Tarea 2 latex/" "Tarea 1 latex/" "DSC_0141.JPG" "circutor_SGE-QNA500_serie_user_manual.pdf" "circutor_SGE-QNA500_serie_instalacion.pdf" "armonicos.docx" "../" "./")
+
+ ("c:/Users/misae/OneDrive/Valeria/2018B/" (23522 2768 0 0) "Subestaciones/" "refrigeracion/" "Plantilla Latex/" "MAQUINAS ELECTRICAS/" "ING. CONTROL/" "Imagenes/" "AUTOMATIZACION/" "../" "./")
+
+ ("c:/Users/misae/OneDrive/Valeria/" (23514 992 0 0) "Termicas/" "Seminarios/" "Reporte de prácticaH2.docx" "Pago_64133844-2_889.pdf" "Matlab/" "Libros/" "kardex2018A.pdf" "COMPROBANTE DE ACTUALIZACIÓN DE DATOS.pdf" "CITA2018B.pdf" "Circuitos/" "2018B/" ".projectile" "../" "./")
+
+ ("c:/Users/misae/OneDrive/" (23533 64687 0 0) "Videos/" "Valeria/" "Imágenes/" "Documentos/" "desktop.ini" "Datos adjuntos/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_5/src/" (23431 22615 0 0) "merge_sort.py" "main.cpp" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_5/" (23431 19568 0 0) "src/" "bin/" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/" (23515 15238 0 0) "Tarea_5/" "tarea_4/" "Tarea_3/" "Tarea 2/" "Tarea 1/" "proyecto/" "../" "./")
+
+ ("c:/Users/" (23359 38679 0 0) "SQLTELEMETRY$SQLEXPRESS/" "SQLTELEMETRY/" "Public/" "MSSQLSERVER/" "MSSQL$SQLEXPRESS/" "misae/" "JOSEANGEL/" "desktop.ini" "Default.migrated/" "Default User/" "Default/" "All Users/" "Administrador.URQUIETINI/" "Administrador/" "../" "./")
+
+ ("c:/Android/android-sdk/" (23536 57786 0 0) "tools/" "temp/" "system-images/" "sources/" "platforms/" "platform-tools/" "patcher/" "ndk-bundle/" "licenses/" "fonts/" "extras/" "emulator/" "build-tools/" ".knownPackages" "../" "./")
+
+ ("c:/Android/" (23536 57786 0 0) "tools_/" "SDK-ant/" "android-sdk/" ".knownPackages" "../" "./")
+
+ ("c:/Documentos/Android/Something/src_pc/com/urquieta/something/" (23538 16272 0 0) "platform/" "MainActivity.java" "MainActivity.class" "game/" ".#Context.java" "../" "./")
+
+ ("c:/Documentos/Android/Something/src_pc/com/urquieta/something/platform/" (23538 16260 0 0) "Screen.java" "Renderer.java" "pc/" "../" "./")
+
+ ("c:/Documentos/Android/Something/src_pc/com/urquieta/something/platform/pc/" (23538 15454 0 0) "PCScreen.java" ".#PCScreen.java" "../" "./")
+
+ ("c:/Eclipse WorkSpace/GameProgramming/src/com/Misael/Game/Graphics/" (23117 35480 0 0) "SpriteSheet.java" "Screen.java" "../" "./")
+
+ ("c:/Eclipse WorkSpace/GameProgramming/src/com/Misael/" (23105 22080 0 0) "Game/" "../" "./")
+
+ ("c:/Eclipse WorkSpace/GameProgramming/src/com/" (23104 37324 0 0) "Misael/" "../" "./")
+
+ ("c:/Eclipse WorkSpace/GameProgramming/src/" (23104 37324 0 0) "com/" "../" "./")
+
+ ("c:/Eclipse WorkSpace/GameProgramming/" (23117 35419 0 0) "src/" "res/" "bin/" ".settings/" ".project" ".classpath" "../" "./")
+
+ ("c:/Eclipse WorkSpace/" (23227 63938 0 0) "Tmp/" "Servers/" "GameProgramming/" ".recommenders/" ".metadata/" "../" "./")
+
+ ("c:/code/" (23427 22484 0 0) "../" "./")
+
+ ("c:/Documentos/Games/" (23536 60333 0 0) "../" "./")
+
+ ("c:/Games/" (23080 32446 0 0) "Kingdom Rush Collection/" "../" "./")
+
+ ("c:/Documentos/Android/Something/src_pc/com/urquieta/something/game/" (23538 14623 0 0) "Game.java" "../" "./")
+
+ ("c:/Documentos/DBFImporter/src/" (23537 44773 0 0) "Program.cs" "MainWindow.Designer.cs" "MainWindow.cs" "Importer.cs" "../" "./")
+
+ ("c:/Documentos/ICAAV/src/" (23443 15178 0 0) "Win32main.h" "Win32main.cpp" "types.h" "sql.h" "sql.cpp" "polizas.h" "polizas.cpp" "main.h" "main.cpp" "dbf.h" "dbf.cpp" "Cuentas.h" "Cuentas.cpp" "console.cpp" "build.bat" "../" "./")
+
+ ("c:/Documentos/ICAAV/" (23465 36594 0 0) "userEnv/" "TAREA 8-9 AUTO.docx" "src/" "res/" "Pago_64133844-2_889.pdf" "Orden de pago UdeG 2018B.pdf" "lib/" "info/" "include/" "Icaav data/" "help/" "GTAGS" "GRTAGS" "GPATH" "Doc1.docx" "DATA/" "bin/" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Documentos/DBFImporter/" (23537 40805 0 0) "src/" "res/" "Properties/" "obj/" "DBFImporter.sln" "DBFImporter.csproj" "bin/" "app.config" ".vs/" ".gitignore" ".gitattributes" ".git/" "../" "./")
+
+ ("c:/Documentos/" (23537 38436 0 0) "Videos/" "twitchbot/" "Tareas/" "SourceCodeGitProyects/" "Simple_and_Clean/" "RustPlayground/" "OverTheWire/" "Music ProTools/" "LaGlaDOS/" "ICAAV/" "HackerRank/" "gynvael_streams/" "Games/" "DBFImporter/" "crackmes/" "CProyectManager/" "Chili DirectX Framework/" "C-C++_PlayGround/" "Android/" "3ds/" "../" "./")
+
+ ("c:/Documentos/Games/Something/src/main/res/" (23536 58095 0 0) "values/" "layout/" "drawable-xhdpi/" "drawable-mdpi/" "drawable-ldpi/" "drawable-hdpi/" "../" "./")
+
+ ("c:/Documentos/Games/Something/src/main/java/com/urquieta/something/" (23536 58095 0 0) "MainActivity.java" "../" "./")
+
+ ("c:/Documentos/Games/Something/src/main/java/com/urquieta/" (23536 58095 0 0) "something/" "../" "./")
+
+ ("c:/Documentos/Games/Something/src/main/java/com/" (23536 58095 0 0) "urquieta/" "../" "./")
+
+ ("c:/Documentos/Games/Something/src/main/java/" (23536 58095 0 0) "com/" "../" "./")
+
+ ("c:/Documentos/Games/Something/src/main/" (23536 58095 0 0) "res/" "java/" "AndroidManifest.xml" "../" "./")
+
+ ("c:/Documentos/Games/Something/src/androidTest/java/com/urquieta/something/" (23536 58095 0 0) "MainActivityTest.java" "../" "./")
+
+ ("c:/Documentos/Games/Something/src/androidTest/java/com/urquieta/" (23536 58095 0 0) "something/" "../" "./")
+
+ ("c:/Documentos/Games/Something/src/androidTest/java/com/" (23536 58095 0 0) "urquieta/" "../" "./")
+
+ ("c:/Documentos/Games/Something/src/androidTest/java/" (23536 58095 0 0) "com/" "../" "./")
+
+ ("c:/Documentos/Games/Something/src/androidTest/" (23536 58095 0 0) "java/" "../" "./")
+
+ ("c:/Documentos/Games/Something/src/" (23536 58095 0 0) "main/" "androidTest/" "../" "./")
+
+ ("c:/Documentos/Games/Something/" (23536 58096 0 0) "src/" "local.properties" "gradlew.bat" "gradlew" "gradle/" "build.gradle" "../" "./")
+
+ ("c:/Documentos/Tareas/2018B/Estructura_de_datos_II/practica_5/src/" (23534 18143 0 0) "utils.hpp" "utils.cpp" "types.h" "profesor.hpp" "profesor.cpp" "main.cpp" "lista.hpp" "lista.cpp" "build.bat" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
