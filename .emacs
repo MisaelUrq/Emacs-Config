@@ -14,6 +14,8 @@
 (load "~/.emacs_config/projectile-config.el")
 (load "~/.emacs_config/magit-config.el")
 (load "~/.emacs_config/rust-mode.el")
+(load "~/.emacs_config/html-config.el")
+(load "~/.emacs_config/elisp-config.el")
 
 (setq custom-file "~/.emacs-custom.el")
 (load "~/odin-mode/odin-mode")
