@@ -1,0 +1,1 @@
+dists/quicklisp/software/cepl-release-quicklisp-1a611a91-git/cepl.asd

@@ -1,0 +1,1 @@
+dists/quicklisp/software/cepl.skitter-release-quicklisp-f52b9240-git/cepl.skitter.glop.asd

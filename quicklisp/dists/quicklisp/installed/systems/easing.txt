@@ -1,0 +1,1 @@
+dists/quicklisp/software/easing-20180228-git/easing.asd

@@ -1,0 +1,1 @@
+dists/quicklisp/software/skitter-release-quicklisp-620772ae-git/skitter.asd

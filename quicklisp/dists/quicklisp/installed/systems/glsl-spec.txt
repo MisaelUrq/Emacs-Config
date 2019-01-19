@@ -1,0 +1,1 @@
+dists/quicklisp/software/glsl-spec-release-quicklisp-aa105d44-git/glsl-spec.asd

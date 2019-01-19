@@ -1,0 +1,1 @@
+dists/quicklisp/software/livesupport-release-quicklisp-00889dc6-git/
