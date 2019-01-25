@@ -49,6 +49,8 @@
             (define-key c++-mode-map (kbd "C-c c") 'c-insert-case)
             (define-key c++-mode-map (kbd "C-c n") 'c-down-conditional-with-else)
             (define-key c++-mode-map (kbd "C-c a") 'c-beginning-of-defun)
+            (define-key c++-mode-map (kbd "C-x c i") 'helm-semantic-or-imenu)
+            (define-key c++-mode-map (kbd "C-x c I") 'helm-imenu-in-all-buffers)
             (define-key c++-mode-map (kbd "C-c e") 'c-end-of-defun)))
 
 (add-hook 'c-mode-hook
@@ -56,4 +58,6 @@
             (define-key c-mode-map (kbd "C-c c") 'c-insert-case)
             (define-key c-mode-map (kbd "C-c n") 'c-down-conditional-with-else)
             (define-key c-mode-map (kbd "C-c a") 'c-beginning-of-defun)
+            (define-key c-mode-map (kbd "C-x c i") 'helm-semantic-or-imenu)
+            (define-key c-mode-map (kbd "C-x c I") 'helm-imenu-in-all-buffers)
             (define-key c-mode-map (kbd "C-c e") 'c-end-of-defun)))

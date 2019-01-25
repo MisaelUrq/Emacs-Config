@@ -17,7 +17,7 @@
 (load "~/.emacs_config/html-config.el")
 (load "~/.emacs_config/elisp-config.el")
 (load "~/.emacs_config/cppmode-config.el")
-
+(load "~/.emacs_config/csharp-config.el")
 
 (setq custom-file "~/.emacs-custom.el")
 (load "~/odin-mode/odin-mode")
