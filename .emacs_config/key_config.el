@@ -8,6 +8,7 @@
 (define-key global-map  (kbd "C-c d h") 'neotree-hide)
 (define-key global-map (kbd "<tab>") 'dabbrev-expand)
 (define-key minibuffer-local-map (kbd "<tab>") 'minibuffer-complete)
+(define-key minibuffer-local-map (kbd "<S-tab>") 'dabbrev-expand)
 (define-key global-map (kbd "<C-tab>") 'indent-region)
 (define-key global-map (kbd "<C-S-tab>") 'indent-for-tab-command)
 (define-key global-map (kbd "<S-tab>") 'indent-for-tab-command)

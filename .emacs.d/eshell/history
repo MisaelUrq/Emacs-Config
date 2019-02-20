@@ -85,3 +85,7 @@ asd
 (defun toggle-frame-border ()  ((if (frame-parameter (car (frame-list)) 'undecorated)       (set-frame-parameter 'undecorated nil)     (set-frame-parameter 'undecorated t))))
 (toggle-frame-border)
 (defun toggle-frame-border ()  ((if (frame-parameter (car (frame-list)) 'undecorated) t       (set-frame-parameter 'undecorated nil)     (set-frame-parameter 'undecorated t))))
+sbcl --load quicklisp.lisp 
+cd c:/Documentos/Projects/
+sbcl 
+ls

@@ -26,10 +26,13 @@
 ;;   (golden-ratio-adjust 0.8)
 ;;   (golden-ratio-mode 1))
 
+(move-text-default-bindings)
+
 (add-to-list 'default-frame-alist '(font . "Liberation Mono-9"))
 (set-face-attribute 'default t :font "Liberation Mono-9")
 
 (make-face 'font-lock-fixme-face)
+(make-face 'font-lock-to_do-face)
 (make-face 'font-lock-note-face)
 (make-face 'font-lock-important-face)
 (make-face 'font-lock-study-face)
@@ -40,11 +43,12 @@
 	   ("\\<\\(NOTE\\)" 1 'font-lock-note-face t)
 	   ("\\<\\(IMPORTANT\\)" 1 'font-lock-important-face t)
 	   ("\\<\\(STUDY\\)" 1 'font-lock-study-face t)
-	   )
+	   ("\\<\\(TO_DO\\)" 1 'font-lock-to_do-face t))
 	 nil))
       fixme-modes)
 
 (modify-face 'font-lock-fixme-face "red" nil nil t nil t nil nil)
+(modify-face 'font-lock-to_do-face "red" nil nil t nil t nil nil)
 (modify-face 'font-lock-note-face "green" nil nil t nil t nil nil)
 (modify-face 'font-lock-important-face "yellow" nil nil t nil t nil nil)
 (modify-face 'font-lock-study-face "deepskyblue" nil nil t nil t nil nil)
