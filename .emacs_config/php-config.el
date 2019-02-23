@@ -1,5 +1,5 @@
-(if (not (require 'emmet-mode nil t)
-         (require 'web-mode nil t))
+(if (and (not (require 'emmet-mode nil t))
+         (not (require 'web-mode nil t)))
     (message "Emmet-mode pr web-mode not found")
   (add-hook 'php-mode-hook (lambda ()
                              (web-mode)
