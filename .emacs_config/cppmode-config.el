@@ -44,9 +44,37 @@
   (backward-paragraph)
   (indent-for-tab-command))
 
+(defun casey-find-corresponding-file ()
+  "Find the file that corresponds to this one."
+  (interactive)
+  (setq CorrespondingFileName nil)
+  (setq BaseFileName (file-name-sans-extension buffer-file-name))
+  (if (string-match "\\.c" buffer-file-name)
+      (setq CorrespondingFileName (concat BaseFileName ".h")))
+  (if (string-match "\\.h" buffer-file-name)
+      (if (file-exists-p (concat BaseFileName ".c")) (setq CorrespondingFileName (concat BaseFileName ".c"))
+        (setq CorrespondingFileName (concat BaseFileName ".cpp"))))
+  (if (string-match "\\.hin" buffer-file-name)
+      (setq CorrespondingFileName (concat BaseFileName ".cin")))
+  (if (string-match "\\.cin" buffer-file-name)
+      (setq CorrespondingFileName (concat BaseFileName ".hin")))
+  (if (string-match "\\.cpp" buffer-file-name)
+      (setq CorrespondingFileName (concat BaseFileName ".h")))
+  (if CorrespondingFileName (find-file CorrespondingFileName)
+    (error "Unable to find a corresponding file")))
+
+(defun casey-find-corresponding-file-other-window ()
+  "Find the file that corresponds to this one."
+  (interactive)
+  (find-file-other-window buffer-file-name)
+  (casey-find-corresponding-file)
+  (other-window -1))
+
 (add-hook 'c++-mode-hook
           (lambda ()
             (define-key c++-mode-map (kbd "C-c c") 'c-insert-case)
+            (define-key c++-mode-map (kbd "C-c f") 'casey-find-corresponding-file)
+            (define-key c++-mode-map (kbd "C-c F") 'casey-find-corresponding-file-other-window)
             (define-key c++-mode-map (kbd "C-c n") 'c-down-conditional-with-else)
             (define-key c++-mode-map (kbd "C-c a") 'c-beginning-of-defun)
             (define-key c++-mode-map (kbd "C-x c i") 'helm-semantic-or-imenu)
@@ -55,6 +83,8 @@
 
 (add-hook 'c-mode-hook
           (lambda ()
+            (define-key c-mode-map (kbd "C-c f") 'casey-find-corresponding-file)
+            (define-key c-mode-map (kbd "C-c F") 'casey-find-corresponding-file-other-window)
             (define-key c-mode-map (kbd "C-c c") 'c-insert-case)
             (define-key c-mode-map (kbd "C-c n") 'c-down-conditional-with-else)
             (define-key c-mode-map (kbd "C-c a") 'c-beginning-of-defun)

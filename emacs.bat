@@ -1,9 +1,5 @@
 @echo off
 SET TEMP=%HOME%
-SET HOME=.\
-"C:/Program Files/Emacs/bin/runemacs.exe" %*
+SET HOME=C:\dev\Emacs-Config
+"C:/ProgramData/chocolatey/bin/runemacs.exe" %*
 SET HOME=%TEMP%
-
-
-
-
