@@ -36,6 +36,17 @@
 (define-key global-map "\e]" 'end-kbd-macro)
 (define-key global-map "\e'" 'call-last-kbd-macro)
 
+(global-set-key (kbd "C-m") nil)
+(global-set-key (kbd "C-m n") 'mc/mark-next-word-like-this)
+(global-set-key (kbd "C-m p") 'mc/mark-previous-word-like-this)
+(global-set-key (kbd "C-m P") 'mc/mark-pop)
+(global-set-key (kbd "C-m a") 'mc/mark-all-words-like-this)
+(global-set-key (kbd "C-m A") 'mc/mark-all-words-like-this-in-defun)
+(global-set-key (kbd "C-m r") 'mc/mark-all-in-region)
+(global-set-key (kbd "C-m R") 'mc/mark-all-in-region-regexp)
+
+(global-set-key (kbd "<return>") 'newline)
+
 (load-library "view")
 (define-key global-map "\eN" 'previous-error)
 (define-key global-map "\en" 'next-error)
