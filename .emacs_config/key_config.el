@@ -49,8 +49,10 @@
 (define-key global-map [f11] 'toggle-frame-fullscreen)
 
 (require 'multiple-cursors)
-(define-key global-map (kbd "C-c m n") 'mc/mark-next-word-like-this)
-(define-key global-map (kbd "C-c m p") 'mc/mark-previous-word-like-this)
+(define-key global-map (kbd "C-c m n") 'mc/mark-next-like-this)
+(define-key global-map (kbd "C-c m p") 'mc/mark-previous-like-this)
+(define-key global-map (kbd "C-c m N") 'mc/mark-next-word-like-this)
+(define-key global-map (kbd "C-c m P") 'mc/mark-previous-word-like-this)
 (define-key global-map (kbd "C-c m A") 'mc/mark-all-words-like-this)
 (define-key global-map (kbd "C-c m a") 'mc/mark-all-words-like-this-in-defun)
 (define-key global-map (kbd "C-c m r") 'mc/mark-all-in-region)
