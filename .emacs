@@ -20,6 +20,7 @@
 (load "~/.emacs_config/cppmode-config.el")
 (load "~/.emacs_config/csharp-config.el")
 (load "~/.emacs_config/haskell-config.el")
+(load "~/.emacs_config/org-config.el")
 
 (setq custom-file "~/.emacs-custom.el")
 (load "~/odin-mode/odin-mode")
