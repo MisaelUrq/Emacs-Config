@@ -48,6 +48,8 @@
 (define-key global-map [f10] 'next-error)
 (define-key global-map [f11] 'toggle-frame-fullscreen)
 
+(define-key global-map (kbd "M-<f4>") 'save-buffers-kill-terminal)
+
 (require 'multiple-cursors)
 (define-key global-map (kbd "C-c m n") 'mc/mark-next-like-this)
 (define-key global-map (kbd "C-c m p") 'mc/mark-previous-like-this)

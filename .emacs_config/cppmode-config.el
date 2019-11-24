@@ -70,6 +70,35 @@
   (casey-find-corresponding-file)
   (other-window -1))
 
+(defun remedy-break-point (line-number)
+  (interactive "sLine:")
+  (shell-command-on-region
+   (point-min)
+   (point-max)
+   (format "remedybg.exe add-breakpoint-at-file %s %s" (buffer-file-name) line-number)))
+
+(defun remedy-break-point-at-current-line ()
+  (interactive)
+  (shell-command-on-region
+   (point-min)
+   (point-max)
+   (format "remedybg.exe add-breakpoint-at-file %s %s" (buffer-file-name) (nth 1 (split-string (what-line) " ")))))
+
+(defun remedy-open-file ()
+  (interactive)
+  (shell-command-on-region
+   (point-min)
+   (point-max)
+   (format "remedybg.exe open-file %s %s" (buffer-file-name) (nth 1 (split-string (what-line) " ")))))
+
+(defun remedy-break-at-funtion-name (function-name)
+  (interactive "sFunction: ")
+  (shell-command-on-region
+   (point-min)
+   (point-max)
+   (format "remedybg.exe add-breakpoint-at-function %s" function-name)))
+
+
 (add-hook 'c++-mode-hook
           (lambda ()
             (define-key c++-mode-map (kbd "C-c c") 'c-insert-case)
@@ -79,7 +108,10 @@
             (define-key c++-mode-map (kbd "C-c a") 'c-beginning-of-defun)
             (define-key c++-mode-map (kbd "C-x c i") 'helm-semantic-or-imenu)
             (define-key c++-mode-map (kbd "C-x c I") 'helm-imenu-in-all-buffers)
-            (define-key c++-mode-map (kbd "C-c e") 'c-end-of-defun)))
+            (define-key c++-mode-map (kbd "C-c e") 'c-end-of-defun)
+            (define-key c++-mode-map (kbd "<f8>") 'remedy-break-at-funtion-name)
+            (define-key c++-mode-map (kbd "<f7>") 'remedy-open-file)
+            (define-key c++-mode-map (kbd "<f9>") 'remedy-break-point-at-current-line)))
 
 (add-hook 'c-mode-hook
           (lambda ()
@@ -90,4 +122,7 @@
             (define-key c-mode-map (kbd "C-c a") 'c-beginning-of-defun)
             (define-key c-mode-map (kbd "C-x c i") 'helm-semantic-or-imenu)
             (define-key c-mode-map (kbd "C-x c I") 'helm-imenu-in-all-buffers)
-            (define-key c-mode-map (kbd "C-c e") 'c-end-of-defun)))
+            (define-key c-mode-map (kbd "C-c e") 'c-end-of-defun)
+            (define-key c-mode-map (kbd "<f8>") 'remedy-break-at-funtion-name)
+            (define-key c-mode-map (kbd "<f7>") 'remedy-open-file)
+            (define-key c-mode-map (kbd "<f9>") 'remedy-break-point-at-current-line)))

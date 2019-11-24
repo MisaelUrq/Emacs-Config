@@ -19,7 +19,7 @@
  '(menu-bar-mode nil)
  '(package-selected-packages
    (quote
-    (multiple-cursors json-mode php-mode web-mode move-text arduino-mode gh-md cargo kotlin-mode alect-themes underwater-theme omnisharp company-go company-racer helm-company company yasnippet neotree csharp-mode emmet-mode go-mode haskell-mode nasm-mode rust-mode js2-mode helm-gtags helm-rtags rtags ggtags smooth-scroll helm-projectile org-projectile projectile evil evil-magit evil-org golden-ratio helm magit gruber-darker-theme)))
+    (pdf-tools multiple-cursors json-mode php-mode web-mode move-text arduino-mode gh-md cargo kotlin-mode alect-themes underwater-theme omnisharp company-go company-racer helm-company company yasnippet neotree csharp-mode emmet-mode go-mode haskell-mode nasm-mode rust-mode js2-mode helm-gtags helm-rtags rtags ggtags smooth-scroll helm-projectile org-projectile projectile evil evil-magit evil-org golden-ratio helm magit gruber-darker-theme)))
  '(parens-require-spaces nil)
  '(ring-bell-function (quote ignore))
  '(show-paren-mode t)

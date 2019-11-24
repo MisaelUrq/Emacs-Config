@@ -91,7 +91,7 @@
 (defun insert-todo ()
   (interactive)
   (comment-indent)
-  (insert (format "TODO(%s): ") user-name)
+  (insert (format "TODO(%s): " user-name))
   (indent-for-tab-command))
 
 (defun open-build-file ()

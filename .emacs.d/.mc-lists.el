@@ -3,14 +3,28 @@
 
 (setq mc/cmds-to-run-for-all
       '(
+        beginning-of-visual-line
         c-electric-brace
         c-electric-colon
+        c-electric-lt-gt
+        c-electric-paren
+        c-electric-semi&comma
+        c-electric-slash
+        c-electric-star
+        c-indent-line-or-region
         dabbrev-expand
+        end-of-visual-line
+        fill-paragraph
+        ignore
+        indent-region
+        insert-parentheses
+        kill-visual-line
         mc/vertical-align
         mc/vertical-align-with-space
         ))
 
 (setq mc/cmds-to-run-once
       '(
+        c-electric-pound
         helm-M-x
         ))
