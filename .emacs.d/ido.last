@@ -2,6 +2,70 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("d:/escuela/ing_software2/tarea2/" . "src/")
+ ("d:/escuela/ing_software2/" . "tarea2/")
+ ("d:/escuela/seminario_os/tarea2/" . "src/")
+ ("d:/escuela/seminario_os/" . "tarea2/")
+ ("d:/escuela/2020B/class_inteligente_datos/tareas/act_1/" . "src/")
+ ("d:/escuela/2020B/class_inteligente_datos/tareas/" . "act_1/")
+ ("d:/escuela/2020B/class_inteligente_datos/" . "tareas/")
+ ("d:/escuela/2020B/" . "class_inteligente_datos/")
+ ("c:/dev/games/" . "TicTacToe/")
+ ("c:/dev/TicTacToeWithManny/" . "src/")
+ ("c:/dev/UEngine/" . "include/")
+ ("c:/dev/memories/" . "src/")
+ ("c:/dev/imgui/" . "examples/")
+ ("e:/SteamLibrary/steamapps/common/Sonic Adventure 2/resource/gd_PC/" . "SAVEDATA/")
+ ("e:/SteamLibrary/steamapps/common/Sonic Adventure 2/resource/" . "gd_PC/")
+ ("e:/SteamLibrary/steamapps/common/Sonic Adventure 2/" . "resource/")
+ ("e:/SteamLibrary/steamapps/common/" . "Sonic Adventure 2/")
+ ("e:/SteamLibrary/steamapps/" . "common/")
+ ("e:/SteamLibrary/" . "steamapps/")
+ ("c:/dev/Blueberry/lib/tracy/" . "common/")
+ ("c:/dev/gladosaurio/" . "src/")
+ ("e:/HandmadeHero/handmade/sources/developer/" . "fonts/")
+ ("e:/HandmadeHero/handmade/sources/" . "developer/")
+ ("c:/dev/games/TicTacToe/" . "src/")
+ ("c:/dev/PrettyPres/" . "src/")
+ ("c:/dev/WicWacWoe/" . "src/")
+ ("c:/dev/Blog-Dev/" . "project-post/")
+ ("c:/tools/4coder/custom/" . "vim/")
+ ("c:/tools/4coder/" . "custom/")
+ ("c:/Users/misae/Documents/Visual Studio 2019/" . "Visualizers/")
+ ("c:/Users/misae/Documents/" . "Visual Studio 2019/")
+ ("e:/cv/" . "vale/")
+ ("c:/dev/la_glados/src/" . "la_glados_bot/")
+ ("d:/dev/Sched2vhd/" . "src/")
+ ("c:/dev/la_glados/" . "src/")
+ ("d:/dev/LaGlaDOSBot/target/" . "debug/")
+ ("d:/dev/LaGlaDOSBot/" . "target/")
+ ("c:/dev/Sched2vhd/" . "src/")
+ ("e:/HandmadeHero/handmade/" . "code/")
+ ("e:/HandmadeHero/" . "handmade/")
+ ("e:/" . "SteamLibrary/")
+ ("d:/dev/MemoryArenas/" . "src/")
+ ("d:/dev/" . "MemoryArenas/")
+ ("d:/escuela/data/" . "project/")
+ ("d:/" . "escuela/")
+ ("//" . "escuela/")
+ ("//MISAELLAPTOP/escuela/" . "OS/")
+ ("c:/dev/Blueberry/env/" . "reportes/")
+ ("d:/escuela/" . "2020B/")
+ ("c:/dev/LaGlaDOSAndroid/src/com/urquieta/laglados/" . "utils/")
+ ("c:/dev/LaGlaDOSAndroid/src/com/urquieta/" . "laglados/")
+ ("c:/dev/LaGlaDOSAndroid/src/com/" . "urquieta/")
+ ("c:/dev/LaGlaDOSAndroid/src/" . "com/")
+ ("c:/dev/LaGlaDOSAndroid/res/" . "values/")
+ ("c:/Users/misae/AppData/Roaming/.emacs.d/" . "server/")
+ ("c:/dev/Emacs-Config/" . ".emacs_config/")
+ ("c:/dev/Blueberry/src/" . "gui/")
+ ("c:/android/tools/" . "bin/")
+ ("c:/android/" . "tools/")
+ ("c:/dev/LaGlaDOSAndroid/" . "src/")
+ ("c:/dev/" . "memories/")
+ ("c:/dev/Blueberry/lib/" . "optick/")
+ ("c:/dev/Blueberry/" . "src/")
+ ("c:/tools/cmder_mini/" . "config/")
  ("c:/Documentos/Projects/TDS/env/java_test/src/com/urquieta/something/" . "platform/")
  ("c:/Documentos/Projects/TDS/env/java_test/src/com/urquieta/" . "something/")
  ("c:/Documentos/Projects/TDS/env/java_test/src/com/" . "urquieta/")
@@ -50,7 +114,7 @@
  ("c:/Documentos/Tareas/19A/" . "bases_de_datos/")
  ("c:/xampp/htdocs/Blog-Dev/assets/" . "images/")
  ("c:/xampp/htdocs/Blog-Dev/" . "assets/")
- ("c:/tools/" . "Emacs/")
+ ("c:/tools/" . "4coder/")
  ("c:/Documentos/Projects/CProyectManager/test/" . "Test_1/")
  ("c:/Documentos/Projects/CProyectManager/" . "src/")
  ("c:/Documentos/Projects/Something/assets/" . "saves/")
@@ -285,7 +349,7 @@
  ("c:/Documentos/Tareas/2018B/Seminario_De_Algoritmia/Tarea_3/" . "src/")
  ("c:/Users/misae/OneDrive/Valeria/2018B/refrigeracion/" . "src/")
  ("c:/Users/misae/AppData/Roaming/" . "cabal/")
- ("c:/Users/misae/AppData/" . "Local/")
+ ("c:/Users/misae/AppData/" . "Roaming/")
  ("c:/Users/misae/.emacs.d/.cache/omnisharp/server/" . "v1.32.6/")
  ("c:/Users/misae/.emacs.d/.cache/omnisharp/" . "server/")
  ("c:/Users/misae/.emacs.d/.cache/" . "omnisharp/")
@@ -301,280 +365,280 @@
  ("c:/Documentos/Tareas/2018B/" . "Seminario_De_Algoritmia/")
  ("c:/Documentos/Tareas/" . "19A/")
  ("c:/Documentos/" . "Tareas/")
- ("c:/" . "Documentos/")
+ ("c:/" . "Users/")
  ("c:/Users/" . "misae/")
- ("c:/Users/misae/" . ".android/")
+ ("c:/Users/misae/" . "Documents/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "c:/Documentos/Projects/LaGlaDOS/"
- "c:/Documentos/Projects/LaGlaDOS/src/"
- "c:/Documentos/Projects/TDS/env/java_test/src/com/urquieta/something/platform/"
- "c:/Documentos/Projects/TDS/env/java_test/src/com/urquieta/something/game/"
- "c:/Documentos/Projects/TDS/src/"
- "c:/Documentos/Projects/TDS/env/java_test/src/com/urquieta/something/"
- "c:/Documentos/Projects/TDS/env/java_test/"
- "c:/Documentos/Projects/TDS/env/"
- "c:/Documentos/Projects/TDS/"
- "c:/Documentos/Projects/Something/src/com/urquieta/something/game/"
- "c:/Documentos/Tareas/19A/bases_de_datos/A04/"
- "c:/Documentos/Tareas/19A/ing_software/proyecto/src/com/proyecto/gui/"
- "c:/Documentos/Tareas/19A/ing_software/proyecto/src/com/proyecto/gui/mainwindow/"
- "c:/Documentos/Projects/RememberIt/"
- "c:/tools/Emacs/.emacs_config/"
- "c:/Documentos/Projects/Something/dump/"
- "c:/Documentos/Projects/Something/src/com/urquieta/something/platform/"
- "c:/Documentos/Projects/Something/src/com/urquieta/something/game/ui/"
- "c:/Documentos/Projects/Something/src/com/urquieta/something/game/util/"
- "c:/Documentos/Projects/Something/src/com/urquieta/something/platform/renderer/figures/"
- "c:/Documentos/Tareas/19A/seguridad/act_1.3/"
- "c:/Documentos/Tareas/19A/seminario_bases_datos/actividad_3/"
- "c:/xampp/htdocs/Blog-Dev/project-post/"
- "c:/xampp/htdocs/Blog-Dev/"
- "c:/xampp/htdocs/Blog-Dev/projects-entries/"
- "c:/Documentos/Tareas/19A/seminario_est_bases_2/proyecto/Cuidado_con_el_pobre/src/"
- "c:/tools/Emacs/.emacs_themes/"
- "c:/Documentos/LaGlaDOS/LaGlaDOS/LaGlaDOS/"
- "c:/Documentos/Projects/SomethingWithPower/"
- "c:/Documentos/Projects/Something/"
- "c:/Documentos/Projects/Something/src/com/urquieta/something/platform/android/"
- "c:/Android/android-sdk/build-tools/28.0.3/"
- "c:/Documentos/Projects/Something/src/com/urquieta/something/"
- "c:/Documentos/Projects/SomethingWithPower/src/com/urquieta/somethingwithpower/"
- "c:/Documentos/Projects/SomethingWithPower/gen/com/urquieta/somethingwithpower/"
- "c:/Documentos/Projects/SomethingWithPower/gen/"
- "c:/Documentos/Projects/SomethingWithPower/res/values/"
- "c:/Android/android-sdk/tools/ant/"
- "c:/Documentos/Projects/Something/gen/com/urquieta/something/"
- "c:/Documentos/Projects/Reference/NDK_Android_code/Chapter1/NDKTemplete/"
- "c:/Documentos/Projects/Something/src/com/urquieta/something/platform/pc/"
- "c:/Documentos/Tareas/19A/ing_software/proyecto/"
- "c:/Documentos/Tareas/19A/bases_de_datos/A03/"
- "c:/Documentos/Projects/Something/src/com/urquieta/something/game/board/"
- "c:/Documentos/Projects/arduino/ventilador/"
- "c:/Documentos/Projects/"
- "c:/Documentos/Tareas/19A/seguridad/act_1.2/src/"
- "c:/Users/misae/Downloads/ArduinoCompurerCommunication-1/ComputerToArduino/ComputerToArduino/"
- "c:/Documentos/Projects/arduino/password/"
- "c:/Documentos/Projects/Reference/HyperNerd/src/"
+ "d:/escuela/2020B/class_inteligente_datos/tareas/act_1/src/"
+ "d:/escuela/2020B/class_inteligente_datos/tareas/act_3/src/"
+ "d:/escuela/2020B/"
+ "d:/escuela/2020B/simulaciones/tarea_2/"
+ "d:/escuela/2020B/simulaciones/"
+ "d:/escuela/2020B/simulaciones/tarea_1/src/"
+ "c:/dev/Emacs-Config/.emacs_config/"
+ "d:/escuela/2020B/class_inteligente_datos/tareas/act_2/"
+ "d:/escuela/2020B/class_inteligente_datos/tareas/act_2/src/"
+ "d:/escuela/2020B/traductor_lenguajes/"
+ "d:/escuela/2020B/seminario_conocimiento/"
+ "d:/escuela/data/"
+ "d:/escuela/ing_software2/tarea2/src/"
+ "d:/escuela/seminario_os/tarea2/src/"
+ "d:/escuela/2020B/class_inteligente_datos/tareas/"
+ "d:/escuela/2020B/class_inteligente_datos/"
+ "c:/dev/Blueberry/src/"
+ "c:/dev/Blueberry/lib/optick/"
+ "c:/dev/Blueberry/env/"
+ "c:/dev/Blueberry/src/gui/"
+ "c:/dev/Blueberry/"
+ "c:/dev/Blueberry/lib/imgui/"
+ "c:/dev/Blueberry/src/memory/"
+ "c:/dev/memories/src/"
+ "e:/HandmadeHero/handmade/code/"
+ "c:/dev/UEngine/src/"
+ "c:/Blueberry/"
+ "c:/dev/imgui/"
+ "c:/dev/JADI/src/"
+ "c:/dev/WicWacWoe/src/"
+ "c:/dev/games/TicTacToe/src/"
+ "c:/dev/UEngine/"
+ "c:/dev/gladosaurio/"
+ "c:/dev/CArrays/"
+ "c:/tools/4coder/custom/vim/"
+ "c:/tools/4coder/custom/emacs/"
+ "c:/tools/4coder/custom/4coder_fleury/"
+ "c:/tools/4coder/custom/misael/"
+ "c:/tools/4coder/custom/bin/"
+ "c:/tools/4coder/custom/"
+ "c:/dev/la_glados/src/la_glados_bot/"
+ "c:/dev/imgui/examples/"
+ "e:/SteamLibrary/steamapps/common/Sonic Adventure 2/resource/gd_PC/SAVEDATA/"
+ "c:/dev/la_glados/"
+ "c:/dev/la_glados/src/twitch/"
+ "c:/dev/Blueberry/lib/tracy/common/"
+ "c:/dev/Blueberry/lib/tracy/"
+ "c:/dev/Blueberry/pdf/"
+ "c:/dev/Blueberry/src/debug/"
+ "c:/dev/Blueberry/tools/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "output.txt"
- "config.lisp"
- "Renderer.java"
- "Game.java"
- "main.rs"
- "MainActivity.java"
- "source_code.rs"
- "todo.org"
- "org.rs"
- "GameModes.java"
+ "main.tex"
+ "build.bat"
+ "utils.el"
+ "notes.org"
+ "prolog_sandbox.pl"
+ "apuntes.tex"
+ "apuntes.org"
+ "actividades 1 y 2.pdf"
+ "threads_callbacks.cpp"
+ "sort_data.cpp"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("c:/Documentos/Projects/LaGlaDOS/src/" (23659 31589 0 0) "utils.lisp" "twitch.lisp" "package.lisp" "LaGlaDOS.lisp" "config.lisp" "../" "./")
+ ("d:/escuela/2020B/class_inteligente_datos/tareas/act_3/src/" (24408 14240 0 0) "main.tex" "build.bat" "../" "./")
 
- ("c:/Documentos/Projects/TDS/env/java_test/src/com/urquieta/something/platform/" (23658 18617 0 0) "Sound.java" "Screen.java" "Renderer.java" "renderer/" "pc/" "Music.java" "InputEvent.java" "Input.java" "ImageLoader.java" "Image.java" "Audio.java" "android/" "../" "./")
+ ("d:/escuela/2020B/class_inteligente_datos/tareas/act_3/" (24410 48100 0 0) "log/" "bin/" "src/" "certificados_vigentes_pnaa.csv" "../" "./")
 
- ("c:/Documentos/Projects/TDS/env/java_test/src/com/urquieta/something/" (23658 18617 0 0) "platform/" "PCMain.java" "output/" "MainActivity.java" "game/" "../" "./")
+ ("d:/escuela/2020B/simulaciones/tarea_2/" (24413 8138 0 0) "camara.svg" "camera.png" "../" "./")
 
- ("c:/Documentos/Projects/TDS/env/java_test/src/com/urquieta/" (23658 18617 0 0) "something/" "../" "./")
+ ("c:/dev/Emacs-Config/.emacs_config/" (24135 5595 0 0) "utils.el" "rust-mode.el" "projectile-config.el" "php-config.el" "org-config.el" "magit-config.el" "kt-config.el" "key_config.el" "html-config.el" "helm-config.el" "haskell-config.el" "global.el" "ggtags-config.el" "evil-config.el" "elisp-config.el" "csharp-config.el~" "csharp-config.el" "cppmode-config.el" "../" "./")
 
- ("c:/Documentos/Projects/TDS/env/java_test/src/com/" (23658 18617 0 0) "urquieta/" "../" "./")
+ ("d:/escuela/2020B/simulaciones/tarea_1/src/" (24408 14240 0 0) "build.bat" "main.tex" "../" "./")
 
- ("c:/Documentos/Projects/TDS/env/java_test/src/" (23658 18617 0 0) "com/" "../" "./")
+ ("d:/escuela/2020B/simulaciones/" (24411 54324 0 0) "camara.svg" "Nueva carpeta/" "../" "./")
 
- ("c:/Documentos/Projects/TDS/env/java_test/" (23658 18617 0 0) "todo.org" "src/" "../" "./")
+ ("d:/escuela/2020B/class_inteligente_datos/tareas/act_2/" (24410 48098 0 0) "log/" "bin/" "src/" "certificados_vigentes_pnaa.csv" "../" "./")
 
- ("c:/Documentos/Projects/TDS/src/" (23658 17896 0 0) "source_code.rs" "org.rs" "main.rs" ".#main.rs" "../" "./")
+ ("d:/escuela/2020B/class_inteligente_datos/tareas/act_2/src/" (24408 14240 0 0) "main.tex" "build.bat" "../" "./")
 
- ("c:/Documentos/Projects/TDS/env/java_test/src/com/urquieta/something/game/" (23658 17508 0 0) "util/" "ui/" "save/" "GameState.java" "GameObject.java" "GameModes.java" "Game.java" "board/" "../" "./")
+ ("d:/escuela/2020B/traductor_lenguajes/" (24410 49003 0 0) "notes.org" "../" "./")
 
- ("c:/Documentos/Projects/TDS/" (23658 15632 0 0) "todo.org" "target/" "src/" "env/" "Cargo.toml" "Cargo.lock" ".projectile" ".gitignore" ".git/" "../" "./")
+ ("c:/Users/misae/" (24410 47419 0 0) "_env.cmd" "VSTelem.Out/" "VSTelem/" "VirtualBox VMs/" "Videos/" "Twitch/" "source/" "SendTo/" "Searches/" "Saved Games/" "Reciente/" "pyNENQwW" "prolcompdkxy42.pl" "Plantillas/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{381ac0f8-df37-11ea-b28e-f0b9085d94f0}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{381ac0f8-df37-11ea-b28e-f0b9085d94f0}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{381ac0f8-df37-11ea-b28e-f0b9085d94f0}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "Music/" "Mis documentos/" "MicrosoftEdgeBackups/" "Menú Inicio/" "Links/" "Impresoras/" "Favorites/" "Entorno de red/" "emgAn37a" "Desktop/" "Datos de programa/" "Cookies/" "Contacts/" "Configuración local/" "babel-opLYEh/" "babel-Ax7piB/" "AppData/" "3D Objects/" ".wdc/" ".vscode/" ".vivaldi_reporting_data" ".VirtualBox/" ".viminfo" ".thumbnails/" ".templateengine/" ".ssh/" ".rustup/" ".QtWebEngineProcess/" ".Origin/" ".nuget/" ".lmmsrc.xml" ".gitconfig" ".emacs.d/" ".dotnet/" ".cargo/" ".android/" "../" "./")
 
- ("c:/Documentos/Projects/TDS/env/" (23658 15367 0 0) "todo.org" "test.rs" "java_test/" "../" "./")
+ ("c:/Users/" (24376 14800 0 0) "Public/" "misae/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
 
- ("c:/Documentos/Projects/Something/src/com/urquieta/something/game/" (23658 2313 0 0) "util/" "ui/" "save/" "GameState.java" "GameObject.java" "Game.java" "board/" ".#GameState.java" "../" "./")
+ ("c:/dev/Emacs-Config/" (24408 14608 0 0) "quicklisp/" "odin-mode/" "emacs.bat" ".sbclrc" ".saves/" ".gitignore" ".gitconfig" ".git/" ".emacs_themes/" ".emacs_config/" ".emacs.d/" ".emacs-custom.el" ".emacs" "../" "./")
 
- ("c:/Documentos/Projects/Something/" (23658 2309 0 0) "switch_build.py" "src/" "saves/" "run.bat" "res/" "project.properties" "obj_android/" "MANIFEST.MF" "gen/" "dump/" "debug.keystore" "build.bat" "bin/" "assets/" "art_assets/" "AndroidManifest.xml" ".projectile" ".gitignore" ".git/" "../" "./")
+ ("d:/escuela/2020B/seminario_conocimiento/" (24407 50734 0 0) "notes.org" "../" "./")
 
- ("c:/Documentos/Tareas/19A/bases_de_datos/A04/" (23657 58389 0 0) "build.bat" "A01.tex" "../" "./")
+ ("c:/dev/" (24389 49602 0 0) "WicWacWoe/" "UEngine/" "TicTacToeWithManny/" "sql_transform/" "remedy_sessions/" "PrettyPres/" "memories/" "la_glados/" "LaGlaDOSAndroid/" "JADI/" "imgui/" "gladosaurio/" "glados.png" "glados - copia.png~" "glados - copia.png" "games/" "Emacs-Config/" "CArrays/" "Blueberry/" "Blog-Dev/" "../" "./")
 
- ("c:/Documentos/Tareas/19A/bases_de_datos/" (23657 58364 0 0) "A04/" "A03/" "A02/" "A01/" "../" "./")
+ ("c:/dev/Blueberry/" (24397 22939 0 0) "vc140.pdb" "update.sql" "tools/" "todo.org" "src/" "release/" "project.4coder" "pdf/" "obj/" "material/" "lib/" "env/" "editor.bat" "database_structure.sql" "build.bat" "blueberry_database.db" "bin/" "4coder.bat" ".projectile" ".gitignore" ".git/" "../" "./")
 
- ("c:/Documentos/Tareas/19A/seguridad/" (23657 57044 0 0) "act_2.1/" "act_1.3/" "act_1.2/" "act_1.1/" "act_1/" "../" "./")
+ ("d:/escuela/data/project/" (24043 60538 0 0) "output example/" ".git/" "README.md" "CP_14Jal_v2.kml" "main.py" "../" "./")
 
- ("c:/Documentos/Tareas/19A/seguridad/act_2.1/" (23657 58260 0 0) "test/" "backup.py" "../" "./")
+ ("d:/escuela/data/" (24043 57907 0 0) "mapa/" "etl/" "tarea1.py" "python_tutorial.py" "persona.py" "mysql_script.py" "Ideas Principales.jpg" "fundamentosdedatawarehouse.pdf" "Data_Warehouse_Design.pdf" "csv_script.py" "apuntes.tex" "apuntes.org" "apuntes.log" "apuntes.html" "project.zip" "project/" "../" "./")
 
- ("c:/Documentos/Tareas/19A/ing_software/proyecto/src/com/proyecto/gui/" (23657 50414 0 0) "Table.java" "ProductDataWindow.java" "MainWindow.java" "mainwindow/" "LoginWindow.java" "BasicWindow.java" ".#MainWindow.java" "../" "./")
+ ("d:/escuela/ing_software2/tarea2/src/" (23907 7934 0 0) "main.tex" "build.bat" "../" "./")
 
- ("c:/Documentos/Tareas/19A/ing_software/proyecto/src/com/proyecto/gui/mainwindow/" (23657 50303 0 0) "ListProductsView.java" "ComprasView.java" "../" "./")
+ ("d:/escuela/ing_software2/tarea2/" (23904 46152 0 0) "src/" "log/" "bin/" "parte2.xlsx" "Naye.xlsx" "../" "./")
 
- ("c:/Documentos/Tareas/19A/ing_software/proyecto/src/com/proyecto/" (23638 20559 0 0) "users/" "mysql/" "Main.java" "gui/" "data/" "../" "./")
+ ("d:/escuela/ing_software2/tarea1/" (23907 15414 0 0) "tablas_muchas_tablas.xlsx" "tablas_everywhere!.xlsx" "T01.docx" "../" "./")
 
- ("c:/Documentos/Projects/RememberIt/" (23657 45726 0 0) "src/" "Setup.hs" "RememberIt.cabal" "LICENSE" "dist-newstyle/" "dist/" "ChangeLog.md" ".git/" "../" "./")
+ ("d:/escuela/ing_software2/" (24033 29398 0 0) "tutorial/" "tarea8/" "tarea3/" "tarea2/" "tarea1/" "resumen/" "presentación/" "practica 3/" "calificados/" "tools and more.pptx" "Tarea 13.docx" "Tarea 13. Resumen sobre la evaluación del proceso de software.docx" "Tarea 12.docx" "Tarea 10.docx" "T5.pdf" "T12.pdf" "SQA (Software Quality Assurance) Presentacion.pptx" "Software Project Management.pptx" "Scan sept. 18, 2019.pdf" "resumen.tex" "Práctica 17.pdf" "Práctica 13.pdf" "practica1.7z" "parte_presentación.pptx" "ISR.pdf" "cuestionario2 - Calificado .pdf" "Cuestionario.docx" "Cuestionario Modulo 4 calificado.pdf" "black and white box testing.pptx" "Actividad de cierre -Equipo7.pdf" "Actividad 1-1.docx" "2-GestionProyectos.ppt" "1-GestionProyectos.ppt" "0.1-DS-La salud es lo primero.pdf" "../" "./")
 
- ("c:/Documentos/Projects/RememberIt/src/" (23657 46995 0 0) "ReadJson.hs" "Main.hs" "../" "./")
+ ("d:/escuela/seminario_os/tarea2/src/" (23911 1758 0 0) "main.tex" "build.bat" "../" "./")
 
- ("c:/tools/Emacs/.emacs_config/" (23657 39711 0 0) "utils.el" "rust-mode.el" "projectile-config.el" "magit-config.el" "key_config.el" "html-config.el" "helm-config.el" "haskell-config.el" "global.el" "ggtags-config.el" "evil-config.el" "elisp-config.el" "csharp-config.el~" "csharp-config.el" "cppmode-config.el" "#main.cpp#" "../" "./")
+ ("d:/escuela/seminario_os/tarea2/" (23910 64068 0 0) "src/" "log/" "bin/" "../" "./")
 
- ("c:/tools/Emacs/" (23657 39527 0 0) "quicklisp.lisp" "quicklisp/" "odin-mode/" "emacs.bat" ".slime-history.eld" ".slime/" ".sbclrc" ".saves/" ".projectile" ".gnupg/" ".gitignore" ".gitconfig" ".git/" ".emacs_themes/" ".emacs_config/" ".emacs.d/" ".emacs-custom.el" ".emacs" "../" "./")
+ ("d:/escuela/seminario_os/" (24017 40538 0 0) "tarea9/" "tarea7/" "tarea3/" "tarea2/" "tarea11/" "tarea1/" "actividad1/" "../" "./")
 
- ("c:/Documentos/Projects/Something/src/com/urquieta/something/platform/" (23656 61769 0 0) "Sound.java" "Screen.java" "Renderer.java" "renderer/" "pc/" "Music.java" "InputEvent.java" "Input.java" "ImageLoader.java" "Image.java" "Audio.java" "android/" "../" "./")
+ ("d:/escuela/2020B/class_inteligente_datos/tareas/act_1/src/" (24408 14239 0 0) "build.bat" "main.tex" "../" "./")
 
- ("c:/Documentos/Projects/Something/src/com/urquieta/something/game/ui/" (23647 48006 0 0) "StartMenu.java" "DebugMenu.java" "Button.java" "../" "./")
+ ("d:/escuela/2020B/class_inteligente_datos/tareas/act_1/bin/" (24408 14238 0 0) "urquieta_jose_SSPUAESO.pdf" "../" "./")
 
- ("c:/Documentos/Projects/Something/src/com/urquieta/something/game/util/" (23647 47207 0 0) "Vec2.java" "Color.java" "../" "./")
+ ("d:/escuela/2020B/class_inteligente_datos/tareas/act_1/" (24408 14238 0 0) "src/" "log/" "bin/" "../" "./")
 
- ("c:/Documentos/Projects/Something/src/com/urquieta/" (23531 38249 0 0) "something/" "../" "./")
+ ("d:/escuela/2020B/class_inteligente_datos/tareas/" (24407 47070 0 0) "act_1/" "actividades 1 y 2.pdf" "../" "./")
 
- ("c:/Documentos/Projects/Something/src/com/" (23531 38249 0 0) "urquieta/" "../" "./")
+ ("d:/escuela/2020B/" (24407 44544 0 0) "class_inteligente_datos/" "../" "./")
 
- ("c:/Documentos/Projects/Something/src/" (23531 38249 0 0) "com/" "../" "./")
+ ("d:/escuela/2020B/class_inteligente_datos/" (24407 44544 0 0) "tareas/" "notes.org" "../" "./")
 
- ("c:/Documentos/Projects/Something/src/com/urquieta/something/platform/renderer/figures/" (23656 28734 0 0) "Rect.java" "../" "./")
+ ("d:/escuela/" (24034 53818 0 0) "admin_bd/" "seminario_os/" "proyectos/" "ing_software2/" "imagenes/" "help/" "orden.pdf" "mapa.jpg" "Carretero - Sistemas Operativos - Una visión aplicada.pdf" "admin_servidores/" "arquitectura/" "data/" "os/" "../" "./")
 
- ("c:/Documentos/Projects/Something/src/com/urquieta/something/platform/renderer/" (23656 28438 0 0) "figures/" "../" "./")
+ ("c:/dev/Blueberry/src/network/" (24390 60066 0 0) "server.h" "server.cpp" "client.h" "../" "./")
 
- ("c:/Documentos/Projects/Something/src/com/urquieta/something/platform/android/" (23656 28625 0 0) "AndroidSound.java" "AndroidScreen.java" "AndroidRenderer.java" "AndroidMusic.java" "AndroidInput.java" "AndroidImageLoader.java" "AndroidImage.java" "AndroidAudio.java" "../" "./")
+ ("c:/dev/Blueberry/src/" (24386 63295 0 0) "work_queue.cpp" "windows.h" "windows.cpp" "widgets.h" "widgets.cpp" "utils.h" "utils.cpp" "timer.h" "timer.cpp" "threads_callbacks.cpp" "test.cpp" "sqlite_callbacks.cpp" "sql.h" "sql.cpp" "sort_data.cpp" "server_main.cpp" "server_checker.cpp" "resource.res" "resource.rc" "request_system.h" "request_system.cpp" "rawtext.h" "profiles.h" "profiles.cpp" "pdf_data.cpp" "network/" "memory.cpp" "memory/" "main.h" "main.cpp" "imgui_utils.h" "imgui_utils.cpp" "imgui_impl_win32.h" "imgui_impl_win32.cpp" "imgui_impl_dx9.h" "imgui_impl_dx9.cpp" "gui/" "debug/" "data_gen.cpp" "common.h" "blueberry.h" "blueberry.cpp" "../" "./")
 
- ("c:/Users/" (23656 25019 0 0) "Public/" "misae/" "JOSEANGEL/" "desktop.ini" "Default User/" "Default/" "All Users/" "Administrador.URQUIETINI/" "Administrador/" "../" "./")
+ ("c:/dev/Blueberry/src/gui/" (24381 57367 0 0) "side_menu.h" "side_menu.cpp" "main_gui.h" "main_gui.cpp" "login.cpp" "gui_visits.h" "gui_visits.cpp" "gui_users.h" "gui_users.cpp" "gui_tickets.h" "gui_tickets.cpp" "gui_suppliers.h" "gui_suppliers.cpp" "gui_sales.h" "gui_sales.cpp" "gui_remainder.h" "gui_remainder.cpp" "gui_phones.h" "gui_phones.cpp" "gui_notes.h" "gui_notes.cpp" "gui_emails.h" "gui_emails.cpp" "gui_config.h" "gui_config.cpp" "gui_calls.h" "gui_calls.cpp" "debug_memory_window.cpp" "../" "./")
 
- ("c:/Users/misae/" (23654 65067 0 0) "_viminfo" "_.swp" "_.swo" "vimfiles/" "Videos/" "temp/" "source/" "SendTo/" "Searches/" "SDL2.dll" "Saved Games/" "Reciente/" "quicklisp/" "PycharmProjects/" "Plantillas/" "Pictures/" "PaceKeyChain" "OneDrive/" "ntuser.ini" "NTUSER.DAT{004ddc4f-63ba-11e8-93aa-005056c00001}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{004ddc4f-63ba-11e8-93aa-005056c00001}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{004ddc4f-63ba-11e8-93aa-005056c00001}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "Music/" "Mis documentos/" "MicrosoftEdgeBackups/" "Menú Inicio/" "Links/" "IntelGraphicsProfiles/" "Impresoras/" "ImagenCanal.jpeg" "grep" "Google Drive/" "go/" "Favorites/" "Entorno de red/" "eclipse/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Descargas/" "Datos de programa/" "Cookies/" "Contacts/" "Configuración local/" "Cisco Packet Tracer 6.2sv/" "AppData/" "AndroidStudioProjects/" "3D Objects/" ".vscode/" ".viminfo" ".tooling/" ".thumbnails/" ".ssh/" ".slime-history.eld" ".slime/" ".sbclrc" ".saves/" ".rustup/" ".QtWebEngineProcess/" ".pylint.d/" ".packettracer" ".p2/" ".omnisharp/" ".nuget/" ".multirust/" ".keras/" ".jssc/" ".irb_history" ".irbrc" ".history" ".gradle/" ".gnupg/" ".gitconfig" ".gimp-2.8/" ".emulator_console_auth_token" ".eclipse/" ".dotnet/" ".config/" ".conan/" ".CocosCreator/" ".cargo/" ".cache/" ".bash_history" ".AndroidStudio3.2/" ".AndroidStudio3.1/" ".android/" "../" "./")
+ ("c:/dev/Blueberry/env/" (24380 38197 0 0) "wkhtmltopdf.exe" "TRACTO PARTES Y REFACCIONES INDUSTRIALES DEL OCCIDENTE, S. DE R. L. DE C. V/" "TESTING/" "TAPIA VENEGAS ASESORES S.C/" "SUMINISTROS INDUSTRIALES VIDARE SA DE CV/" "settings.bb" "SARAGO GRUPO EMPRESARIAL, S.C/" "ROJO DE LEON CONSULTORIA Y SERVICIOS ADMINISTRATIVOS, S.C/" "reportes/" "Productora Dpaul Cabral Hermanos S.A. de C.V/" "old.db" "lato.zip" "Lato-Regular.ttf" "JosÃ© Antonio Sandoval Gonzalez/" "imgui.ini" "formato.pdf" "formato.html" "errors.txt" "Constructora de Obras en Instalaciones S.A. de C.V/" "config.bb" "COMPAÃ‘IA ESPECIALIZADA DE PRODUCTO AL CONSUMO S.A. DE C.V/" "blueberry_database.db" "blueberry_database 2.db" "AYUSO EURO SYSTEMS SA DE CV (CRISTAL CURVA)/" "assets/" "../" "./")
 
- ("c:/Documentos/Tareas/19A/seguridad/act_1.3/" (23650 57190 0 0) "servidor.lisp" "cliente.lisp" "act_1.3.7z" "Actividad 1.3_seguridad_logica.docx" "../" "./")
+ ("c:/dev/Blueberry/lib/imgui/" (24345 3137 0 0) "imstb_truetype.h" "imstb_textedit.h" "imstb_rectpack.h" "imgui_widgets.cpp" "imgui_main.cpp" "imgui_internal.h" "imgui_draw.cpp" "imgui_demo.cpp" "imgui.h" "imgui.cpp" "imconfig.h" "../" "./")
 
- ("c:/Documentos/Tareas/19A/seminario_bases_datos/actividad_3/" (23655 1351 0 0) "tercera/" "pg_empleado_ANSI.txt" "pg_compania_ANSI.txt" "bitacora.txt" "../" "./")
+ ("c:/dev/Blueberry/src/memory/" (24369 44688 0 0) "arrays.h" "alloc_stack.h" "alloc_pool.h" "alloc_list.h" "alloc_linear.h" "../" "./")
 
- ("c:/Documentos/Tareas/19A/seminario_bases_datos/" (23654 62858 0 0) "actividad_3/" "actividad_1/" "../" "./")
+ ("c:/dev/memories/src/" (24367 8620 0 0) "main.cpp" "common.h" "arrays.h" "alloc_stack.h" "alloc_pool.h" "alloc_linear.h" "../" "./")
 
- ("c:/Documentos/Tareas/19A/" (23623 51198 0 0) "seminario_est_bases_2/" "seminario_bases_datos/" "seguridad/" "progra_internet/" "ing_software/" "bases_de_datos/" "../" "./")
+ ("c:/dev/UEngine/include/" (24357 51109 0 0) "stb_sprintf.h" "stb_image.h" "../" "./")
 
- ("c:/xampp/" (23229 3455 0 0) "xampp_stop.exe" "xampp_start.exe" "xampp_shell.bat" "xampp-control.log" "xampp-control.ini" "xampp-control.exe" "webdav/" "webalizer/" "uninstall.exe" "uninstall.dat" "tomcat/" "tmp/" "test_php.bat" "src/" "setup_xampp.bat" "service.exe" "sendmail/" "RELEASENOTES" "readme_en.txt" "readme_de.txt" "properties.ini" "phpMyAdmin/" "php/" "perl/" "passwords.txt" "mysql_stop.bat" "mysql_start.bat" "mysql/" "mercury_stop.bat" "mercury_start.bat" "MercuryMail/" "mailtodisk/" "mailoutput/" "locale/" "licenses/" "install/" "img/" "htdocs/" "filezilla_stop.bat" "filezilla_start.bat" "filezilla_setup.bat" "FileZillaFTP/" "ctlscript.bat" "contrib/" "cgi-bin/" "catalina_stop.bat" "catalina_start.bat" "catalina_service.bat" "apache_stop.bat" "apache_start.bat" "apache/" "anonymous/" "../" "./")
+ ("e:/HandmadeHero/handmade/code/" (24357 58196 0 0) "win32_renderer_test.h" "win32_renderer_test.cpp" "win32_handmade_renderer.h" "win32_handmade_opengl.cpp" "win32_handmade.h" "win32_handmade.cpp" "todo_check.bat" "todo.txt" "test_png.cpp" "test_asset_builder.h" "test_asset_builder.cpp" "static_check.bat" "simple_preprocessor.cpp" "simple_compressor.cpp" "linux_handmade.cpp" "hhsphere.cpp" "hhfont.cpp" "hhaedit.h" "hhaedit.cpp" "handmade_world_mode.h" "handmade_world_mode.cpp" "handmade_world_gen.h" "handmade_world_gen.cpp" "handmade_world.h" "handmade_world.cpp" "handmade_wav.h" "handmade_wav.cpp" "handmade_types.h" "handmade_tokenizer.h" "handmade_tokenizer.cpp" "handmade_stream.h" "handmade_stream.cpp" "handmade_sort.cpp" "handmade_sim_region.h" "handmade_sim_region.cpp" "handmade_simd.h" "handmade_shared.h" "handmade_sampling_spheres.inl" "handmade_room_gen.h" "handmade_room_gen.cpp" "handmade_riff.h" "handmade_riff.cpp" "handmade_renderer_software.h" "handmade_renderer_software.cpp" "handmade_renderer_opengl.h" "handmade_renderer_opengl.cpp" "handmade_renderer_geometry.h" "handmade_renderer_geometry.cpp" "handmade_renderer.h" "handmade_renderer.cpp" "handmade_random.h" "handmade_png.h" "handmade_png.cpp" "handmade_platform.h" "handmade_particles.h" "handmade_particles.cpp" "handmade_msvc.c" "handmade_memory.h" "handmade_math.h" "handmade_lighting.h" "handmade_lighting.cpp" "handmade_in_game_editor.h" "handmade_in_game_editor.cpp" "handmade_intrinsics.h" "handmade_import.h" "handmade_import.cpp" "handmade_image.h" "handmade_image.cpp" "handmade_hero.ctm" "handmade_gen_math.h" "handmade_gen_math.cpp" "handmade_generated_original.h" "handmade_generated.h" "handmade_file_formats_v0.h" "handmade_file_formats.h" "handmade_file_formats.cpp" "handmade_entity_gen.h" "handmade_entity_gen.cpp" "handmade_entity.h" "handmade_entity.cpp" "handmade_edit_grid.h" "handmade_edit_grid.cpp" "handmade_dev_ui.h" "handmade_dev_ui.cpp" "handmade_debug_interface.h" "handmade_debug.h" "handmade_debug.cpp" "handmade_cutscene.h" "handmade_cutscene.cpp" "handmade_config.h" "handmade_camera.h" "handmade_camera.cpp" "handmade_brain.h" "handmade_brain.cpp" "handmade_box.h" "handmade_box.cpp" "handmade_audio.h" "handmade_audio.cpp" "handmade_asset_rendering.cpp" "handmade_asset.h" "handmade_asset.cpp" "handmade.h" "handmade.cpp" "build.bat" "../" "./")
 
- ("c:/xampp/htdocs/" (23614 16071 0 0) "xampp/" "WebProjects/" "webalizer/" "WebAlgoritmia/" "index.php" "img/" "favicon.ico" "dashboard/" "Blog-Dev/" "bitnami.css" "applications.html" "../" "./")
+ ("c:/dev/UEngine/src/" (24357 58862 0 0) "win32_uengine.h" "win32_uengine.cpp" "uengine_platform.h" "uengine_app_tictactoe.cpp" "math.cpp" "common.h" "../" "./")
 
- ("c:/xampp/htdocs/Blog-Dev/assets/images/" (23654 64986 0 0) "project_blog_header.png" "no_image.png" "kh3_logo.png" "../" "./")
+ ("c:/dev/UEngine/" (24357 58799 0 0) "src/" "obj/" "include/" "env/" "build.bat" "bin/" ".git/" "../" "./")
 
- ("c:/xampp/htdocs/Blog-Dev/assets/" (23654 64986 0 0) "test_view/" "images/" "../" "./")
+ ("c:/Blueberry/" (24315 43770 0 0) "server.log" "blueberry_database.db" "../" "./")
 
- ("c:/xampp/htdocs/Blog-Dev/" (23654 64986 0 0) "style.css" "README.md" "project-post/" "index.html" "assets/" ".git/" "../" "./")
+ ("c:/dev/Blueberry/lib/optick/" (24338 19174 0 0) "optick_server.h" "optick_server.cpp" "optick_serialization.h" "optick_serialization.cpp" "optick_miniz.h" "optick_miniz.cpp" "optick_message.h" "optick_message.cpp" "optick_memory.h" "optick_main.cpp" "optick_gpu.h" "optick_gpu.d3d12.cpp" "optick_gpu.cpp" "optick_core.win.h" "optick_core.platform.h" "optick_core.h" "optick_core.freebsd.h" "optick_core.cpp" "optick_common.h" "OptickCore.lib" "optick.h" "optick.config.h" "../" "./")
 
- ("c:/xampp/htdocs/Blog-Dev/project-post/" (23654 24050 0 0) "style-blog.css" "blog-post.html" "../" "./")
+ ("c:/dev/imgui/" (24335 40507 0 0) "misc/" "LICENSE.txt" "imstb_truetype.h" "imstb_textedit.h" "imstb_rectpack.h" "imgui_widgets.cpp" "imgui_internal.h" "imgui_draw.cpp" "imgui_demo.cpp" "imgui.h" "imgui.cpp" "imconfig.h" "examples/" "docs/" ".gitignore" ".github/" ".gitattributes" ".git/" ".editorconfig" "../" "./")
 
- ("c:/Documentos/Tareas/19A/seminario_est_bases_2/proyecto/Cuidado_con_el_pobre/src/" (23652 25086 0 0) "util.h" "util.cpp" "provedores.h" "provedores.cpp" "productos.h" "productos.cpp" "ordenes_compra.h" "ordenes_compra.cpp" "main.cpp" "common.h" "build.bat" ".#ordenes_compra.cpp" "../" "./")
+ ("c:/dev/JADI/src/" (24320 57071 0 0) "Utils.cs" "SQL.cs" "Program.cs" "Polizas.cs" "MainWindow.cs" "DialogSQLInfo.cs" "DBF.cs" "Cuentas.cs" "build.bat" "AddAcountWindow.cs" ".#MainWindow.cs" "../" "./")
 
- ("c:/tools/Emacs/.emacs_themes/" (23649 3487 0 0) "zonokai-theme-source-code.el" "weyland-yutani-theme-source-code.el" "deep-thought-theme-source-code.el" "blue-mood-theme-source-code.el" "blow_theme.el" "alect-themes-source-code.el" "../" "./")
+ ("c:/dev/WicWacWoe/" (24156 31830 0 0) "wicwacwoe.rdbg" "vc140.pdb" "src/" "README.md" "obj/" "debugger.rdbg" "build.bat" "bin/" ".gitignore" ".git/" "../" "./")
 
- ("c:/tools/" (23649 3479 0 0) "test/" "Tags/" "sublime/" "speedcrunch-0.12-win32/" "semestre.bat" "ruby25/" "remedybg_0_1_3_0/" "php72/" "personal/" "odbg201/" "odbg110/" "mysql/" "mingw64/" "go/" "Emacs/" "EdimCoder_x64_Windows.exe" "dnSpy/" "Cutter-v1.3-win64/" "cdbg/" "arduino-1.8.8/" "Arduino/" "4coder/" "../" "./")
+ ("c:/dev/games/TicTacToe/src/" (24293 15109 0 0) "win32_main.cpp" "tictactoe.cpp" "stb_sprintf.h" "stb.h" "math.cpp" "common.h" "../" "./")
 
- ("c:/Documentos/Projects/LaGlaDOS/" (23649 466 0 0) "src/" "README.md" "output.txt" "LaGlaDOS.asd" "config.txt" ".git/" "../" "./")
+ ("c:/dev/TicTacToeWithManny/src/" (24141 65520 0 0) "main.cpp" "../" "./")
 
- ("c:/Documentos/Projects/arduino/rpm_motor/" (23648 51574 0 0) "rmp_motor.ino" "../" "./")
+ ("c:/dev/TicTacToeWithManny/" (24142 70 0 0) "src/" "README.md" "obj/" "build.bat" "bin/" ".gitignore" ".git/" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/" (23648 29095 0 0) "src/" "res/" "obj_android/" "gen/" "dump/" "debug.keystore.old" "debug.keystore" "build.bat" "bin/" "assets/" "AndroidManifest.xml" "../" "./")
+ ("c:/dev/gladosaurio/src/" (24285 28924 0 0) "gladosaurio.js" "../" "./")
 
- ("c:/Android/android-sdk/build-tools/28.0.3/" (23564 26674 0 0) "zipalign.exe" "x86_64-linux-android-ld.exe" "split-select.exe" "source.properties" "runtime.properties" "renderscript/" "package.xml" "NOTICE.txt" "mipsel-linux-android-ld.exe" "mainDexClassesNoAapt.rules" "mainDexClasses.rules" "mainDexClasses.bat" "mainDexClasses" "llvm-rs-cc.exe" "libwinpthread-1.dll" "libLLVM_android.dll" "libclang_android.dll" "libbcinfo.dll" "libbcc.dll" "libaapt2_jni.dll" "lib64/" "lib/" "i686-linux-android-ld.exe" "dx.bat" "dexdump.exe" "d8.bat" "core-lambda-stubs.jar" "bcc_compat.exe" "arm-linux-androideabi-ld.exe" "apksigner.bat" "aidl.exe" "aarch64-linux-android-ld.exe" "aapt2.exe" "aapt.exe" "../" "./")
+ ("c:/dev/CArrays/" (24284 24833 0 0) "LICENSE" "carray.h" ".git/" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/gen/com/urquieta/somethingwithpower/" (23648 22234 0 0) "R.java" "../" "./")
+ ("c:/dev/memories/" (24284 12517 0 0) "vc140.pdb" "src/" "obj/" "build.bat" "bin/" ".git/" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/gen/com/urquieta/" (23648 22234 0 0) "somethingwithpower/" "../" "./")
+ ("c:/tools/4coder/custom/vim/" (24284 3333 0 0) "README.md" "clearfeld_windmove.cpp" "4coder_vimmish.cpp" "4coder_sandvich_maker.cpp" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/gen/com/" (23648 22234 0 0) "urquieta/" "../" "./")
+ ("c:/tools/4coder/custom/" (24284 2721 0 0) "vim/" "misael/" "lexer_generator/" "languages/" "generated/" "emacs/" "bin/" "4coder_version.h" "4coder_types.h" "4coder_tutorial.h" "4coder_tutorial.cpp" "4coder_token.h" "4coder_token.cpp" "4coder_table.h" "4coder_table.cpp" "4coder_system_types.h" "4coder_system_helpers.cpp" "4coder_system_allocator.cpp" "4coder_string_match.h" "4coder_string_match.cpp" "4coder_stringf.cpp" "4coder_search.h" "4coder_search.cpp" "4coder_scope_commands.h" "4coder_scope_commands.cpp" "4coder_project_commands.h" "4coder_project_commands.cpp" "4coder_profile_static_enable.cpp" "4coder_profile_static_disable.cpp" "4coder_profile_inspect.h" "4coder_profile_inspect.cpp" "4coder_profile.h" "4coder_profile.cpp" "4coder_miblo_numbers.cpp" "4coder_metadata_generator.cpp" "4coder_malloc_allocator.cpp" "4coder_mac_map.cpp" "4coder_log_parser.h" "4coder_log_parser.cpp" "4coder_log.cpp" "4coder_lists.cpp" "4coder_lister_base.h" "4coder_lister_base.cpp" "4coder_layout_rule.h" "4coder_layout_rule.cpp" "4coder_layout.cpp" "4coder_keyboard_macro.cpp" "4coder_jump_sticky.h" "4coder_jump_sticky.cpp" "4coder_jump_lister.h" "4coder_jump_lister.cpp" "4coder_jumping.h" "4coder_jumping.cpp" "4coder_insertion.h" "4coder_insertion.cpp" "4coder_helper.h" "4coder_helper.cpp" "4coder_hash_functions.cpp" "4coder_function_list.h" "4coder_function_list.cpp" "4coder_font_helper.cpp" "4coder_fleury/" "4coder_file_moving.h" "4coder_file.h" "4coder_file.cpp" "4coder_fancy.cpp" "4coder_examples.cpp" "4coder_events.h" "4coder_events.cpp" "4coder_eol.cpp" "4coder_draw.h" "4coder_draw.cpp" "4coder_doc_content_types.h" "4coder_doc_content_types.cpp" "4coder_doc_commands.cpp" "4coder_docs.cpp" "4coder_delta_rule.h" "4coder_delta_rule.cpp" "4coder_default_map.cpp" "4coder_default_include.cpp" "4coder_default_hooks.cpp" "4coder_default_framework_variables.cpp" "4coder_default_framework.h" "4coder_default_framework.cpp" "4coder_default_colors.h" "4coder_default_colors.cpp" "4coder_default_bindings.cpp" "4coder_custom_main.cpp" "4coder_custom.cpp" "4coder_config_grammar.txt" "4coder_config.h" "4coder_config.cpp" "4coder_command_map.h" "4coder_command_map.cpp" "4coder_combined_write_commands.h" "4coder_combined_write_commands.cpp" "4coder_code_index_listers.cpp" "4coder_code_index.h" "4coder_code_index.cpp" "4coder_codepoint_map.cpp" "4coder_cli_command.cpp" "4coder_clipboard.h" "4coder_clipboard.cpp" "4coder_build_commands.h" "4coder_build_commands.cpp" "4coder_buffer_seek_constructors.cpp" "4coder_base_types.h" "4coder_base_types.cpp" "4coder_base_commands.cpp" "4coder_auto_indent.h" "4coder_auto_indent.cpp" "4coder_async_tasks.h" "4coder_async_tasks.cpp" "4coder_app_links_allocator.cpp" ".gitignore" ".git/" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/gen/" (23648 22234 0 0) "com/" "../" "./")
+ ("c:/tools/4coder/" (24284 2719 0 0) "vc140.pdb" "todo.txt" "themes/" "README.txt" "project.4coder" "one_time.pdb" "one_time.ilk" "one_time.exe" "LICENSE.txt" "fonts/" "custom_4coder.dll" "custom/" "config.4coder" "changes.txt" "build.bat" "backup.dll" "4ed_app.dll" "4ed.exe" "4coder_fleury_data_desk_lexer_gen.obj" "4coder_cpp_lexer_gen.obj" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/src/com/urquieta/somethingwithpower/" (23648 21869 0 0) "MainActivity.java" "../" "./")
+ ("c:/tools/4coder/custom/emacs/" (24283 62789 0 0) "emacs_command_map.h" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/res/values/" (23584 5340 0 0) "strings.xml" "../" "./")
+ ("c:/tools/4coder/custom/4coder_fleury/" (24284 1877 0 0) "4coder_fleury_utilities.cpp" "4coder_fleury_ubiquitous.cpp" "4coder_fleury_theme.cpp" "4coder_fleury_power_mode.cpp" "4coder_fleury_plot.cpp" "4coder_fleury_divider_comments.cpp" "4coder_fleury_data_desk_lexer_gen.cpp" "4coder_fleury_cursor.cpp" "4coder_fleury_code_peek.cpp" "4coder_fleury_calc.cpp" "4coder_fleury_brace.cpp" "4coder_fleury_bindings.cpp" "4coder_fleury.cpp" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/res/" (23584 2147 0 0) "values/" "drawable/" "../" "./")
+ ("c:/tools/4coder/custom/misael/" (24284 1122 0 0) "4coder_misael_bindings.cpp" "../" "./")
 
- ("c:/Users/misae/.android/" (23618 30611 0 0) "sites-settings.cfg" "repositories.cfg" "modem-nv-ram-5554" "emu-update-last-check.ini" "devices.xml" "debug.keystore.lock" "debug.keystore" "cache/" "build-cache.lock" "build-cache/" "breakpad/" "avd/" "androidwin.cfg" "analytics.settings" "adbkey.pub" "adbkey" "../" "./")
+ ("c:/tools/4coder/custom/bin/" (24284 907 0 0) "vc140.pdb" "setup_cl_x86.bat" "setup_cl_x64.bat" "setup_cl_generic.bat" "detect_os.sh" "custom_4coder.pdb" "build_one_time.sh" "build_one_time.bat" "build_metadata.sh" "build_metadata.bat" "buildsuper_x86.sh" "buildsuper_x86.bat" "buildsuper_x86-win.bat" "buildsuper_x86-mac.sh" "buildsuper_x86-linux.sh" "buildsuper_x64.sh" "buildsuper_x64.bat" "buildsuper_x64-win.bat" "buildsuper_x64-mac.sh" "buildsuper_x64-linux.sh" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/src/com/urquieta/" (23584 2512 0 0) "somethingwithpower/" "../" "./")
+ ("c:/tools/4coder/custom/generated/" (24254 48727 0 0) "system_api_master_list.h" "system_api_constructor.cpp" "system_api.h" "system_api.cpp" "managed_id_metadata.cpp" "lexer_data_desk.h" "lexer_data_desk.cpp" "lexer_cpp.h" "lexer_cpp.cpp" "custom_api_master_list.h" "custom_api_constructor.cpp" "custom_api.h" "custom_api.cpp" "command_metadata.h" "4coder_event_codes.h" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/src/com/" (23584 2525 0 0) "urquieta/" "../" "./")
+ ("c:/dev/la_glados/src/la_glados_bot/" (24276 30518 0 0) "mod.rs" "la_glados.rs" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/src/" (23584 2147 0 0) "com/" "../" "./")
+ ("c:/dev/la_glados/src/" (24256 30848 0 0) "utils/" "twitch/" "main.rs" "la_glados_bot/" "discord/" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/obj/local/armeabi-v7a/" (23584 5799 0 0) "objs/" "libsomethingwithpower.so" "../" "./")
+ ("c:/dev/la_glados/src/twitch/" (24276 30572 0 0) "twitch.rs" "mod.rs" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/obj/local/" (23584 4965 0 0) "armeabi-v7a/" "../" "./")
+ ("c:/dev/imgui/examples/" (24276 5158 0 0) "README.txt" "libs/" "imgui_impl_win32.h" "imgui_impl_win32.cpp" "imgui_impl_vulkan.h" "imgui_impl_vulkan.cpp" "imgui_impl_sdl.h" "imgui_impl_sdl.cpp" "imgui_impl_osx.mm" "imgui_impl_osx.h" "imgui_impl_opengl3.h" "imgui_impl_opengl3.cpp" "imgui_impl_opengl2.h" "imgui_impl_opengl2.cpp" "imgui_impl_metal.mm" "imgui_impl_metal.h" "imgui_impl_marmalade.h" "imgui_impl_marmalade.cpp" "imgui_impl_glut.h" "imgui_impl_glut.cpp" "imgui_impl_glfw.h" "imgui_impl_glfw.cpp" "imgui_impl_dx9.h" "imgui_impl_dx9.cpp" "imgui_impl_dx12.h" "imgui_impl_dx12.cpp" "imgui_impl_dx11.h" "imgui_impl_dx11.cpp" "imgui_impl_dx10.h" "imgui_impl_dx10.cpp" "imgui_impl_allegro5.h" "imgui_impl_allegro5.cpp" "imgui_examples.sln" "example_win32_directx9/" "example_win32_directx12/" "example_win32_directx11/" "example_win32_directx10/" "example_sdl_vulkan/" "example_sdl_opengl3/" "example_sdl_opengl2/" "example_sdl_metal/" "example_sdl_directx11/" "example_null/" "example_marmalade/" "example_glut_opengl2/" "example_glfw_vulkan/" "example_glfw_opengl3/" "example_glfw_opengl2/" "example_glfw_metal/" "example_emscripten/" "example_apple_opengl2/" "example_apple_metal/" "example_allegro5/" "../" "./")
 
- ("c:/Documentos/Projects/SomethingWithPower/obj/" (23584 4965 0 0) "local/" "../" "./")
+ ("c:/dev/Blueberry/lib/" (24251 23703 0 0) "sqlite/" "optick/" "monocypher/" "imgui/" "../" "./")
 
- ("c:/Documentos/Projects/Something/src/com/urquieta/something/" (23647 47194 0 0) "platform/" "PCMain.java" "output/" "MainActivity.java" "game/" "../" "./")
+ ("e:/SteamLibrary/steamapps/common/Sonic Adventure 2/resource/gd_PC/SAVEDATA/" (24274 44253 0 0) "SONIC2B__S01" "SONIC2B__ALF - copia" "SONIC2B__ALF" "8P-GSNE-SONIC2B__5f____5f__ALF.gci" "../" "./")
 
- ("c:/Documentos/Projects/Something/dump/" (23647 44127 0 0) "pc_something.output" "dump.txt" "../" "./")
+ ("e:/SteamLibrary/steamapps/common/Sonic Adventure 2/resource/gd_PC/" (24274 41781 0 0) "zanki_tical.GVR" "zanki_tails.GVR" "zanki_sonic.GVR" "zanki_shadow.GVR" "zanki_rouge.GVR" "zanki_metal.GVR" "zanki_knuckle.GVR" "zanki_egg2.GVR" "zanki_egg1.GVR" "zanki_dchao.GVR" "zanki_chaos0.GVR" "zanki_chao.GVR" "zanki_amy.GVR" "weeklytitle.GVR" "watertex_bosslast1.prs" "walktex.prs" "twoPVSBG.prs" "twoPVS.prs" "twalktex.prs" "twalkmtn.prs" "twalkmdl.prs" "twalk1tex.prs" "twalk1mdl.prs" "tvSetting.prs" "tutorial.prs" "titletex_tails.prs" "titletex_sonic.prs" "titletex_shadow.prs" "titletex_rouge.prs" "titletex_knuckles.prs" "titletex_golem.prs" "titletex_eggman.prs" "titletex_bosslast2.prs" "titletex_bosslast1.prs" "titletex_bossbogy.prs" "titleD.rel" "ticaltex.prs" "ticalmtn.prs" "ticalmdl.prs" "tgsTitle.prs" "testtex03.prs" "teriostex.prs" "teriosmtn.prs" "teriosmdl.prs" "tails_prison.prs" "tailsBig.prs" "s_efftex.prs" "sunday.sfd" "sunday.m1v" "st_c20.GVR" "storyMain.prs" "stg_title90.prs" "stg_title71.prs" "stg_title70.prs" "stg_title54.prs" "stg_title52.prs" "stg_title51.prs" "stg_title50.prs" "stg_title49.prs" "stg_title47.prs" "stg_title44.prs" "stg_title43.prs" "stg_title40.prs" "stg_title36.prs" "stg_title32.prs" "stg_title31.prs" "stg_title30.prs" "stg_title28.prs" "stg_title27.prs" "stg_title26.prs" "stg_title25.prs" "stg_title24.prs" "stg_title23.prs" "stg_title22.prs" "stg_title21.prs" "stg_title18.prs" "stg_title17.prs" "stg_title16.prs" "stg_title14.prs" "stg_title13.prs" "stg_title12.prs" "stg_title11.prs" "stg_title10.prs" "stg_title09.prs" "stg_title08.prs" "stg_title07.prs" "stg_title06.prs" "stg_title05.prs" "stg_title04.prs" "stg_title03.prs" "stgfd_fogB.bin" "stgfd_fogA.bin" "stgbl1_light.bin" "stg90cam.prs" "stg66_light.bin" "stg65cam.prs" "stg64cam.prs" "stg63cam.prs" "stg61_light_gc.bin" "stg60_light_gc.bin" "stg59_light.bin" "stg59D.rel" "stg59cam.prs" "stg58_light_gc.bin" "stg58_light.bin" "stg58D.rel" "stg58cam.prs" "stg57D.rel" "stg57cam.prs" "stg56D.rel" "stg56cam.prs" "stg55_light_gc.bin" "stg55D.rel" "stg55cam.prs" "stg54_light.bin" "stg54_fire.prs" "stg54D.rel" "stg54cam.prs" "stg53D.rel" "stg53cam.prs" "stg52D.rel" "stg52cam.prs" "stg51_light.bin" "stg51D.rel" "stg51cam.prs" "stg50_light.bin" "stg50D.rel" "stg50cam.prs" "stg49_light.bin" "stg49_fog.bin" "stg49D.rel" "stg49cam.prs" "stg48_light_gc.bin" "stg48_light.bin" "stg48D.rel" "stg48cam.prs" "stg47_light.bin" "stg47D.rel" "stg47cam.prs" "stg46_water.prs" "stg46_light_gc.bin" "stg46_light.bin" "stg46_hamon.prs" "stg46_boko.prs" "stg46D.rel" "stg46cam.prs" "stg45_light.bin" "stg45D.rel" "stg45cam.prs" "stg44_light.bin" "stg44_fogB.bin" "stg44D.rel" "stg44cam.prs" "stg43_light.bin" "stg43D.rel" "stg43cam.prs" "stg42_light.bin" "stg42D.rel" "stg41_light.bin" "stg41_fog.bin" "stg41D.rel" "stg41cam.prs" "stg40_light.bin" "stg40D.rel" "stg40cam.prs" "stg39_light.bin" "stg39D.rel" "stg39cam.prs" "stg38_water.prs" "stg38_light.bin" "stg38_fogB.bin" "stg38_fog.bin" "stg38D.rel" "stg38cam.prs" "stg37_suimenanim2.prs" "stg37_suimenanim.prs" "stg37_light.bin" "stg37D.rel" "stg37cam.prs" "stg36_texpattern2.prs" "stg36_texpattern.prs" "stg36_light.bin" "stg36D.rel" "stg36cam.prs" "stg35_machine.prs" "stg35_light.bin" "stg35D.rel" "stg35cam.prs" "stg34_water2.prs" "stg34_water.prs" "stg34_light.bin" "stg34D.rel" "stg34cam.prs" "stg33_objtex.prs" "stg33D.rel" "stg33cam.prs" "stg32_light.bin" "stg32D.rel" "stg32cam.prs" "stg31_light_gc.bin" "stg31_light.bin" "stg31D.rel" "stg31cam.prs" "stg30_light_gc.bin" "stg30_light.bin" "stg30_fogB.bin" "stg30_fogA.bin" "stg30D.rel" "stg30cam.prs" "stg29_light_gc.bin" "stg29D.rel" "stg28_light.bin" "stg28_fog.bin" "stg28_fire_red.prs" "stg28D.rel" "stg28cam.prs" "stg27_light_gc.bin" "stg27_light.bin" "stg27_fogB.bin" "stg27_fogA.bin" "stg27_fog.bin" "stg27D.rel" "stg27cam.prs" "stg26_water.prs" "stg26_light_gc.bin" "stg26_light.bin" "stg26_fogC.bin" "stg26_fogB.bin" "stg26_fog.bin" "stg26_fire_red.prs" "stg26_fire_green.prs" "stg26_fire_blue.prs" "stg26_backfire.prs" "stg26D.rel" "stg26cam.prs" "stg25_water.prs" "stg25_map.prs" "stg25_light.bin" "stg25_fogB.bin" "stg25_fog.bin" "stg25_fire_red.prs" "stg25_fire_green.prs" "stg25_fire_blue.prs" "stg25D.rel" "stg25cam.prs" "stg24_light.bin" "stg24_fogB.bin" "stg24_fogA.bin" "stg24D.rel" "stg24cam.prs" "stg23_ryuusa.prs" "stg23_light.bin" "stg23_fog.bin" "stg23D.rel" "stg23cam.prs" "stg22_light.bin" "stg22_fog.bin" "stg22D.rel" "stg22cam.prs" "stg21_ryuusa.prs" "stg21_light.bin" "stg21_fog.bin" "stg21_fire.prs" "stg21D.rel" "stg21cam.prs" "stg20_light.bin" "stg20D.rel" "stg20cam.prs" "stg19D.rel" "stg19cam.prs" "stg18_suimenanim.prs" "stg18_light_gc.bin" "stg18_light.bin" "stg18_fogB.bin" "stg18_fog.bin" "stg18D.rel" "stg18cam.prs" "stg17_light.bin" "stg17D.rel" "stg17cam.prs" "stg16_wind.prs" "stg16_light_gc.bin" "stg16_light.bin" "stg16D.rel" "stg16cam.prs" "stg15_light.bin" "stg15_fog.bin" "stg15D.rel" "stg15cam.prs" "stg14_light.bin" "stg14D.rel" "stg14cam.prs" "stg13_light.bin" "stg13D.rel" "stg13cam.prs" "stg12_light.bin" "stg12_fog.bin" "stg12D.rel" "stg12cam.prs" "stg11_light_gc.bin" "stg11_light.bin" "stg11_fogB.bin" "stg11D.rel" "stg11cam.prs" "stg10_light_gc.bin" "stg10_light.bin" "stg10_fogB.bin" "stg10_fog.bin" "stg10D.rel" "stg10cam.prs" "stg09_light_gc.bin" "stg09_light.bin" "stg09_fog.bin" "stg09D.rel" "stg09cam.prs" "stg08_light_gc.bin" "stg08_light.bin" "stg08_fogB.bin" "stg08_fog.bin" "stg08D.rel" "stg08cam.prs" "stg07_suimenanim.prs" "stg07_light.bin" "stg07_fogB.bin" "stg07_fog.bin" "stg07D.rel" "stg07cam.prs" "stg06_light.bin" "stg06_fog.bin" "stg06D.rel" "stg06cam.prs" "stg05_light_gc.bin" "stg05_light.bin" "stg05D.rel" "stg05cam.prs" "stg04_light.bin" "stg04_fog.bin" "stg04D.rel" "stg04cam.prs" "stg03_light.bin" "stg03D.rel" "stg03cam.prs" "stg01cam.prs" "stg00_light.bin" "stg00D.rel" "stg00cam.prs" "StageSelectConfig.ini" "stageMapBG.prs" "stageMap.prs" "staffRoll.prs" "ssonictex.prs" "ssonicmtn.prs" "ssonicmdl.prs" "ssonefftex.prs" "sshadowtex.prs" "sshadowmtn.prs" "sshadowmdl.prs" "soundTest_e.prs" "soundTest.prs" "sonictex.prs" "sonicmtn.prs" "sonicmdl.prs" "sonic1tex.prs" "sonic1mdl.prs" "socean_nc_mbzi_yukai_BK_uvd.prs" "SOC/" "smog0101.sfd" "smog0101.m1v" "sky.prs" "sh_efftex.prs" "shotHero.prs" "shotDark.prs" "short2p_city.prs" "shadow1tex.prs" "shadow1mdl.prs" "set_chao_neut_u.bin" "set_chao_neut_s.bin" "set_chao_neut.bin" "set_chao_hero_u.bin" "set_chao_hero_s.bin" "set_chao_hero.bin" "set_chao_dark_u.bin" "set_chao_dark_s.bin" "set_chao_dark.bin" "set_b_last1_u.bin" "set_b_last1_s.bin" "set_b_hotshot_u.bin" "set_b_hotshot_s.bin" "set_b_Golem_u.bin" "set_b_Golem_s.bin" "set_b_Golem_e_u.bin" "set_b_Golem_e_s.bin" "set_b_fdog_u.bin" "set_b_fdog_s.bin" "set_b_bigfoot_u.bin" "set_b_bigfoot_s.bin" "set_b_bigbogy_u.bin" "set_b_bigbogy_s.bin" "setCartTails_hd.bin" "setCartTails.bin" "setCartRouge_hd.bin" "setCartRouge.bin" "setCartMini3.bin" "setCartMini2.bin" "setCartMini1.bin" "setCartBase.bin" "set0059_u.bin" "set0059_s.bin" "set0058_u.bin" "set0058_s.bin" "set0058_2p_u.bin" "set0058_2p_s.bin" "set0057_2p_u.bin" "set0057_2p_s.bin" "set0056_u.bin" "set0056_s.bin" "set0055_u.bin" "set0055_s.bin" "set0054_u.bin" "set0054_s.bin" "set0053_u.bin" "set0053_s.bin" "set0052_u.bin" "set0052_s.bin" "SET0051_U.BIN" "SET0051_S.BIN" "SET0051_2P_U.BIN" "SET0051_2P_S.BIN" "SET0050_U.BIN" "SET0050_S.BIN" "SET0050_2P_U.BIN" "SET0050_2P_S.BIN" "SET0049_U.BIN" "SET0049_S.BIN" "SET0049_2P_U.BIN" "SET0049_2P_S.BIN" "SET0048_U.BIN" "SET0048_S.BIN" "SET0048_2P_U.BIN" "SET0048_2P_S.BIN" "SET0047_U.BIN" "SET0047_S.BIN" "SET0047_2P_U.BIN" "SET0047_2P_S.BIN" "SET0046_U.BIN" "SET0046_S.BIN" "SET0046_2P_U.BIN" "SET0046_2P_S.BIN" "set0045_u.bin" "set0045_s.bin" "set0044_u.bin" "set0044_s.bin" "set0044_hd_u.bin" "set0044_hd_s.bin" "set0044_2p_u.bin" "set0044_2p_s.bin" "set0043_u.bin" "set0043_s.bin" "set0043_hd_u.bin" "set0043_hd_s.bin" "set0042_u.bin" "SET0042_S.BIN" "set0041_2p_u.bin" "SET0041_2P_S.BIN" "set0040_u.bin" "set0040_s.bin" "set0040_hd_u.bin" "set0040_hd_s.bin" "set0040_2p_u.bin" "set0040_2p_s.bin" "SET0039_U.BIN" "set0039_s.bin" "set0038_u.bin" "set0038_s.bin" "set0038_hd_s.bin" "set0037_u.bin" "set0037_s.bin" "set0037_hd_s.bin" "set0036_u.bin" "set0036_s.bin" "set0036_hd_s.bin" "set0035_u.bin" "set0035_s.bin" "set0035_hd_s.bin" "set0034_u.bin" "set0034_s.bin" "set0034_hd_s.bin" "set0033_u.bin" "set0033_s.bin" "set0032_u.bin" "set0032_s.bin" "set0032_hd_u.bin" "set0032_hd_s.bin" "set0032_2p_u.bin" "set0032_2p_s.bin" "set0031_u.bin" "set0031_s.bin" "set0030_u.bin" "set0030_s.bin" "set0030_hd_u.bin" "set0030_hd_s.bin" "set0030_2p_u.bin" "set0030_2p_s.bin" "set0029_u.bin" "set0029_s.bin" "set0028_u.bin" "set0028_s.bin" "set0028_hd_u.bin" "set0028_hd_s.bin" "set0027_u.bin" "set0027_s.bin" "set0027_hd_s.bin" "set0026_u.bin" "set0026_s.bin" "set0026_hd_s.bin" "set0026_2p_u.bin" "set0026_2p_s.bin" "set0025_u.bin" "set0025_s.bin" "set0025_hd_s.bin" "set0025_2p_u.bin" "set0025_2p_s.bin" "SET0024_U.BIN" "set0024_s.bin" "set0024_hd_s.bin" "set0023_u.bin" "set0023_s.bin" "set0023_hd_u.bin" "set0023_hd_s.bin" "set0022_u.bin" "set0022_s.bin" "set0022_hd_s.bin" "set0021_u.bin" "set0021_s.bin" "set0021_hd_u.bin" "set0021_hd_s.bin" "SET0020_U.BIN" "SET0020_S.BIN" "SET0019_U.BIN" "set0019_s.bin" "set0018_u.bin" "set0018_s.bin" "set0018_hd_u.bin" "set0018_hd_s.bin" "set0017_u.bin" "set0017_s.bin" "set0017_hd_s.bin" "set0016_u.bin" "set0016_s.bin" "set0016_hd_u.bin" "set0016_hd_s.bin" "set0015_u.bin" "set0015_s.bin" "set0014_u.bin" "set0014_s.bin" "set0014_hd_s.bin" "set0014_2p_u.bin" "set0014_2p_s.bin" "set0013_u.bin" "set0013_s.bin" "set0013_hd_s.bin" "set0013_2p_u.bin" "set0013_2p_s.bin" "set0012_u.bin" "set0012_s.bin" "set0012_hd_u.bin" "set0012_hd_s.bin" "set0011_u.bin" "set0011_s.bin" "set0011_hd_u.bin" "set0011_hd_s.bin" "set0011_2p_s.bin" "set0010_u.bin" "set0010_s.bin" "set0010_hd_u.bin" "set0010_hd_s.bin" "set0010_2p_u.bin" "set0009_u.bin" "set0009_s.bin" "set0009_hd_s.bin" "set0008_u.bin" "set0008_s.bin" "set0008_hd_s.bin" "set0008_2p_u.bin" "set0008_2p_s.bin" "set0007_u.bin" "set0007_s.bin" "set0007_hd_u.bin" "set0007_hd_s.bin" "set0006_u.bin" "set0006_s.bin" "set0006_hd_u.bin" "set0006_hd_s.bin" "set0006_2p_u.bin" "set0006_2p_s.bin" "set0005_u.bin" "set0005_s.bin" "set0005_hd_s.bin" "set0005_2P_u.bin" "set0005_2P_s.bin" "set0004_u.bin" "set0004_s.bin" "set0004_hd_s.bin" "set0004_2p_u.bin" "set0004_2p_s.bin" "set0003_u.bin" "set0003_s.bin" "set0003_hd_u.bin" "set0003_hd_s.bin" "set0003_2p_u.bin" "set0003_2p_s.bin" "set0001_u.bin" "set0001_s.bin" "SET0000_U.BIN" "SET0000_S.BIN" "segalogo.prs" "screenEffect.prs" "SAVEDATA/" "r_efftex.prs" "rougetex.prs" "rougemtn.prs" "rougemdl.prs" "rougeBig.prs" "resultCart.prs" "result.prs" "PRS/" "pressstart.prs" "plcommtn.prs" "paldam_on.GVR" "paldam_off.GVR" "otherprintD.rel" "optionThema.prs" "options.prs" "opening.bnr" "op360us.sfd" "op360us.m1v" "op360jp.sfd" "op360jp.m1v" "objtex_stgbbf.prs" "objtex_stg58.prs" "objtex_stg55.prs" "objtex_stg54.prs" "objtex_stg53.prs" "objtex_stg52.prs" "objtex_stg51.prs" "objtex_stg50.prs" "objtex_stg49.prs" "objtex_stg47.prs" "objtex_stg46.prs" "objtex_stg45.prs" "objtex_stg44.prs" "objtex_stg43.prs" "objtex_stg42.prs" "objtex_stg40.prs" "objtex_stg39.prs" "objtex_stg38.prs" "objtex_stg34.prs" "objtex_stg32.prs" "objtex_stg31.prs" "objtex_stg30.prs" "objtex_stg29.prs" "objtex_stg28.prs" "objtex_stg27.prs" "objtex_stg26.prs" "objtex_stg25.prs" "objtex_stg24.prs" "objtex_stg23.prs" "objtex_stg22.prs" "objtex_stg21.prs" "objtex_stg19.prs" "objtex_stg18.prs" "objtex_stg17.prs" "objtex_stg16.prs" "objtex_stg15p.prs" "objtex_stg14.prs" "objtex_stg13.prs" "objtex_stg12.prs" "objtex_stg11.prs" "objtex_stg10.prs" "objtex_stg09.prs" "objtex_stg08.prs" "objtex_stg07.prs" "objtex_stg06.prs" "objtex_stg05.prs" "objtex_stg04.prs" "objtex_stg03.prs" "objtex_golem_e.prs" "objtex_golem.prs" "objtex_common.prs" "objtex_cc_walker.prs" "objtex_cc_common.prs" "objtex_bossbogy.prs" "nsw_title.prs" "nsw_select.prs" "newMenu_e.prs" "newMenu.prs" "msgChaoKinWhole_s.prs" "msgChaoKinWhole_j.prs" "msgChaoKinWhole_i.prs" "msgChaoKinWhole_g.prs" "msgChaoKinWhole_f.prs" "msgChaoKinWhole_e.prs" "msgChaoKinPrincipal_s.prs" "msgChaoKinPrincipal_j.prs" "msgChaoKinPrincipal_i.prs" "msgChaoKinPrincipal_g.prs" "msgChaoKinPrincipal_f.prs" "msgChaoKinPrincipal_e.prs" "MsgChaoKarateName_j.bin" "MsgChaoKarateName_e.bin" "msgChaoEntrance_s.bin" "msgChaoEntrance_j.bin" "msgChaoEntrance_i.bin" "msgChaoEntrance_g.bin" "msgChaoEntrance_f.bin" "msgChaoEntrance_e.bin" "MPB/" "move_tails.prs" "move_sonic.prs" "move_knuckles.prs" "move_kihon.prs" "move_chao.prs" "modeltex_bosslast2.prs" "modeltex_bosslast1.prs" "modeltex_bossbogy.prs" "MLT/" "missiontex_ta2.prs" "missiontex_ta.prs" "missiontex_so2.prs" "missiontex_so.prs" "missiontex_sh2.prs" "missiontex_sh.prs" "missiontex_ro2.prs" "missiontex_ro.prs" "missiontex_kn2.prs" "missiontex_kn.prs" "missiontex_eg2.prs" "missiontex_eg.prs" "minimal_usa.prs" "minimal_uni.prs" "minimal_tora.prs" "minimal_ska.prs" "minimal_shep.prs" "minimal_rako.prs" "minimal_phen.prs" "minimal_pen.prs" "minimal_oum.prs" "minimal_kuma.prs" "minimal_kuja.prs" "minimal_kon.prs" "minimal_ino.prs" "minimal_han.prs" "minimal_gori.prs" "minimal_goma.prs" "minimal_dra.prs" "minimal_chit.prs" "minimal_bone.prs" "minimal_batman.prs" "minimal_ara.prs" "milestex.prs" "milesmtn.prs" "milesmdl.prs" "metal_2p.prs" "metalsonictex.prs" "metalsonicmtn.prs" "metalsonicmdl.prs" "MessageK/" "Message/" "mcwarn_s.prs" "mcwarn_j.prs" "mcwarn_g.prs" "mcwarn_f.prs" "mcwarn_e.prs" "mcwarnD.rel" "maria90sec.sfd" "maria90sec.m1v" "map_swim_s.GVR" "map_swim.GVR" "map_run_s.GVR" "map_run.GVR" "map_power_s.GVR" "map_power.GVR" "map_long.GVR" "map_il.GVR" "map_fly_s.GVR" "map_fly.GVR" "map_all.GVR" "mainMenu.prs" "lost.prs" "logotexe.prs" "logotex.prs" "logopresen.prs" "limtails.prs" "LightAllergyConfig.txt" "levupdai_tmtex.prs" "levupdai_thtex.prs" "levelup_light_uvd.prs" "landtx59.prs" "landtx57.prs" "landtx55.prs" "landtx54.prs" "landtx53.prs" "landtx52.prs" "landtx51.prs" "landtx50_uv.prs" "landtx50.prs" "landtx49.prs" "landtx48.prs" "landtx47.prs" "landtx46.prs" "landtx45.prs" "landtx44_UV.prs" "landtx44.prs" "landtx43_UV.prs" "landtx43.prs" "landtx41.prs" "landtx40_UV.prs" "landtx40.prs" "landtx39.prs" "landtx38.prs" "landtx37.prs" "landtx36.prs" "landtx35.prs" "landtx34.prs" "landtx33_uv.prs" "landtx33.prs" "landtx32_uv.prs" "landtx32_MA.prs" "landtx32.prs" "landtx31_UV.prs" "landtx31.prs" "landtx30_UV.prs" "landtx30.prs" "landtx29.prs" "landtx28.prs" "landtx27.prs" "landtx26.prs" "landtx25.prs" "landtx24.prs" "landtx23.prs" "landtx22.prs" "landtx21.prs" "landtx20.prs" "landtx19_suimen.prs" "landtx19.prs" "landtx18.prs" "landtx17.prs" "landtx16.prs" "landtx15.prs" "landtx14.prs" "landtx13.prs" "landtx12.prs" "landtx11.prs" "landtx10.prs" "landtx09.prs" "landtx08.prs" "landtx07.prs" "landtx06.prs" "landtx05.prs" "landtx04.prs" "landtx03_suimen.prs" "landtx03.prs" "LANDTX00.prs" "k_efftex.prs" "knucktex.prs" "knuckmtn.prs" "knuckmdl.prs" "kgametexsh.prs" "kgametexdz.prs" "kgametex.prs" "kartRaceBg.prs" "kartRace.prs" "kartExModel.prs" "jet1.GVR" "interview_jp.sfd" "interview.sfd" "icon_bnr.dat" "hotshot_title_tex.prs" "highway.prs" "grobo_title_mojitex.prs" "grobo_tex.prs" "grobo_eff_tex.prs" "grobo_eff2_tex.prs" "greenforest.prs" "gerald35.sfd" "gerald35.m1v" "gerald.sfd" "gerald.m1v" "GCNDefaultD.str" "GCNDefault.str" "GCAX.conf" "game2ptex.prs" "forMovie.prs" "Font/" "finalrush.prs" "finalchase.prs" "fileSelect_e.prs" "fileSelect.prs" "fdog_title_tex.prs" "e_unitex.prs" "e_t_emitex.prs" "e_s_kumitex.prs" "e_shotex.prs" "e_sarutex.prs" "e_pathkyokotex.prs" "e_pathkumitex.prs" "e_namitex.prs" "e_ltex.prs" "e_lastex.prs" "e_kyokotex.prs" "e_kumitex.prs" "e_g_kumitex.prs" "e_goldtex.prs" "e_ghostex3.prs" "e_ghostex2.prs" "e_ghostex.prs" "e_ghoratex.prs" "e_e_kumitex.prs" "e_exptex.prs" "e_emitex.prs" "e_chaostex.prs" "e_captex.prs" "e_b_kumitex.prs" "e_bultex.prs" "e_bomtex.prs" "e_bigtex.prs" "e_beetontex.prs" "e_batatex.prs" "e_akahigetex.prs" "e_aitex.prs" "e_1000tex.prs" "ewalktex.prs" "ewalkmtn.prs" "ewalkmdl.prs" "ewalk2tex.prs" "ewalk2mdl.prs" "ewalk1tex.prs" "ewalk1mdl.prs" "event_adx_e.afs" "event_adx.afs" "eventD.rel" "event/" "eternal_engine.prs" "EndingD.rel" "emblemResult.prs" "EmblemGetD.rel" "eggtex.prs" "eggmtn.prs" "eggmdl.prs" "eggconttex.prs" "eGet.prs" "EFMSGFONT_KANJI24.BIN" "efmsgfont_ascii24S.bin" "efmsgfont_ascii24E.bin" "efftex_common.prs" "efftex_bosslast2.prs" "efftex_bosslast1.prs" "efftex_bossbogy.prs" "efftex2_bosslast1.prs" "e2egreen.sfd" "e2egreen.m1v" "e206fsp.sfd" "e206fsp.m1v" "e200moniter.sfd" "e200moniter.m1v" "e131moniter.sfd" "e131moniter.m1v" "e124moniter2.sfd" "e124moniter2.m1v" "e0609_m.sfd" "e0428_m.sfd" "e015mva.sfd" "e015mva.m1v" "e015bmv.sfd" "e015bmv.m1v" "e0105tv.sfd" "e0105tv.m1v" "e0100ekemuri.sfd" "e0100ekemuri.m1v" "e0100cbakuha.sfd" "e0100cbakuha.m1v" "e0025baku.sfd" "e0025baku.m1v" "dwalktex.prs" "dwalkmtn.prs" "dwalkmdl.prs" "dummy.bin" "DLL/" "demo54_2p.prs" "demo53_2p.prs" "demo53_2p.bin" "demo50_2p.prs" "demo48_2p.prs" "demo48_2p.bin" "demo46_2p.prs" "demo46_2p.bin" "demo21.prs" "demo18.prs" "demo16.prs" "demo14.prs" "demo13_2p.prs" "demo13_2p.bin" "demo13.prs" "demo11.prs" "demo09.prs" "demo03.prs" "Debug/" "cwalktex.prs" "cwalkmtn.prs" "cwalkmdl.prs" "crazy.prs" "course.prs" "cosmicwall.prs" "coromap.sfd" "coromap.m1v" "console.prs" "congratulations.prs" "coming.prs" "city_escape.prs" "ChaoStgStadium.prs" "ChaoStgRaceNeut.prs" "ChaoStgRaceHero.prs" "ChaoStgRaceDark.prs" "ChaoStgRace.prs" "ChaoStgOdekake.prs" "ChaoStgNeut.prs" "ChaoStgLobbyHDK.prs" "ChaoStgLobbyH0K.prs" "ChaoStgLobby0DK.prs" "ChaoStgLobby00K.prs" "ChaoStgLobby000.prs" "ChaoStgLobby.rel" "ChaoStgLobby.prs" "ChaoStgKinder.prs" "ChaoStgKarate.prs" "ChaoStgHero.prs" "ChaoStgEntrance.prs" "ChaoStgDark.prs" "ChaoSetRaceLandNeut.bin" "ChaoSetRaceLandHero.bin" "ChaoSetRaceLandDark.bin" "ChaoSetRaceJwlSwm.bin" "ChaoSetRaceJwlRun.bin" "ChaoSetRaceJwlPow.bin" "ChaoSetRaceJwlLng.bin" "ChaoSetRaceJwlIL_s.bin" "ChaoSetRaceJwlIL.bin" "ChaoSetRaceJwlFly.bin" "ChaoSetRaceBegSwm.bin" "ChaoSetRaceBegRun.bin" "ChaoSetRaceBegPow.bin" "ChaoSetRaceBegFly.bin" "chaosdrive_tex.prs" "chaos0tex.prs" "chaos0mtn.prs" "chaos0mdl.prs" "ChaoRaceCamJwlSwm.bin" "ChaoRaceCamJwlRun.bin" "ChaoRaceCamJwlPow.bin" "ChaoRaceCamJwlLng.bin" "ChaoRaceCamJwlIL.bin" "ChaoRaceCamJwlFly.bin" "ChaoRaceCamBegSwm.bin" "ChaoRaceCamBegRun.bin" "ChaoRaceCamBegPow.bin" "ChaoRaceCamBegFly.bin" "ChaoMotionsD.rel" "ChaoMain.prs" "cc_poison.prs" "cart_fog.bin" "cartObjModels.prs" "cartLim.prs" "cartData.prs" "CartD.rel" "camset0013S.bin" "c0_efftex.prs" "bsplashlb1.prs" "bsplashdl.prs" "bsplash.prs" "brougetex.prs" "brougemdl.prs" "boss_pwguage_tex.prs" "Boss_Last2D.rel" "boss_last1D.rel" "boss_hotshotD.rel" "Boss_GolemED.rel" "Boss_GolemD.rel" "boss_fdogD.rel" "boss_bigfootD.rel" "boss_bigbogyD.rel" "BOSSTX_LAST1.prs" "BOSSTX_GUARD0.prs" "bosstx_golem_e.prs" "bosstx_golem.prs" "BOSSTX_FLYINGDOG.prs" "BOSSTX_BIGFOOT.prs" "bosstx_bigbogy.prs" "bossResult.prs" "bossAttack.prs" "bknucktex.prs" "bknuckmdl.prs" "bigfoot_title_tex.prs" "BG_tails_e.prs" "BG_tails.prs" "BG_sonic_e.prs" "BG_sonic.prs" "BG_shadow_e.prs" "BG_shadow.prs" "BG_secretary_e.prs" "BG_secretary.prs" "BG_rouge_e.prs" "BG_rouge.prs" "BG_omochao_e.prs" "BG_omochao.prs" "BG_maria_e.prs" "BG_maria.prs" "BG_knuckles_e.prs" "BG_knuckles.prs" "BG_eggman_e.prs" "BG_eggman.prs" "BG_default_e.prs" "BG_default.prs" "BG_amy_e.prs" "BG_amy.prs" "bgtex_space0.prs" "bgtex55.prs" "bgtex53.prs" "bgtex52.prs" "bgtex48.prs" "bgtex47.prs" "bgtex46.prs" "bgtex44.prs" "bgtex43.prs" "bgtex42.prs" "bgtex41.prs" "bgtex40.prs" "bgtex38.prs" "bgtex37.prs" "bgtex36.prs" "bgtex35.prs" "bgtex34.prs" "bgtex33.prs" "bgtex32.prs" "bgtex31.prs" "bgtex30.prs" "bgtex29.prs" "bgtex28.prs" "bgtex27.prs" "bgtex26.prs" "bgtex25.prs" "bgtex24.prs" "bgtex23.prs" "bgtex22.prs" "bgtex21.prs" "bgtex18.prs" "bgtex17.prs" "bgtex16.prs" "bgtex15.prs" "bgtex14.prs" "bgtex13.prs" "bgtex12.prs" "bgtex10.prs" "bgtex06.prs" "bgtex05.prs" "BGTEX04.prs" "bgtex03.prs" "bgEnkei.prs" "bgCart.prs" "bgbossgoleme.prs" "bgbossgolem.prs" "bbyenow.sfd" "bbyenow.m1v" "battleB.prs" "batadvPlayerChara.prs" "batadvPlayer.prs" "arasujiTails.prs" "arasujiSonic.prs" "arasujiShadow.prs" "arasujiRouge.prs" "arasujiKnuckles.prs" "arasujiEggman.prs" "arasujiAmy.prs" "amy_efftex.prs" "amytex.prs" "amymtn.prs" "amymdl.prs" "al_toy.prs" "al_tex_stadium_obj.prs" "al_tex_odekake_menu_jp.prs" "al_tex_odekake_menu_en.prs" "al_tex_ent_common_jp.prs" "al_tex_ent_common_en.prs" "al_tex_common.prs" "al_tex_chao.prs" "al_tex_cave_menu_jp.prs" "al_tex_cave_menu_en.prs" "al_stg_stadium_tex.prs" "al_stg_race_tex.prs" "al_stg_race_hero_tex.prs" "al_stg_race_dark_tex.prs" "al_stg_neut_tex.prs" "al_stg_lobby_tex.prs" "al_stg_lobby_hdk_tex.prs" "al_stg_lobby_h0k_tex.prs" "al_stg_lobby_0dk_tex.prs" "al_stg_lobby_00k_tex.prs" "al_stg_lobby_000_tex.prs" "AL_STG_KINDER_TEX.prs" "al_stg_kinder_pr_tex.prs" "al_stg_kinder_pl_tex.prs" "al_stg_kinder_obj_tex.prs" "al_stg_kinder_li_tex.prs" "al_stg_kinder_ho_tex.prs" "al_stg_kinder_he_tex.prs" "al_stg_kinder_fo_tex.prs" "al_stg_kinder_drug_tex.prs" "al_stg_kinder_co_tex.prs" "al_stg_kinder_cl_tex.prs" "al_stg_kinder_bl_tex.prs" "al_stg_kinder_ad_tex.prs" "al_stg_karate_tex.prs" "al_stg_karate_adv_tex.prs" "al_stg_hero_tex.prs" "AL_STG_ENTRANCE_TEX.prs" "al_stg_dark_tex.prs" "al_stagetitle_race_j_tex.prs" "al_stagetitle_race_e_tex.prs" "al_stagetitle_lobby_j_tex.prs" "al_stagetitle_lobby_e_tex.prs" "al_stagetitle_kinder_j_tex.prs" "al_stagetitle_kinder_e_tex.prs" "al_stagetitle_gneut_j_tex.prs" "al_stagetitle_gneut_e_tex.prs" "al_stagetitle_ghero_j_tex.prs" "al_stagetitle_ghero_e_tex.prs" "al_stagetitle_gdark_j_tex.prs" "al_stagetitle_gdark_e_tex.prs" "al_race_water_tex.prs" "al_race_water_hero_tex.prs" "al_race_water_dark_tex.prs" "AL_RACE_TEX.prs" "al_race_obj_tex.prs" "al_race_obj_n_tex.prs" "al_race_obj_h_tex.prs" "al_race_obj_d_tex.prs" "al_race_obj_c_tex.prs" "al_race_map_tex.prs" "al_race_adv_tex.prs" "al_parts.prs" "al_panel.prs" "al_palette.plt" "al_object.prs" "al_neut_obj_tex.prs" "al_nc02.GVP" "al_nc01.GVP" "al_nc00.GVP" "al_nc.GVP" "al_mouth.prs" "al_mm_kage.prs" "al_mini_parts_tex.prs" "al_minimal_tex.prs" "al_lobby_obj_tex.prs" "al_karate_obj_tex.prs" "al_karate_adv_tex_j.prs" "al_karate_adv_tex_e.prs" "al_jewel.prs" "al_icon.prs" "al_hsz.GVP" "al_hss.GVP" "al_hsr.GVP" "al_hsp.GVP" "al_hsn.GVP" "al_hsf.GVP" "al_hrz.GVP" "al_hrs.GVP" "al_hrr.GVP" "al_hrp.GVP" "al_hrn.GVP" "al_hrf.GVP" "al_hr02.GVP" "al_hr01.GVP" "al_hr00.GVP" "al_hpz.GVP" "al_hps.GVP" "al_hpr.GVP" "al_hpp.GVP" "al_hpn.GVP" "al_hpf.GVP" "al_hp02.GVP" "al_hp01.GVP" "al_hp00.GVP" "al_hnz.GVP" "al_hns.GVP" "al_hnr.GVP" "al_hnp.GVP" "al_hnn.GVP" "al_hnf.GVP" "al_hfz.GVP" "al_hfs.GVP" "al_hfr.GVP" "al_hfp.GVP" "al_hfn.GVP" "al_hff.GVP" "al_hero_obj_tex.prs" "al_hcz.GVP" "al_hcs.GVP" "al_hcr.GVP" "al_hcp.GVP" "al_hcn.GVP" "al_hcf.GVP" "al_hc.GVP" "al_eye.prs" "al_env_tex.prs" "al_ent_vms_tex.prs" "al_ent_title_j_tex.prs" "al_ent_title_e_tex.prs" "al_ent_rival_tex.prs" "al_ent_common_tex.prs" "al_ent_char_j_tex.prs" "al_ent_char_e_tex.prs" "AL_ENTRANCE_TEX.prs" "al_entrance_obj.prs" "al_dc.GVP" "al_dark_obj_tex.prs" "al_common_tex.prs" "al_child02.GVP" "al_body.prs" "alphaTitle_e.prs" "alphaTitle.prs" "adxlogo.prs" "ADX/" "advShareData.prs" "advertiseD.rel" "../" "./")
 
- ("c:/Documentos/Projects/Something/gen/com/urquieta/something/" (23571 14570 0 0) "R.java" "BuildConfig.java" "../" "./")
+ ("e:/SteamLibrary/steamapps/common/Sonic Adventure 2/resource/" (24274 41781 0 0) "Shader/" "gd_PC/" "../" "./")
 
- ("c:/Documentos/Projects/Something/gen/com/urquieta/" (23571 14570 0 0) "something/" "../" "./")
+ ("e:/SteamLibrary/steamapps/common/Sonic Adventure 2/" (24274 41954 0 0) "steam_appid.txt" "steam_api.dll" "SteamMetricsSDK.dll" "sonic2app.exe" "resource/" "redist/" "Launcher.exe" "installscript.vdf" "Config/" "../" "./")
 
- ("c:/Documentos/Projects/Something/gen/com/" (23571 14570 0 0) "urquieta/" "../" "./")
+ ("e:/SteamLibrary/steamapps/common/" (24274 41254 0 0) "Sonic Adventure 2/" "../" "./")
 
- ("c:/Documentos/Projects/Something/gen/" (23571 14570 0 0) "R.java.d" "com/" "../" "./")
+ ("e:/SteamLibrary/steamapps/" (24274 41781 0 0) "temp/" "shadercache/" "downloading/" "common/" "appmanifest_213610.acf" "../" "./")
 
- ("c:/Documentos/Projects/Reference/NDK_Android_code/Chapter1/NDKTemplete/" (23583 62900 0 0) "src/" "res/" "project.properties" "jni/" "build.xml" "AndroidManifest.xml" "../" "./")
+ ("e:/SteamLibrary/" (24274 39494 0 0) "steamapps/" "steam.dll" "../" "./")
 
- ("c:/Documentos/Projects/Reference/NDK_Android_code/Chapter1/" (23584 2117 0 0) "Win_Min2/" "Win_Min1/" "NDKTemplete/" "App3/" "App1/" "../" "./")
+ ("c:/dev/la_glados/" (24256 28857 0 0) "target/" "src/" "sqlite3.lib" "second.db" "la_glados.sln" "laglados.rdbg" "keywords.txt" "ignore/" "game.txt" "example.json" "database.sql" "database.db" "database - copia.db" "config.txt" "Cargo.toml" "Cargo.lock" "build.bat" ".vs/" ".projectile" ".gitignore" ".git/" ".#config.json" "../" "./")
 
- ("c:/Documentos/Projects/Reference/NDK_Android_code/Chapter2/" (23583 62900 0 0) "Box2D_Sample/" "3_Libraries/" "2_Box2D/" "1_FixedFonts/" "../" "./")
+ ("c:/dev/Blueberry/lib/tracy/common/" (24251 22941 0 0) "tracy_sema.h" "tracy_lz4hc.hpp" "tracy_lz4hc.cpp" "tracy_lz4.hpp" "tracy_lz4.cpp" "tracy_benaphore.h" "TracySystem.hpp" "TracySystem.cpp" "TracySocket.hpp" "TracySocket.cpp" "TracyQueue.hpp" "TracyProtocol.hpp" "TracyMutex.hpp" "TracyForceInline.hpp" "TracyColor.hpp" "TracyApi.h" "TracyAlloc.hpp" "TracyAlign.hpp" "../" "./")
 
- ("c:/Documentos/Projects/Reference/NDK_Android_code/" (23583 62918 0 0) "README.md" "LICENSE" "Libs.Android/" "Chapter9/" "Chapter8/" "Chapter7/" "Chapter6/" "Chapter5/" "Chapter4/" "Chapter3/" "Chapter2/" "Chapter1/" "../" "./")
+ ("c:/dev/Blueberry/lib/monocypher/" (24138 57187 0 0) "monocypher.h" "monocypher.c" "../" "./")
 
- ("c:/Android/android-sdk/tools/ant/" (23597 44638 0 0) "uibuild.xml" "NOTICE" "build.xml" "../" "./")
+ ("c:/dev/Blueberry/lib/tracy/client/" (24133 38109 0 0) "tracy_rpmalloc.hpp" "tracy_rpmalloc.cpp" "tracy_concurrentqueue.h" "TracyThread.hpp" "TracySysTracePayload.hpp" "TracySysTrace.hpp" "TracySysTrace.cpp" "TracySysTime.hpp" "TracySysTime.cpp" "TracyScoped.hpp" "TracyProfiler.hpp" "TracyProfiler.cpp" "TracyLock.hpp" "TracyFastVector.hpp" "TracyDxt1.hpp" "TracyDxt1.cpp" "TracyCallstack.hpp" "TracyCallstack.h" "TracyCallstack.cpp" "TracyArmCpuTable.hpp" "../" "./")
 
- ("c:/Android/android-sdk/tools/" (23518 8820 0 0) "uiautomatorviewer.bat" "traceview.bat" "templates/" "support/" "source.properties" "qemu/" "proguard/" "package.xml" "NOTICE.txt" "monkeyrunner.bat" "monitor.bat" "mksdcard.exe" "lint.bat" "lib64/" "lib/" "jobb.bat" "hierarchyviewer.bat" "emulator64-crash-service.exe" "emulator.exe" "emulator-x86.exe" "emulator-mips.exe" "emulator-crash-service.exe" "emulator-check.exe" "emulator-arm.exe" "draw9patch.bat" "ddms.bat" "bin/" "apps/" "ant/" "android.bat" "../" "./")
+ ("c:/dev/Blueberry/lib/tracy/" (24251 21696 0 0) "TracyVulkan.hpp" "TracyOpenGL.hpp" "TracyLua.hpp" "TracyClient.cpp" "TracyC.h" "Tracy.hpp" "common/" "client/" "../" "./")
 
- ("c:/Android/android-sdk/build-tools/" (23528 50262 0 0) "28.0.3/" "27.0.3/" "26.0.2/" "../" "./")
+ ("c:/dev/Blueberry/pdf/" (24197 11759 0 0) "wkhtmltopdf.exe" "ventas.pdf" "ventas.html" "style.css" "hoja_servicio.html" "../" "./")
 
- ("c:/Android/android-sdk/" (23536 57786 0 0) "tools/" "temp/" "system-images/" "sources/" "platforms/" "platform-tools/" "patcher/" "ndk-bundle/" "licenses/" "fonts/" "extras/" "emulator/" "build-tools/" ".knownPackages" "../" "./")
+ ("c:/dev/Blueberry/src/debug/" (24186 25474 0 0) "gui_debug.cpp" "../" "./")
 
- ("c:/Android/SDK-ant/" (23518 3477 0 0) "sdk-tools-windows-4333796.zip" "../" "./")
+ ("c:/dev/Blueberry/tools/" (24189 7964 0 0) "stb_c_lexer.h" "data_gen_example.txt" "data_gen.pdb" "data_gen.ilk" "data_gen.exe" "data_gen.cpp" "../" "./")
 
- ("c:/Android/" (23536 57786 0 0) "tools_/" "SDK-ant/" "android-sdk/" ".knownPackages" "../" "./")
+ ("c:/dev/games/TicTacToe/" (24156 31766 0 0) "win32_main.obj" "vc140.pdb" "src/" "obj/" "build.bat" "bin/" ".git/" "../" "./")
 
- ("c:/Documentos/Projects/Something/src/com/urquieta/something/platform/pc/" (23647 33779 0 0) "View.java" "PCSound.java" "PCScreen.java" "PCRenderer.java" "PCMusic.java" "PCInput.java" "PCImageLoader.java" "PCImage.java" "PCAudio.java" "Context.java" "../" "./")
+ ("c:/dev/gladosaurio/" (24197 26554 0 0) "src/" "index.html" ".git/" "../" "./")
 
- ("c:/Documentos/Projects/Something/src/com/urquieta/something/game/board/" (23647 23644 0 0) "Wall.java" "Goals.java" "GameBoardObject.java" "GameBoard.java" "Circle.java" "../" "./")
+ ("c:/dev/Blueberry/env/reportes/" (24180 4128 0 0) "visitas.csv" "tickets.csv" "llamadas.csv" "../" "./")
 
- ("c:/Documentos/Tareas/19A/ing_software/" (23632 27392 0 0) "proyecto/" "act_2/" "actividad_1/" "../" "./")
+ ("c:/dev/Blueberry/material/" (24176 63127 0 0) "XML CLAUDIA.pdf" "SEGUIMIENTO DE COTIZACIONES.xlsx" "Reporte Actividades 2019.xlsx" "note.org" "MORITHA.png" "MORITHA.kra" "MORITHA.ico" "Llamadas_Clientes.xlsx" "IDEAZ-LOGO1.jpg" "IDEAZ-LOGO.jpg" "IDEAZ-LOGO TRANS.png" "IDEAZ-FIRMA.jpg" "IDEAZ TARJETA2.jpg" "IDEAZ TARJETA.jpg" "IDEAZ MISAEL.xlsx" "IDEAZ CONSULTORES LOGO.ai" "hoja.pdf" "hoja de servicio.jpg" "header.png" "header-contpaq.png" "GRISELDA CONTABILIDAD.pdf" "firma.png~" "firma.png" "Extractor-A.xls" "DATOS COMPLETOS DE EMPRESAS IDEAZ 2019.xlsx" "COM_BDD.pdf" "blueberry_database.db" "BDD ADM PV FE.pdf" "ADRIANA MARIN ANUAL.pdf" "adIDEAZ_CONULTORES_NU-20190927-1210-2012Express.bak" "../" "./")
 
- ("c:/Documentos/Tareas/19A/bases_de_datos/A03/" (23647 21056 0 0) "log/" "build.bat" "bin/" "A01.tex" ".#A01.tex" "../" "./")
+ ("c:/dev/PrettyPres/src/" (24189 33473 0 0) "main.hs" "lab.hs" "build.bat" "../" "./")
 
- ("c:/Documentos/Projects/" (23641 59886 0 0) "TDS/" "SomethingWithPower/" "Something/" "Simple_and_Clean/" "RememberIt/" "Reference/" "PenguinPlayer/" "LaGlaDOS/" "JADI/" "CProyectManager/" "arduino/" "../" "./")
+ ("d:/youtube/" (24183 50402 0 0) "reviews/" "../" "./")
 
- ("c:/Documentos/Tareas/" (23617 20626 0 0) "Libros/" "Imagenes/" "Entregable10-Firewall (1).docx" "Entregable09-VLAN.docx" "Entregable08-RouterInalambrico.docx" "Entregable06-SegmentacionConRouter.docx" "CitaBienevales2018B.pdf" "2018V/" "2018B/" "2018A/" "19A/" "../" "./")
+ ("d:/youtube/reviews/hello/" (24184 15909 0 0) "script.org" "../" "./")
 
- ("c:/Documentos/Projects/arduino/ventilador/" (23641 58017 0 0) "../" "./")
+ ("d:/youtube/reviews/" (24183 50433 0 0) "hollow_nice/" "../" "./")
 
- ("c:/Documentos/Tareas/19A/seguridad/act_1.2/" (23639 31853 0 0) "src/" "log/" "Control de acceso físico_conclusión.docx" "Conclusión Kenneth Alvarez.docx" "Conclucion personal 1.2 control de acceso fisico.docx" "bin/" "../" "./")
+ ("d:/youtube/reviews/hollow_nice/" (24183 50445 0 0) ".#script.org" "script.txt" "script.org" "raw/" "../" "./")
 
- ("c:/Documentos/Tareas/19A/seguridad/act_1.2/src/" (23639 32034 0 0) "build.bat" "act_1.1.tex" "../" "./")
+ ("c:/dev/la_glados/src/utils/" (24164 16151 0 0) "poll.rs" "mod.rs" "keywords.rs" "../" "./")
 
- ("c:/Documentos/Projects/arduino/password/" (23639 31421 0 0) "README.md" "program.exe" "program.cs" "password.ino" "../" "./")
+ ("c:/dev/Blueberry/bin/" (24172 10256 0 0) "win32_blueberry.sln" "win32_blueberry.pdb" "win32_blueberry.exe" "server.log" "Lato-Regular.ttf" "imgui.ini" "blueberry_used.dll" "blueberry_service_checker.pdb" "blueberry_service_checker.exe" "blueberry_server.sln" "blueberry_server.pdb" "blueberry_server.exe" "blueberry_database.db" "blueberry.pdb" "blueberry.lib" "blueberry.exp" "blueberry.dll" ".vs/" "../" "./")
 
- ("c:/Users/misae/Downloads/ArduinoCompurerCommunication-1/ComputerToArduino/ComputerToArduino/" (23629 61888 0 0) "publish/" "Properties/" "Program.cs" "obj/" "Form1.resx" "Form1.Designer.cs" "Form1.cs" "ComputerToArduino_TemporaryKey.pfx" "ComputerToArduino.csproj.user" "ComputerToArduino.csproj" "bin/" ".vs/" "../" "./")
+ ("e:/HandmadeHero/handmade/timer/" (24156 27304 0 0) "tensorflow.ctray" "skinning.ctray" "settings.ctray" "ray.ctray" "moustache.ctray" "ctray_overlay_window.h" "ctray_overlay_window.cpp" "ctray.rc" "ctray.h" "ctray.cpp" "clock.ico" "build.bat" "4coder.ctray" "../" "./")
 
- ("c:/Users/misae/Downloads/ArduinoCompurerCommunication-1/ComputerToArduino/" (23629 61888 0 0) "ComputerToArduino.sln" "ComputerToArduino/" ".vs/" "../" "./")
+ ("e:/HandmadeHero/handmade/tags/" (24156 27304 0 0) "intro_cutscene.hht" "intro_cutscene.backup" "fonts/" "base_game.hht" "base_game.backup" "../" "./")
 
- ("c:/Users/misae/Downloads/ArduinoCompurerCommunication-1/" (23629 61889 0 0) "schematic.png" "README.txt" "ComputerToArduino.exe" "ComputerToArduino/" "ArduinoCompurerCommunication.ino" "../" "./")
+ ("e:/HandmadeHero/handmade/sources/developer/fonts/" (23740 51285 0 0) "../" "./")
 
- ("c:/Users/misae/Downloads/" (23638 36528 0 0) "zonokai-theme-source-code.el" "weyland-yutani-theme-source-code.el" "TrabajosSMM.jpeg" "Thumbs.db" "Tareas.docx" "Tareas (1).docx" "tarea1.m" "T.7.docx" "T.5.docx" "T.4.docx" "T.3.docx" "sbcl-1.4.14-x86-windows-binary.msi" "Refri.xlsx" "rdassistant.application" "Practica4.docx" "practica3.docx" "Practica2.docx" "PRACTICA1.docx" "platformerGraphicsDeluxe_Updated.zip" "Máquinas Eléctricas y Transformadores Bhag S. Guru.pdf" "Máquinas Eléctricas - Jesus Fraile Mora libro.pdf" "My CV.pdf" "multisim 13/" "Modelo-Cuentas-para-Libros-Contables.doc" "MegaDownloader/" "MATLAB R2017a/" "Maquinas Eléctricas-Chapman-5ta-edición.pdf" "Justice.League.2017.720p.BRRip.1.1GB.MkvCage.mkv" "FRPSE4ZGA1BD540.zip" "Formato de reporte FIL 2018.docx" "forgers-win32-tutorial-source/" "fasmw172/" "Elementos de Electromagnetismo - 3ra Edición - Matthew N. O. Sadiku.PDF" "Diagrama.PNG" "desktop.ini" "deep-thought-theme-source-code.el" "CV.pdf" "cv-sin-experiencia.docx" "colorcop/" "CodeXL_Win_2.6.361.exe" "CodeXL_Quick_Start_Guide.pdf" "codexl-2.6-302.x86_64.rpm" "cdbg_build_0.0.0.7.zip" "cdbg/" "caracteristicas de documento final.jpg" "blue-mood-theme-source-code.el" "ArduinoCompurerCommunication-1/" "apeiron-standalone-2.94.exe" "alect-themes-source-code.el" "A0_00.pdf" "28827069_948783491954618_7293808947029285313_o.jpg" "../" "./")
+ ("e:/HandmadeHero/handmade/sources/developer/" (24051 59046 0 0) "fonts/" "../" "./")
 
- ("c:/Documentos/Projects/JADI/src/" (23637 61769 0 0) "Utils.cs" "SQL.cs" "Program.cs" "Polizas.cs" "MainWindow.cs" "DialogSQLInfo.cs" "DBF.cs" "Cuentas.cs" "build.bat" "AddAcountWindow.cs" "../" "./")
+ ("e:/HandmadeHero/handmade/sources/base_game/" (24051 59046 0 0) "sound/" "music/" "fonts/" "art/" "../" "./")
 
- ("c:/Documentos/Projects/JADI/" (23572 30483 0 0) "src/" "env/" "bin/" ".projectile" ".git/" "../" "./")
+ ("e:/HandmadeHero/handmade/sources/" (24051 59047 0 0) "templates/" "renderer_test/" "intro_cutscene/" "developer/" "base_game/" "../" "./")
 
- ("c:/Documentos/Projects/Reference/HyperNerd/src/" (23589 40808 0 0) "Main.hs" "Bot.hs" "../" "./")
+ ("e:/HandmadeHero/handmade/retired/" (24156 27304 0 0) "handmade_render_group.h" "handmade_render_group.cpp" "handmade_render.h" "handmade_render.cpp" "handmade_debug_ui.h" "handmade_debug_ui.cpp" "../" "./")
 
- ("c:/Documentos/Projects/Reference/HyperNerd/" (23589 40808 0 0) "tsoder2.cabal" "stack.yaml" "src/" "Setup.hs" "Notes.org" "LICENSE" "default.nix" "ChangeLog.md" ".gitignore" ".git/" "../" "./")
+ ("e:/HandmadeHero/handmade/test/" (24156 27304 0 0) "hh_capture.png" "handmade_ray.png" "gimp_test_small.png" "gimp_test.png" "gimp_8x8_compression0.png" "gimp_8x8complex_compression0.png" "gimp_8x8complex.png" "gimp_8x8.png" "gimp_64x64.png" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

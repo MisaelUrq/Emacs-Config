@@ -89,3 +89,17 @@ sbcl --load quicklisp.lisp
 cd c:/Documentos/Projects/
 sbcl 
 ls
+cd 
+'../'
+cd "../"
+cd "../"
+cd "../"
+cd "../"
+cd "../"
+cd "../"
+(> (string-width default-directory) 4)
+(> (string-width default-directory) 4)
+(> (string-width default-directory) 1)
+(> (string-width default-directory) 3)
+(> (string-width default-directory) 2)
+(> (string-width default-directory) 3)

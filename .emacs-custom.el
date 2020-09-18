@@ -14,12 +14,18 @@
  '(global-hi-lock-mode t)
  '(global-hl-line-mode 0)
  '(global-undo-tree-mode nil)
+ '(grep-command "grep -inr \"\" .")
+ '(grep-find-template "grep -nr \"\" .")
  '(indent-tabs-mode nil)
  '(inhibit-startup-screen t)
+ '(kotlin-tab-width 4)
  '(menu-bar-mode nil)
+ '(org-agenda-files
+   (quote
+    ("d:/escuela/2020B/traductor_lenguajes/notes.org" "d:/escuela/2020B/simulaciones/notes.org" "d:/escuela/2020B/seminario_conocimiento/notes.org" "d:/escuela/2020B/class_inteligente_datos/notes.org")))
  '(package-selected-packages
    (quote
-    (pdf-tools multiple-cursors json-mode php-mode web-mode move-text arduino-mode gh-md cargo kotlin-mode alect-themes underwater-theme omnisharp company-go company-racer helm-company company yasnippet neotree csharp-mode emmet-mode go-mode haskell-mode nasm-mode rust-mode js2-mode helm-gtags helm-rtags rtags ggtags smooth-scroll helm-projectile org-projectile projectile evil evil-magit evil-org golden-ratio helm magit gruber-darker-theme)))
+    (haskell-mode pdf-tools multiple-cursors json-mode php-mode web-mode move-text arduino-mode gh-md kotlin-mode alect-themes underwater-theme omnisharp company-go company-racer helm-company company yasnippet neotree csharp-mode emmet-mode go-mode nasm-mode js2-mode helm-gtags helm-rtags rtags ggtags smooth-scroll helm-projectile org-projectile projectile evil-magit evil-org golden-ratio helm magit gruber-darker-theme)))
  '(parens-require-spaces nil)
  '(ring-bell-function (quote ignore))
  '(show-paren-mode t)

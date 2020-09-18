@@ -98,7 +98,6 @@
    (point-max)
    (format "remedybg.exe add-breakpoint-at-function %s" function-name)))
 
-
 (add-hook 'c++-mode-hook
           (lambda ()
             (define-key c++-mode-map (kbd "C-c c") 'c-insert-case)

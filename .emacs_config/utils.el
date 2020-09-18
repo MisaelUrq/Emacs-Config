@@ -14,9 +14,12 @@
 (defun find-project-directory-recursive ()
   "Recursively search for a makefile."
   (interactive)
+  (setq prev-directory (format "%s" default-directory))
   (if (file-exists-p casey-makescript) t
     (cd "../")
-    (find-project-directory-recursive)))
+    (if (> (string-width default-directory) 3) (find-project-directory-recursive)
+      (cd prev-directory)
+      ("Could not found build.bat"))))
 
 (defun lock-compilation-directory ()
   "The compilation process should NOT hunt for a makefile"
@@ -55,7 +58,9 @@
   "Make the current build."
   (interactive)
   (split-if-only-one-window)
+  (setq prev-directory default-directory)
   (if (find-project-directory) (compile casey-makescript))
+  (setq default-directory prev-directory)
   (visual-line-mode 1))
 
 (define-globalized-minor-mode

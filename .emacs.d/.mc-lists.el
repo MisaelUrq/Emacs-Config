@@ -3,6 +3,7 @@
 
 (setq mc/cmds-to-run-for-all
       '(
+        backward-kill-sentence
         beginning-of-visual-line
         c-electric-brace
         c-electric-colon
@@ -11,13 +12,26 @@
         c-electric-semi&comma
         c-electric-slash
         c-electric-star
+        c-hungry-delete-backwards
         c-indent-line-or-region
+        cargo-process-build
         dabbrev-expand
+        emmet-expand-line
         end-of-visual-line
+        evil-backward-char
+        evil-backward-word-begin
+        evil-copy-from-above
+        evil-find-char
+        evil-forward-char
+        evil-forward-word-begin
+        evil-insert
+        evil-normal-state
         fill-paragraph
         ignore
+        indent-for-tab-command
         indent-region
         insert-parentheses
+        kill-region
         kill-visual-line
         mc/vertical-align
         mc/vertical-align-with-space
@@ -27,4 +41,6 @@
       '(
         c-electric-pound
         helm-M-x
+        markdown-outdent-or-delete
+        web-mode-mark-and-expand
         ))

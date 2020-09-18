@@ -3,7 +3,7 @@
 ;; just comment it out by adding a semicolon to the start of the line.
 ;; You may delete these explanatory comments.
 (require 'package)
-(add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/"))
+(add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/"))
 (package-initialize)
 
 (load "~/.emacs_config/global.el")
@@ -13,6 +13,7 @@
 (load "~/.emacs_config/key_config.el")
 (load "~/.emacs_config/projectile-config.el")
 (load "~/.emacs_config/magit-config.el")
+(load "~/.emacs_config/evil-config.el")
 (load "~/.emacs_config/rust-mode.el")
 (load "~/.emacs_config/html-config.el")
 (load "~/.emacs_config/php-config.el")
@@ -21,6 +22,7 @@
 (load "~/.emacs_config/csharp-config.el")
 (load "~/.emacs_config/haskell-config.el")
 (load "~/.emacs_config/org-config.el")
+(load "~/.emacs_config/kt-config.el")
 
 (setq custom-file "~/.emacs-custom.el")
 (load "~/odin-mode/odin-mode")
